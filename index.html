@@ -1,0 +1,406 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Ziyani Private Vault</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body class="locked">
+    <section class="login-gate" id="login-gate" aria-label="Ziyani vault login">
+      <form class="login-card" id="login-form">
+        <span class="eyebrow">Private Vault</span>
+        <img class="login-logo" src="./assets/brand/ziyani-wordmark-transparent.png" alt="Ziyani" />
+        <p>Light your alignment.</p>
+        <label>
+          Login name
+          <input id="login-name" type="text" autocomplete="username" />
+        </label>
+        <label>
+          Password
+          <input id="login-password" type="password" autocomplete="current-password" />
+        </label>
+        <p class="login-error" id="login-error" role="alert"></p>
+        <button type="submit">Enter Vault</button>
+      </form>
+    </section>
+
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="Vault navigation">
+        <div class="brand-block">
+          <span class="eyebrow">Private Vault</span>
+          <img class="brand-logo" src="./assets/brand/ziyani-wordmark-transparent.png" alt="Ziyani" />
+          <p>Light your alignment.</p>
+        </div>
+
+        <nav class="main-nav">
+          <button class="nav-link active" data-view="startup">Startup</button>
+          <button class="nav-link" data-view="starter">Startup Kit</button>
+          <button class="nav-link" data-view="about">About</button>
+          <button class="nav-link" data-view="classroom">Classroom</button>
+          <button class="nav-link" data-view="academy">Academy</button>
+          <button class="nav-link" data-view="zodiac">Zodiac</button>
+          <button class="nav-link" data-view="angel">Angel Numbers</button>
+          <button class="nav-link" data-view="combinations">Combinations</button>
+          <button class="nav-link" data-view="designs">Designs</button>
+          <button class="nav-link" data-view="candles">Candles 101</button>
+          <button class="nav-link" data-view="milestones">Milestones</button>
+        </nav>
+
+        <div class="side-note">
+          <strong>Live spelling:</strong>
+          <span>Ziyani. Lumea was the original working name.</span>
+        </div>
+      </aside>
+
+      <main class="workspace">
+        <section class="topbar">
+          <div>
+            <p class="eyebrow" id="section-kicker">Jocelyn's hub</p>
+            <h2 id="section-title">Startup Command Center</h2>
+          </div>
+          <div class="quick-stats">
+            <div><strong>12</strong><span>Zodiacs</span></div>
+            <div><strong>9</strong><span>Accents</span></div>
+            <div><strong>108</strong><span>Pairings</span></div>
+          </div>
+        </section>
+
+        <section id="view-startup" class="view active">
+          <div class="hero-panel">
+            <div>
+              <span class="status-pill">Founder Prep</span>
+              <h3>Build the maker before scaling the brand.</h3>
+              <p>
+                This vault is Jocelyn's private place to study candle making, see the Ziyani product system,
+                review labels, track milestones, and know exactly what to practice next.
+              </p>
+            </div>
+            <div class="emblem-card">
+              <img src="./assets/brand/crescent-flame-emblem.png" alt="Ziyani crescent flame emblem" />
+            </div>
+            <div class="focus-card">
+              <span>Current Focus</span>
+              <strong>Libra proof line</strong>
+              <p>Use Libra to validate wax, wick, fragrance load, labels, photos, and the sales story before expanding.</p>
+            </div>
+          </div>
+
+          <article class="vision-panel">
+            <img src="./assets/brand/storefront-vision.jpeg" alt="Ziyani storefront vision" />
+            <div>
+              <span class="status-pill">Vision Board</span>
+              <h3>See the room before it exists.</h3>
+              <p>
+                This is the long-range picture: a storefront that feels premium, divine, and magnetic. The vault keeps today's work connected to that future without rushing the process.
+              </p>
+            </div>
+          </article>
+
+          <div class="grid two">
+            <article class="panel">
+              <h3>First 30 Days</h3>
+              <div id="startup-plan" class="timeline"></div>
+            </article>
+            <article class="panel">
+              <h3>Spend the First $500-$1,000 on Learning</h3>
+              <ul class="clean-list">
+                <li>One vessel style, one wax path, and a wick sample kit.</li>
+                <li>Libra base fragrance plus a small set of accent oils first.</li>
+                <li>Scale, thermometer, pour pitcher, heat gun, warning labels, and batch sheets.</li>
+                <li>No bulk buying until burn tests prove the formula.</li>
+              </ul>
+            </article>
+          </div>
+
+          <div class="grid three">
+            <article class="metric-card">
+              <span>Product Truth</span>
+              <strong>12 x 9</strong>
+              <p>Zodiac base plus angel-number accent equals the full candle system.</p>
+            </article>
+            <article class="metric-card">
+              <span>Design Truth</span>
+              <strong>Number = Color</strong>
+              <p>The angel-number color system stays consistent across all zodiacs.</p>
+            </article>
+            <article class="metric-card">
+              <span>Launch Truth</span>
+              <strong>Test First</strong>
+              <p>Every sellable candle needs burn notes, scent notes, and label approval.</p>
+            </article>
+          </div>
+        </section>
+
+        <section id="view-starter" class="view">
+          <div class="classroom-header">
+            <div>
+              <span class="status-pill">$500-$1,000 Plan</span>
+              <h3>Buy a learning lab, not a warehouse.</h3>
+              <p>
+                Jocelyn's first money should create repeatable skill: tools, safe materials, test vessels, fragrance samples,
+                labels, and a way to record every result.
+              </p>
+            </div>
+            <div class="classroom-score">
+              <strong>$500+</strong>
+              <span>Starter Range</span>
+            </div>
+          </div>
+
+          <article class="panel">
+            <h3>Piece-By-Piece Breakdown</h3>
+            <div id="starter-kit-list" class="kit-grid"></div>
+          </article>
+
+          <div class="grid two">
+            <article class="panel">
+              <h3>Buy First</h3>
+              <div id="starter-buy-first" class="study-stack"></div>
+            </article>
+            <article class="panel">
+              <h3>Do Not Buy Yet</h3>
+              <div id="starter-wait-list" class="study-stack"></div>
+            </article>
+          </div>
+        </section>
+
+        <section id="view-about" class="view">
+          <div class="about-hero">
+            <img src="./assets/brand/ziyani-wordmark-transparent.png" alt="Ziyani wordmark" />
+            <div>
+              <span class="status-pill">Brand Foundation</span>
+              <h3>Ziyani is a faith-aware ritual fragrance brand built for reflection, alignment, and atmosphere.</h3>
+              <p>
+                The zodiac is the base energy. The angel number is the accent energy. The candle is the lived experience:
+                identity meeting intention through scent.
+              </p>
+            </div>
+          </div>
+
+          <div class="grid two">
+            <article class="panel">
+              <h3>What The Brand Is</h3>
+              <ul class="clean-list">
+                <li>A modular candle system: 12 zodiac bases and 9 angel-number accents.</li>
+                <li>A private reflection tool customers can use to name the energy they want to embody.</li>
+                <li>A sensory brand rooted in beauty, emotional clarity, intention, and God-centered awareness.</li>
+                <li>A future lifestyle space, not just a candle shelf.</li>
+              </ul>
+            </article>
+            <article class="panel">
+              <h3>What The Brand Is Not</h3>
+              <ul class="clean-list">
+                <li>Not worship of numbers.</li>
+                <li>Not spirit communication.</li>
+                <li>Not divination.</li>
+                <li>Not a replacement for God, Christ, prayer, discernment, or scripture.</li>
+              </ul>
+            </article>
+          </div>
+
+          <article class="panel">
+            <h3>Godly Or Demonic?</h3>
+            <div class="study-grid">
+              <div class="study-point">
+                <strong>Grounding</strong>
+                <p>Everything begins and ends with God. Ziyani does not teach that numbers have power. God has power.</p>
+              </div>
+              <div class="study-point">
+                <strong>Angel Numbers</strong>
+                <p>Numbers are treated as moments of attention: pause, reflect, pray, and notice what God may already be doing.</p>
+              </div>
+              <div class="study-point">
+                <strong>Biblical Pattern</strong>
+                <p>Scripture uses repetition, numbers, signs, seasons, and symbols to call people into awareness. The sign is not the source. God is.</p>
+              </div>
+              <div class="study-point">
+                <strong>Simple Answer</strong>
+                <p>We do not believe numbers have power. God does. The numbers remind us to pause, reflect, and seek Him.</p>
+              </div>
+            </div>
+          </article>
+        </section>
+
+        <section id="view-classroom" class="view">
+          <div class="classroom-header">
+            <div>
+              <span class="status-pill">Friday Reset</span>
+              <h3>Study the brand. Study the craft. Prove the knowledge.</h3>
+              <p id="quiz-week-label">Weekly quiz</p>
+            </div>
+            <div class="classroom-score">
+              <strong id="quiz-score">0/20</strong>
+              <span>Current Score</span>
+            </div>
+          </div>
+
+          <div class="grid two">
+            <article class="panel">
+              <h3>Main Points</h3>
+              <div id="classroom-points" class="study-stack"></div>
+            </article>
+            <article class="panel">
+              <h3>Weekly Focus</h3>
+              <div id="weekly-focus" class="study-stack"></div>
+            </article>
+          </div>
+
+          <article class="panel">
+            <h3>Study Files</h3>
+            <div id="study-file-links" class="resource-list"></div>
+          </article>
+
+          <article class="panel quiz-panel">
+            <div class="quiz-topline">
+              <div>
+                <h3>20 Question Quiz</h3>
+                <p>New set every Friday. Multiple choice. Brand knowledge plus candle-making fundamentals.</p>
+              </div>
+              <button id="reset-weekly-quiz" class="secondary-button" type="button">Clear answers</button>
+            </div>
+            <form id="weekly-quiz" class="quiz-list"></form>
+          </article>
+        </section>
+
+        <section id="view-academy" class="view">
+          <div class="classroom-header">
+            <div>
+              <span class="status-pill">Expert Track</span>
+              <h3>Ziyani Academy is the path from beginner to candle professional.</h3>
+              <p>
+                Jocelyn should not just memorize terms. She needs to prove skill through batches, burn tests,
+                product decisions, customer language, and quality control.
+              </p>
+            </div>
+            <div class="classroom-score">
+              <strong>5</strong>
+              <span>Training Levels</span>
+            </div>
+          </div>
+
+          <article class="panel">
+            <h3>Training Path</h3>
+            <div id="academy-levels" class="academy-levels"></div>
+          </article>
+
+          <div class="grid two">
+            <article class="panel">
+              <h3>Mastery Standards</h3>
+              <div id="mastery-standards" class="study-stack"></div>
+            </article>
+            <article class="panel">
+              <h3>Weekly Practice Rhythm</h3>
+              <div id="practice-rhythm" class="study-stack"></div>
+            </article>
+          </div>
+        </section>
+
+        <section id="view-zodiac" class="view">
+          <div class="tool-row">
+            <label>
+              Zodiac
+              <select id="zodiac-select"></select>
+            </label>
+          </div>
+          <div id="zodiac-detail"></div>
+        </section>
+
+        <section id="view-angel" class="view">
+          <div class="tool-row">
+            <label>
+              Angel Number
+              <select id="angel-select"></select>
+            </label>
+          </div>
+          <div id="angel-detail"></div>
+        </section>
+
+        <section id="view-combinations" class="view">
+          <div class="tool-row wrap">
+            <label>
+              Zodiac
+              <select id="combo-zodiac-select"></select>
+            </label>
+            <label>
+              Angel Number
+              <select id="combo-angel-select"></select>
+            </label>
+            <button id="show-all-combos" class="secondary-button">Show all for zodiac</button>
+          </div>
+          <div id="combo-detail"></div>
+        </section>
+
+        <section id="view-designs" class="view">
+          <div class="tool-row wrap">
+            <label>
+              Design Library
+              <select id="design-select"></select>
+            </label>
+          </div>
+          <div id="design-detail"></div>
+        </section>
+
+        <section id="view-candles" class="view">
+          <article class="panel learning-intro">
+            <h3>Candle Makers 101</h3>
+            <p>
+              This page is for true beginner learning. Open each lesson, study the terms, then use the quiz and batch notes to prove the knowledge in real candles.
+            </p>
+          </article>
+          <div class="grid two">
+            <article class="panel">
+              <h3>Beginner Modules</h3>
+              <div id="candles-basics" class="stack"></div>
+            </article>
+            <article class="panel">
+              <h3>Watch and Learn</h3>
+              <div id="learning-links" class="resource-list"></div>
+            </article>
+          </div>
+          <article class="panel">
+            <h3>Suppliers and Research</h3>
+            <div id="supplier-list" class="supplier-grid"></div>
+          </article>
+        </section>
+
+        <section id="view-milestones" class="view">
+          <div class="grid two">
+            <article class="panel">
+              <h3>Milestones</h3>
+              <div id="milestone-list" class="check-stack"></div>
+            </article>
+            <article class="panel">
+              <h3>Jocelyn's Checklist</h3>
+              <form id="task-form" class="task-form">
+                <input id="task-input" type="text" placeholder="Add a task, test, supply, or idea" />
+                <button type="submit">Add</button>
+              </form>
+              <div id="custom-tasks" class="check-stack"></div>
+            </article>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <audio id="vault-audio" src="./assets/audio/divine-feminine-energy.mp3" loop preload="auto"></audio>
+    <div class="study-modal" id="study-modal" aria-hidden="true">
+      <div class="study-modal-backdrop" data-close-study></div>
+      <section class="study-reader" role="dialog" aria-modal="true" aria-labelledby="study-reader-title">
+        <header class="study-reader-header">
+          <div>
+            <span class="status-pill">Study File</span>
+            <h3 id="study-reader-title">Study File</h3>
+          </div>
+          <button class="icon-button" type="button" data-close-study aria-label="Close study file">x</button>
+        </header>
+        <div class="study-reader-body" id="study-reader-body"></div>
+      </section>
+    </div>
+    <button class="music-toggle" id="music-toggle" type="button" aria-label="Play music" title="Play or pause music">
+      <span id="music-icon">Play</span>
+    </button>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
