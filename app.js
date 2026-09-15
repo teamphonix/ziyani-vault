@@ -1127,7 +1127,29 @@ function init() {
   fillSelect(document.querySelector("#design-select"), zodiacs, (item) => item.sign, (item) => `${item.sign} designs`);
   document.querySelector("#design-select").value = "Leo";
 
-  document.querySelectorAll(".nav-link").forEach((button) => button.addEventListener("click", () => setView(button.dataset.view)));
+  const sidebar = document.querySelector(".sidebar");
+  const menuToggle = document.querySelector("#menu-toggle");
+  const closeMobileMenu = () => {
+    sidebar.classList.remove("menu-open");
+    menuToggle.setAttribute("aria-expanded", "false");
+    menuToggle.setAttribute("aria-label", "Open navigation menu");
+  };
+
+  menuToggle.addEventListener("click", () => {
+    const willOpen = !sidebar.classList.contains("menu-open");
+    sidebar.classList.toggle("menu-open", willOpen);
+    menuToggle.setAttribute("aria-expanded", String(willOpen));
+    menuToggle.setAttribute("aria-label", willOpen ? "Close navigation menu" : "Open navigation menu");
+  });
+
+  document.querySelectorAll(".nav-link").forEach((button) => button.addEventListener("click", () => {
+    setView(button.dataset.view);
+    closeMobileMenu();
+  }));
+
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") closeMobileMenu();
+  });
   document.querySelector("#zodiac-select").addEventListener("change", renderZodiac);
   document.querySelector("#angel-select").addEventListener("change", renderAngel);
   document.querySelector("#combo-zodiac-select").addEventListener("change", () => renderCombinations(false));
