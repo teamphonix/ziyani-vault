@@ -134,17 +134,18 @@ function sentences(text) {
 for (const [sign, combinations] of Object.entries(context.catalog)) {
   for (const [number, entry] of Object.entries(combinations)) {
     const words = themes[sign][number];
-    entry.definition = reframeDefinition(entry.definition);
-    entry.websiteCopy = entry.definition;
-    entry.packagingCopy = entry.definition;
-    entry.socialCopy = entry.definition;
-
     const sourceSentences = sentences(entry.definition);
     const opening = sourceSentences[0] || entry.definition;
     const outcome = sourceSentences.at(-1) || entry.definition;
     const title = entry.title.replace(/\s+/g, " ").trim();
 
     entry.threeWords = words;
+    if (entry.copyVersion === "poetic-v1") continue;
+
+    entry.definition = reframeDefinition(entry.definition);
+    entry.websiteCopy = entry.definition;
+    entry.packagingCopy = entry.definition;
+    entry.socialCopy = entry.definition;
     entry.wordMeanings = {
       [words[0]]: `${words[0]} names the first quality held in ${title}. It reflects this truth: ${opening}`,
       [words[1]]: `${words[1]} names the active practice in this pairing. It invites a conscious way of moving, choosing, and responding while listening for God's direction.`,
