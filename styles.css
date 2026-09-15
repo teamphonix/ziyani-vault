@@ -1100,8 +1100,12 @@ input {
 .character-profile { display: grid; grid-template-columns: minmax(240px, 42%) 1fr; gap: 24px; align-items: center; }
 .character-reference { width: 100%; max-height: 620px; object-fit: contain; border: 1px solid var(--line); background: #f3efe8; }
 .status-pill { display: inline-flex; padding: 7px 10px; border: 1px solid rgba(110,212,201,.45); color: var(--teal); font-size: 13px; font-weight: 800; }
-.placeholder-art { display: grid; align-content: center; gap: 6px; }
-.placeholder-art span { color: var(--muted); font-size: 13px; }
+.placeholder-art { display: grid; align-content: center; gap: 14px; }
+.placeholder-label { color: var(--gold); font-size: 12px; font-weight: 900; letter-spacing: .08em; text-transform: uppercase; }
+.placeholder-details { width: 100%; margin: 0; padding-left: 24px; display: grid; gap: 12px; text-align: left; }
+.placeholder-details li { padding-left: 4px; color: var(--gold); }
+.placeholder-details strong { display: block; color: #fff7e8; font-size: 13px; line-height: 1.25; }
+.placeholder-details span { display: block; margin-top: 3px; color: var(--muted); font-size: 14px; line-height: 1.35; }
 .guide-grid, .standards-grid { display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: 16px; margin-bottom: 16px; }
 .face-grid { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 14px; margin-bottom: 16px; }
 .face-card h4, .face-card p { margin-bottom: 8px; }
@@ -1242,12 +1246,54 @@ input {
   }
 
   .sidebar {
-    position: relative;
+    position: sticky;
+    z-index: 20;
+    top: 0;
     height: auto;
+    padding: 14px 18px;
+    gap: 12px;
+    overflow: visible;
+    border-bottom: 1px solid rgba(184, 117, 255, 0.34);
+    box-shadow: 0 12px 30px rgba(0, 0, 0, .38);
   }
 
   .main-nav {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .nav-link {
+    width: auto;
+    min-height: 38px;
+    padding: 0 14px;
+    border-color: rgba(184, 117, 255, .28);
+    border-radius: 999px;
+    background: rgba(255, 255, 255, .035);
+    text-align: center;
+    font-size: 14px;
+    font-weight: 800;
+  }
+
+  .brand-block {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+  }
+
+  .brand-block .eyebrow,
+  .brand-block p,
+  .side-note {
+    display: none;
+  }
+
+  .brand-logo {
+    width: 150px;
+    margin: 0;
   }
 
   .topbar,
@@ -1285,16 +1331,18 @@ input {
 
   .main-nav {
     display: flex;
+    flex-wrap: wrap;
     gap: 8px;
-    overflow-x: auto;
-    padding-bottom: 3px;
-    scroll-snap-type: x mandatory;
+    overflow: visible;
+    padding: 0;
   }
 
   .nav-link {
-    flex: 0 0 auto;
-    min-width: 140px;
-    scroll-snap-align: start;
+    flex: 0 1 auto;
+    min-width: 0;
+    min-height: 36px;
+    padding: 0 11px;
+    font-size: 13px;
   }
 
   .topbar {
@@ -1302,8 +1350,8 @@ input {
   }
 
   .sidebar {
-    gap: 16px;
-    padding: 18px 18px 34px;
+    gap: 12px;
+    padding: 12px 14px 14px;
   }
 
   .brand-block {
