@@ -121,47 +121,6 @@ const angels = [
   { number: "999", name: "The Completion", fragrance: "Clean Linen + Mineral Air", meaning: "Closure, release, integration, and readiness for the next path.", tags: ["Closure", "Clear", "Complete"] }
 ];
 
-const libraCopy = {
-  "111": { title: "Clear Harmony", attributes: ["Clarity", "Graceful Beginnings", "Aligned Choices"], copy: "Libra brings grace, fairness, and aesthetic clarity. With 111, this refined energy becomes purposeful initiation rather than hesitation." },
-  "222": { title: "Quiet Balance", attributes: ["Peace", "Emotional Steadiness", "Relational Ease"], copy: "Libra seeks balance, and 222 embodies it. This candle supports peace in relationships, steady emotions, and effortless alignment." },
-  "333": { title: "Creative Grace", attributes: ["Expression", "Beauty", "Playful Refinement"], copy: "Libra is beauty in motion, and 333 is joyful expression. This pairing encourages creative collaboration and confident style." },
-  "444": { title: "Steady Elegance", attributes: ["Grounded Poise", "Boundaries", "Calm Authority"], copy: "Libra leads with charm, and 444 anchors that charm in quiet strength. This candle supports boundaries and composed confidence." },
-  "555": { title: "Fluid Balance", attributes: ["Open Flow", "Gentle Change", "Social Ease"], copy: "Libra values harmony, and 555 invites fluid change. Burn this when you are ready to evolve relationships and move forward with balance." },
-  "666": { title: "Embodied Grace", attributes: ["Warm Presence", "Self-Care", "Gentle Sensuality"], copy: "Libra lives in beauty, and 666 brings presence into the body. This candle supports slowing down and inhabiting elegance from within." },
-  "777": { title: "Intuitive Harmony", attributes: ["Inner Knowing", "Subtle Clarity", "Spiritual Calm"], copy: "Libra sees many perspectives, and 777 reveals the core truth. This candle supports trusting intuition in relationships." },
-  "888": { title: "Radiant Poise", attributes: ["Confidence", "Magnetism", "Social Power"], copy: "Libra attracts naturally, and 888 amplifies that magnetism. Burn this when you want to feel valued and confidently present." },
-  "999": { title: "Refined Release", attributes: ["Letting Go", "Closure", "Emotional Clarity"], copy: "Libra harmonizes, and 999 completes. This candle supports graceful endings, emotional release, and moving forward with a balanced heart." }
-};
-
-const sagittariusCopy = {
-  "111": { title: "Brave Opening", attributes: ["Courage", "Fresh Start", "Direction"], copy: "Sagittarius brings movement, truth, and the desire to see what waits beyond the known. With 111, that energy becomes a clean first step." },
-  "222": { title: "Open Trust", attributes: ["Faith", "Ease", "Shared Motion"], copy: "Sagittarius moves by faith, and 222 softens that motion into trust. This candle supports ease and emotional openness." },
-  "333": { title: "Wild Expression", attributes: ["Joy", "Voice", "Creative Fire"], copy: "Sagittarius carries a fire that wants to speak, laugh, explore, and create. With 333, that fire becomes expressive joy." },
-  "444": { title: "Rooted Freedom", attributes: ["Discipline", "Grounding", "Inner Compass"], copy: "Sagittarius wants freedom, but 444 gives it structure. This candle supports the kind of freedom that comes from knowing where you stand." },
-  "555": { title: "Expansive Shift", attributes: ["Movement", "Release", "New Territory"], copy: "Sagittarius already leans toward the horizon; 555 opens the road wider. Burn this when change is calling and you are ready to move." },
-  "666": { title: "Present Adventure", attributes: ["Embodiment", "Warmth", "Lived Joy"], copy: "Sagittarius looks outward, while 666 brings the energy back into the body. Adventure is also how fully you inhabit now." },
-  "777": { title: "Guided Horizon", attributes: ["Intuition", "Wisdom", "Clear Vision"], copy: "Sagittarius seeks meaning; 777 refines that search into inner guidance. This candle supports trusting the signs toward your higher path." },
-  "888": { title: "Abundant Aim", attributes: ["Confidence", "Momentum", "Magnetic Growth"], copy: "Sagittarius carries momentum, and 888 turns that motion toward abundance. This candle supports growth, opportunity, and aiming higher." },
-  "999": { title: "Completed Journey", attributes: ["Closure", "Integration", "Higher Path"], copy: "Sagittarius understands that every road teaches something. With 999, the open horizon becomes completion and release." }
-};
-
-const designAssets = {
-  Libra: {
-    brief: "Libra is the reference line. The visuals use cosmic movement, gold type, balance, constellation language, and the color system tied to each angel number.",
-    items: [
-      { number: "111", title: "Clear Harmony", src: "./assets/libra/libra-111-final.jpg", status: "final" },
-      { number: "222", title: "Quiet Balance", src: "./assets/libra/libra-222-semifinal.jpg", status: "semi-final" },
-      { number: "333", title: "Creative Grace", src: "./assets/libra/libra-333-final.jpg", status: "final" },
-      { number: "444", title: "Steady Elegance", src: "", status: "asset needed" },
-      { number: "555", title: "Fluid Balance", src: "./assets/libra/libra-555-final.jpg", status: "final" },
-      { number: "666", title: "Embodied Grace", src: "./assets/libra/libra-666-final.jpg", status: "final" },
-      { number: "777", title: "Intuitive Harmony", src: "./assets/libra/libra-777-final.jpg", status: "final" },
-      { number: "888", title: "Radiant Poise", src: "./assets/libra/libra-888-final.jpg", status: "final" },
-      { number: "999", title: "Refined Release", src: "./assets/libra/libra-999-final.jpg", status: "final" }
-    ]
-  }
-};
-
 const zodiacCharacters = {
   Aries: "./assets/characters/aries.png", Taurus: "./assets/characters/taurus.png",
   Gemini: "./assets/characters/gemini.png", Cancer: "./assets/characters/cancer.png",
@@ -462,19 +421,6 @@ const loginCredentials = {
   password: "Ziyani1010!"
 };
 
-const titles = {
-  Aries: ["Fresh Spark", "Brave Union", "Expressive Fire", "Built Courage", "Clean Break", "Embodied Flame", "Inner Signal", "Magnetic Action", "Completed Start"],
-  Taurus: ["Grounded Start", "Soft Stability", "Sensual Craft", "Rooted Worth", "Open Ground", "Body Luxury", "Quiet Knowing", "Abundant Value", "Peaceful Release"],
-  Gemini: ["Clear Signal", "Balanced Voice", "Bright Expression", "Structured Thought", "Fresh Current", "Present Mind", "Intuitive Message", "Magnetic Voice", "Clean Closure"],
-  Cancer: ["Tender Beginning", "Sacred Ease", "Creative Shelter", "Protected Heart", "Emotional Shift", "Nurtured Body", "Inner Tide", "Magnetic Care", "Gentle Goodbye"],
-  Leo: ["Radiant Start", "Golden Union", "Creative Crown", "Steady Flame", "Open Spotlight", "Embodied Glow", "Heart Wisdom", "Magnetic Shine", "Noble Release"],
-  Virgo: ["Clean Beginning", "Ordered Peace", "Refined Expression", "Sacred Structure", "Fresh Reset", "Embodied Care", "Precise Knowing", "Valued Mastery", "Clean Completion"],
-  Scorpio: ["Focused Beginning", "Deep Trust", "Shadow Art", "Protected Power", "Transforming Current", "Embodied Desire", "Hidden Truth", "Magnetic Depth", "Sacred Ending"],
-  Capricorn: ["Purposeful Start", "Steady Alliance", "Crafted Authority", "Legacy Root", "Strategic Shift", "Embodied Discipline", "Long Vision", "Magnetic Status", "Earned Completion"],
-  Aquarius: ["Future Signal", "Aligned Community", "Original Voice", "Structured Vision", "Electric Shift", "Embodied Difference", "Clear Download", "Magnetic Future", "Released Pattern"],
-  Pisces: ["Dream Opening", "Soft Trust", "Inspired Tide", "Sacred Anchor", "Fluid Change", "Embodied Dream", "Mystic Clarity", "Magnetic Compassion", "Peaceful Surrender"]
-};
-
 function getZodiac(sign) {
   return zodiacs.find((item) => item.sign === sign);
 }
@@ -487,16 +433,18 @@ function getCombo(sign, number) {
   const zodiac = getZodiac(sign);
   const angel = getAngel(number);
   const source = productCatalog?.[sign]?.[number];
-  const approvedAttributes = sign === "Libra"
-    ? libraCopy[number].attributes
-    : sign === "Sagittarius"
-      ? sagittariusCopy[number].attributes
-      : [zodiac.tags[0], angel.tags[0], zodiac.tags[1]];
+  const approvedAttributes = source?.threeWords || [zodiac.tags[0], angel.tags[0], zodiac.tags[1]];
   return {
     title: source?.title || `${zodiac.name} ${angel.name}`,
     attributes: approvedAttributes,
     copy: source?.definition || `${zodiac.sign} brings ${zodiac.tags.join(", ").toLowerCase()} into the room. Paired with ${number}, it becomes a candle for ${angel.meaning.toLowerCase()}`,
-    status: source?.status || "working"
+    status: source?.status || "working",
+    wordMeanings: source?.wordMeanings || {},
+    expandedMeaning: source?.expandedMeaning || "",
+    reflection: source?.reflection || "",
+    websiteCopy: source?.websiteCopy || source?.definition || "",
+    packagingCopy: source?.packagingCopy || "",
+    socialCopy: source?.socialCopy || ""
   };
 }
 
@@ -507,8 +455,8 @@ function setView(view) {
   const titlesByView = {
     startup: ["Jocelyn's hub", "Startup Command Center"],
     starter: ["Founder buying plan", "Startup Kit"],
-    zodiac: ["Zodiac base fragrances", "Zodiac Definitions"],
-    angel: ["Accent fragrances", "Angel Numbers"],
+    zodiac: ["Zodiac identity system", "Zodiac Definitions"],
+    angel: ["Number meaning system", "Angel Numbers"],
     combinations: ["108-product matrix", "Pairing Definitions"],
     designs: ["Visual system", "Design Library"],
     candles: ["Maker training", "Candles 101"],
@@ -709,6 +657,11 @@ function comboCard(sign, number) {
       <div class="fragrance-line">${zodiac.sign} × ${number}</div>
       <p>${combo.copy}</p>
       <div class="attributes">${combo.attributes.join(" | ")}</div>
+      <details class="meaning-details">
+        <summary>Expanded meaning and reflection</summary>
+        <div class="word-meanings">${combo.attributes.map((word) => `<p><strong>${word}</strong> ${combo.wordMeanings[word] || ""}</p>`).join("")}</div>
+        <p class="reflection"><strong>Reflection</strong> ${combo.reflection}</p>
+      </details>
     </article>
   `;
 }
@@ -721,7 +674,7 @@ function renderZodiac() {
     <div class="detail-header">
       <article class="definition-card">
         <p class="eyebrow">${zodiac.sign} - ${zodiac.name}</p>
-        <h3>${zodiac.fragrance}</h3>
+        <h3>${zodiac.name}</h3>
         <p>${zodiac.definition}</p>
         ${tags(zodiac.tags)}
       </article>
@@ -742,7 +695,7 @@ function renderAngel() {
     <div class="detail-header">
       <article class="definition-card">
         <p class="eyebrow">${number} - ${angel.name}</p>
-        <h3>${angel.fragrance}</h3>
+        <h3>${angel.name}</h3>
         <p>${angel.meaning}</p>
         ${tags(angel.tags)}
       </article>
@@ -789,6 +742,8 @@ function renderDesigns() {
               <h4>${combo.title}</h4>
               <p>${combo.copy}</p>
               <div class="attributes">${combo.attributes.join(" | ")}</div>
+              <div class="word-meanings">${combo.attributes.map((word) => `<p><strong>${word}</strong> ${combo.wordMeanings[word] || ""}</p>`).join("")}</div>
+              <p class="reflection"><strong>Reflection</strong> ${combo.reflection}</p>
               <div class="fragrance-line">Copy status: ${combo.status} · Design status: not started</div>
             </div>
           </article>`;

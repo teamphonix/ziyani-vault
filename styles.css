@@ -1113,6 +1113,13 @@ input {
 .box-face p { color: var(--muted); }
 .asset-tree { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 10px; }
 .asset-tree span { padding: 12px; border-left: 2px solid var(--plum); background: rgba(255,255,255,.035); }
+.meaning-details { margin-top: 14px; border-top: 1px solid var(--line); padding-top: 12px; }
+.meaning-details summary { cursor: pointer; color: var(--gold); font-weight: 800; }
+.word-meanings { display: grid; gap: 8px; margin-top: 12px; }
+.word-meanings p { margin: 0; color: var(--muted); line-height: 1.55; }
+.word-meanings strong { display: block; color: var(--ink); }
+.reflection { margin-top: 14px; padding: 12px 0; color: var(--muted); font-style: italic; }
+.reflection strong { color: var(--gold); font-style: normal; margin-right: 6px; }
 
 .design-brief {
   position: sticky;
