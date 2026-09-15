@@ -11,10 +11,13 @@ ZIYANI
 {ZODIAC} | {ANGEL_NUMBER}
 {PAIRING_TITLE}
 
-{ZODIAC_BASE_FRAGRANCE}
-+ {ANGEL_NUMBER_ACCENT_FRAGRANCE}
 {ATTRIBUTE_1} | {ATTRIBUTE_2} | {ATTRIBUTE_3}
+
+{COMBINATION_DEFINITION}
+{REFLECTION_PROMPT}
 ```
+
+Public labels do not list fragrance ingredients or treat the fragrance as a message. The candle marks the pause; God is the source of purpose, truth, and direction.
 
 ## Libra Reference Line
 
@@ -53,7 +56,7 @@ Sagittarius energy should feel free, expansive, honest, adventurous, optimistic,
 | Sagittarius \| 666 | Present Adventure | Embodiment | Warmth | Lived Joy |
 | Sagittarius \| 777 | Guided Horizon | Intuition | Wisdom | Clear Vision |
 | Sagittarius \| 888 | Abundant Aim | Confidence | Momentum | Magnetic Growth |
-| Sagittarius \| 999 | Completed Journey | Closure | Integration | Higher Path |
+| Sagittarius \| 999 | Completed Journey | Closure | Integration | Purposeful Next Step |
 
 ## Sagittarius Package Copy Drafts
 
@@ -67,7 +70,7 @@ Sagittarius brings movement, truth, and the desire to see what waits beyond the 
 
 Palo Santo & Bright Citrus + White Tea Sheer Musk
 
-Sagittarius moves by faith, and 222 softens that motion into trust. The tea-musk accent smooths the bright, expansive base into something calm and receptive. This candle supports ease, emotional openness, and moving forward without needing to control every mile.
+Sagittarius moves by faith, and 222 softens that motion into trust. The tea-musk accent smooths the bright, expansive base into something calm and receptive. This pairing centers ease, emotional openness, and moving forward without needing to control every mile. Lighting it marks a moment to listen for where God may be calling you to trust.
 
 ### Open Horizon | 333 | Wild Expression
 
@@ -79,13 +82,13 @@ Sagittarius carries a fire that wants to speak, laugh, explore, and create. With
 
 Palo Santo & Bright Citrus + Sandalwood Vetiver
 
-Sagittarius wants freedom, but 444 gives it structure. Sandalwood and vetiver anchor the bright base, turning motion into direction. This candle supports discipline, grounding, and the kind of freedom that comes from knowing where you stand.
+Sagittarius wants freedom, but 444 gives it structure. Sandalwood and vetiver anchor the bright base, turning motion into direction. This pairing centers discipline, grounding, and the kind of freedom that comes from knowing where you stand. Lighting it marks a moment to listen for where God may be calling you to build with purpose.
 
 ### Open Horizon | 555 | Expansive Shift
 
 Palo Santo & Bright Citrus + Fresh Air Salted Woods
 
-Sagittarius already leans toward the horizon; 555 opens the road wider. Fresh air and salted woods create a breezy lift that makes the base feel spacious and alive. Burn this when change is calling and you are ready to move with it.
+Sagittarius already leans toward the horizon; 555 opens the road wider. Fresh air and salted woods create a breezy lift that makes the base feel spacious and alive. As you light it, pause and consider what change God may be asking you to notice and how to move with trust.
 
 ### Open Horizon | 666 | Present Adventure
 
@@ -97,7 +100,7 @@ Sagittarius looks outward, while 666 brings the energy back into the body. Cashm
 
 Palo Santo & Bright Citrus + Luminous Jasmine Clear Resin
 
-Sagittarius seeks meaning; 777 refines that search into inner guidance. Jasmine and clear resin brighten the base with a calm spiritual clarity. This candle supports intuition, wisdom, and trusting the signs that point toward your higher path.
+Sagittarius seeks meaning; 777 focuses that search on discernment. Jasmine and clear resin brighten the base with a calm atmosphere. This pairing centers wisdom, vision, and listening for God's direction without treating the number, fragrance, or flame as the guide.
 
 ### Open Horizon | 888 | Abundant Aim
 
@@ -141,5 +144,3 @@ Each product can become a structured record:
   "imagery": "Sagittarius"
 }
 ```
-
-
