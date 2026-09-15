@@ -484,15 +484,19 @@ function getAngel(number) {
 }
 
 function getCombo(sign, number) {
-  if (sign === "Libra") return libraCopy[number];
-  if (sign === "Sagittarius") return sagittariusCopy[number];
   const zodiac = getZodiac(sign);
   const angel = getAngel(number);
-  const index = angels.findIndex((item) => item.number === number);
+  const source = productCatalog?.[sign]?.[number];
+  const approvedAttributes = sign === "Libra"
+    ? libraCopy[number].attributes
+    : sign === "Sagittarius"
+      ? sagittariusCopy[number].attributes
+      : [zodiac.tags[0], angel.tags[0], zodiac.tags[1]];
   return {
-    title: titles[sign]?.[index] || `${zodiac.name} ${angel.name}`,
-    attributes: [zodiac.tags[0], angel.tags[0], zodiac.tags[1]],
-    copy: `${zodiac.sign} brings ${zodiac.tags.join(", ").toLowerCase()} into the room. Paired with ${number}, it becomes a candle for ${angel.meaning.toLowerCase()}`
+    title: source?.title || `${zodiac.name} ${angel.name}`,
+    attributes: approvedAttributes,
+    copy: source?.definition || `${zodiac.sign} brings ${zodiac.tags.join(", ").toLowerCase()} into the room. Paired with ${number}, it becomes a candle for ${angel.meaning.toLowerCase()}`,
+    status: source?.status || "working"
   };
 }
 
@@ -785,7 +789,7 @@ function renderDesigns() {
               <h4>${combo.title}</h4>
               <p>${combo.copy}</p>
               <div class="attributes">${combo.attributes.join(" | ")}</div>
-              <div class="fragrance-line">Design status: not started</div>
+              <div class="fragrance-line">Copy status: ${combo.status} · Design status: not started</div>
             </div>
           </article>`;
         }).join("")}
