@@ -6,17 +6,17 @@ const productCatalog = {
       "definition": "Aries carries the courage to begin, the heat of momentum, and the instinct to move first. Paired with 111, this energy becomes deliberate initiation rather than impulse. Together, this candle inspires decisive action — the moment you commit to a new path and step forward with confidence.",
       "status": "canonical",
       "threeWords": [
-        "Action",
-        "Start",
-        "Courage"
+        "Initiative",
+        "Self-Trust",
+        "Breakthrough"
       ],
       "wordMeanings": {
-        "Action": "Action names the Aries quality at the center of this pairing: forward motion.",
-        "Start": "Start describes how 111 redirects that energy into a deliberate emotional movement.",
-        "Courage": "Courage is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Initiative": "Initiative is the opening force of FIRST SPARK. It draws from this truth: Aries carries the courage to begin, the heat of momentum, and the instinct to move first.",
+        "Self-Trust": "Self-Trust is the active practice within FIRST SPARK. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Breakthrough": "Breakthrough is the signature alignment FIRST SPARK is meant to ignite. It carries the promise of this blend forward: Together, this candle inspires decisive action — the moment you commit to a new path and step forward with confidence."
       },
-      "expandedMeaning": "Action names the Aries quality at the center of this pairing: forward motion. Start describes how 111 redirects that energy into a deliberate emotional movement. Courage is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody action, move with start, and make space for courage?",
+      "expandedMeaning": "Initiative is the opening force of FIRST SPARK. It draws from this truth: Aries carries the courage to begin, the heat of momentum, and the instinct to move first. Self-Trust is the active practice within FIRST SPARK. It turns the pairing's message into a conscious way of moving, choosing, and responding. Breakthrough is the signature alignment FIRST SPARK is meant to ignite. It carries the promise of this blend forward: Together, this candle inspires decisive action — the moment you commit to a new path and step forward with confidence.",
+      "reflection": "What are you ready to begin through FIRST SPARK, and how would choosing Initiative and Self-Trust create a true Breakthrough?",
       "websiteCopy": "Aries carries the courage to begin, the heat of momentum, and the instinct to move first. Paired with 111, this energy becomes deliberate initiation rather than impulse. Together, this candle inspires decisive action — the moment you commit to a new path and step forward with confidence.",
       "packagingCopy": "Aries carries the courage to begin, the heat of momentum, and the instinct to move first. Paired with 111, this energy becomes deliberate initiation rather than impulse.",
       "socialCopy": "Together, this candle inspires decisive action — the moment you commit to a new path and step forward with confidence."
@@ -26,17 +26,17 @@ const productCatalog = {
       "definition": "Aries brings boldness; 222 brings harmony. In this pairing, Aries’ natural intensity is softened into steady confidence rather than rush. This candle is for moving with purpose, staying grounded in your choices, and acting from alignment rather than pressure.",
       "status": "canonical",
       "threeWords": [
-        "Action",
-        "Peace",
-        "Courage"
+        "Patience",
+        "Cooperation",
+        "Composure"
       ],
       "wordMeanings": {
-        "Action": "Action names the Aries quality at the center of this pairing: forward motion.",
-        "Peace": "Peace describes how 222 redirects that energy into a deliberate emotional movement.",
-        "Courage": "Courage is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Patience": "Patience is the opening force of BALANCED FIRE. It draws from this truth: Aries brings boldness; 222 brings harmony.",
+        "Cooperation": "Cooperation is the active practice within BALANCED FIRE. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Composure": "Composure is the signature alignment BALANCED FIRE is meant to ignite. It carries the promise of this blend forward: This candle is for moving with purpose, staying grounded in your choices, and acting from alignment rather than pressure."
       },
-      "expandedMeaning": "Action names the Aries quality at the center of this pairing: forward motion. Peace describes how 222 redirects that energy into a deliberate emotional movement. Courage is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody action, move with peace, and make space for courage?",
+      "expandedMeaning": "Patience is the opening force of BALANCED FIRE. It draws from this truth: Aries brings boldness; 222 brings harmony. Cooperation is the active practice within BALANCED FIRE. It turns the pairing's message into a conscious way of moving, choosing, and responding. Composure is the signature alignment BALANCED FIRE is meant to ignite. It carries the promise of this blend forward: This candle is for moving with purpose, staying grounded in your choices, and acting from alignment rather than pressure.",
+      "reflection": "Where is BALANCED FIRE asking you to practice Patience, build Cooperation, and allow Composure to reshape the way you relate?",
       "websiteCopy": "Aries brings boldness; 222 brings harmony. In this pairing, Aries’ natural intensity is softened into steady confidence rather than rush. This candle is for moving with purpose, staying grounded in your choices, and acting from alignment rather than pressure.",
       "packagingCopy": "Aries brings boldness; 222 brings harmony. In this pairing, Aries’ natural intensity is softened into steady confidence rather than rush.",
       "socialCopy": "This candle is for moving with purpose, staying grounded in your choices, and acting from alignment rather than pressure."
@@ -46,17 +46,17 @@ const productCatalog = {
       "definition": "Aries provides creative force and vitality, while 333 amplifies expression and joy. This candle encourages bold self-expression, confidence in your voice, and fearless creativity in whatever you are building.",
       "status": "canonical",
       "threeWords": [
-        "Action",
-        "Create",
-        "Courage"
+        "Expression",
+        "Playfulness",
+        "Boldness"
       ],
       "wordMeanings": {
-        "Action": "Action names the Aries quality at the center of this pairing: forward motion.",
-        "Create": "Create describes how 333 redirects that energy into a deliberate emotional movement.",
-        "Courage": "Courage is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Expression": "Expression is the opening force of EXPRESSIVE FLAME. It draws from this truth: Aries provides creative force and vitality, while 333 amplifies expression and joy.",
+        "Playfulness": "Playfulness is the active practice within EXPRESSIVE FLAME. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Boldness": "Boldness is the signature alignment EXPRESSIVE FLAME is meant to ignite. It carries the promise of this blend forward: This candle encourages bold self-expression, confidence in your voice, and fearless creativity in whatever you are building."
       },
-      "expandedMeaning": "Action names the Aries quality at the center of this pairing: forward motion. Create describes how 333 redirects that energy into a deliberate emotional movement. Courage is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody action, move with create, and make space for courage?",
+      "expandedMeaning": "Expression is the opening force of EXPRESSIVE FLAME. It draws from this truth: Aries provides creative force and vitality, while 333 amplifies expression and joy. Playfulness is the active practice within EXPRESSIVE FLAME. It turns the pairing's message into a conscious way of moving, choosing, and responding. Boldness is the signature alignment EXPRESSIVE FLAME is meant to ignite. It carries the promise of this blend forward: This candle encourages bold self-expression, confidence in your voice, and fearless creativity in whatever you are building.",
+      "reflection": "What wants to come alive through EXPRESSIVE FLAME when Expression gives you permission to pursue Playfulness and embody Boldness?",
       "websiteCopy": "Aries provides creative force and vitality, while 333 amplifies expression and joy. This candle encourages bold self-expression, confidence in your voice, and fearless creativity in whatever you are building.",
       "packagingCopy": "Aries provides creative force and vitality, while 333 amplifies expression and joy. This candle encourages bold self-expression, confidence in your voice, and fearless creativity in whatever you are building.",
       "socialCopy": "This candle encourages bold self-expression, confidence in your voice, and fearless creativity in whatever you are building."
@@ -66,17 +66,17 @@ const productCatalog = {
       "definition": "Aries is strength in motion; 444 is stability in standing. This candle supports disciplined action, emotional steadiness, and quiet inner strength — moving forward with power, but without chaos.",
       "status": "canonical",
       "threeWords": [
-        "Action",
-        "Root",
-        "Courage"
+        "Discipline",
+        "Stability",
+        "Fortitude"
       ],
       "wordMeanings": {
-        "Action": "Action names the Aries quality at the center of this pairing: forward motion.",
-        "Root": "Root describes how 444 redirects that energy into a deliberate emotional movement.",
-        "Courage": "Courage is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Discipline": "Discipline is the opening force of GROUNDED WARRIOR. It draws from this truth: Aries is strength in motion; 444 is stability in standing.",
+        "Stability": "Stability is the active practice within GROUNDED WARRIOR. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Fortitude": "Fortitude is the signature alignment GROUNDED WARRIOR is meant to ignite. It carries the promise of this blend forward: This candle supports disciplined action, emotional steadiness, and quiet inner strength — moving forward with power, but without chaos."
       },
-      "expandedMeaning": "Action names the Aries quality at the center of this pairing: forward motion. Root describes how 444 redirects that energy into a deliberate emotional movement. Courage is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody action, move with root, and make space for courage?",
+      "expandedMeaning": "Discipline is the opening force of GROUNDED WARRIOR. It draws from this truth: Aries is strength in motion; 444 is stability in standing. Stability is the active practice within GROUNDED WARRIOR. It turns the pairing's message into a conscious way of moving, choosing, and responding. Fortitude is the signature alignment GROUNDED WARRIOR is meant to ignite. It carries the promise of this blend forward: This candle supports disciplined action, emotional steadiness, and quiet inner strength — moving forward with power, but without chaos.",
+      "reflection": "Which part of your life needs the Discipline of GROUNDED WARRIOR, the protection of Stability, and the lasting support of Fortitude?",
       "websiteCopy": "Aries is strength in motion; 444 is stability in standing. This candle supports disciplined action, emotional steadiness, and quiet inner strength — moving forward with power, but without chaos.",
       "packagingCopy": "Aries is strength in motion; 444 is stability in standing. This candle supports disciplined action, emotional steadiness, and quiet inner strength — moving forward with power, but without chaos.",
       "socialCopy": "This candle supports disciplined action, emotional steadiness, and quiet inner strength — moving forward with power, but without chaos."
@@ -86,17 +86,17 @@ const productCatalog = {
       "definition": "Aries embodies movement, and 555 embodies change. This pairing feels like freedom in motion — bold action meeting expansive possibility. Burn this candle when you are ready to shift directions, embrace transition, and move toward something new without fear.",
       "status": "canonical",
       "threeWords": [
-        "Action",
-        "Change",
-        "Courage"
+        "Liberation",
+        "Adaptability",
+        "Momentum"
       ],
       "wordMeanings": {
-        "Action": "Action names the Aries quality at the center of this pairing: forward motion.",
-        "Change": "Change describes how 555 redirects that energy into a deliberate emotional movement.",
-        "Courage": "Courage is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Liberation": "Liberation is the opening force of OPEN ROADS. It draws from this truth: Aries embodies movement, and 555 embodies change.",
+        "Adaptability": "Adaptability is the active practice within OPEN ROADS. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Momentum": "Momentum is the signature alignment OPEN ROADS is meant to ignite. It carries the promise of this blend forward: Burn this candle when you are ready to shift directions, embrace transition, and move toward something new without fear."
       },
-      "expandedMeaning": "Action names the Aries quality at the center of this pairing: forward motion. Change describes how 555 redirects that energy into a deliberate emotional movement. Courage is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody action, move with change, and make space for courage?",
+      "expandedMeaning": "Liberation is the opening force of OPEN ROADS. It draws from this truth: Aries embodies movement, and 555 embodies change. Adaptability is the active practice within OPEN ROADS. It turns the pairing's message into a conscious way of moving, choosing, and responding. Momentum is the signature alignment OPEN ROADS is meant to ignite. It carries the promise of this blend forward: Burn this candle when you are ready to shift directions, embrace transition, and move toward something new without fear.",
+      "reflection": "What must shift for OPEN ROADS to become real, and where could Liberation, Adaptability, and Momentum carry you next?",
       "websiteCopy": "Aries embodies movement, and 555 embodies change. This pairing feels like freedom in motion — bold action meeting expansive possibility. Burn this candle when you are ready to shift directions, embrace transition, and move toward something new without fear.",
       "packagingCopy": "Aries embodies movement, and 555 embodies change. This pairing feels like freedom in motion — bold action meeting expansive possibility.",
       "socialCopy": "Burn this candle when you are ready to shift directions, embrace transition, and move toward something new without fear."
@@ -106,17 +106,17 @@ const productCatalog = {
       "definition": "Aries is raw passion; 666 brings presence and embodiment. In this blend, Aries’ intensity becomes warm, sensual, and grounded rather than scattered. This candle supports being fully in your body, moving intentionally, and acting from inner strength instead of impulse.",
       "status": "canonical",
       "threeWords": [
-        "Action",
-        "Body",
-        "Courage"
+        "Presence",
+        "Desire",
+        "Self-Mastery"
       ],
       "wordMeanings": {
-        "Action": "Action names the Aries quality at the center of this pairing: forward motion.",
-        "Body": "Body describes how 666 redirects that energy into a deliberate emotional movement.",
-        "Courage": "Courage is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Presence": "Presence is the opening force of EMBODIED HEAT. It draws from this truth: Aries is raw passion; 666 brings presence and embodiment.",
+        "Desire": "Desire is the active practice within EMBODIED HEAT. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Self-Mastery": "Self-Mastery is the signature alignment EMBODIED HEAT is meant to ignite. It carries the promise of this blend forward: This candle supports being fully in your body, moving intentionally, and acting from inner strength instead of impulse."
       },
-      "expandedMeaning": "Action names the Aries quality at the center of this pairing: forward motion. Body describes how 666 redirects that energy into a deliberate emotional movement. Courage is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody action, move with body, and make space for courage?",
+      "expandedMeaning": "Presence is the opening force of EMBODIED HEAT. It draws from this truth: Aries is raw passion; 666 brings presence and embodiment. Desire is the active practice within EMBODIED HEAT. It turns the pairing's message into a conscious way of moving, choosing, and responding. Self-Mastery is the signature alignment EMBODIED HEAT is meant to ignite. It carries the promise of this blend forward: This candle supports being fully in your body, moving intentionally, and acting from inner strength instead of impulse.",
+      "reflection": "How can EMBODIED HEAT bring you back to Presence, help you honor Desire, and let you live from Self-Mastery today?",
       "websiteCopy": "Aries is raw passion; 666 brings presence and embodiment. In this blend, Aries’ intensity becomes warm, sensual, and grounded rather than scattered. This candle supports being fully in your body, moving intentionally, and acting from inner strength instead of impulse.",
       "packagingCopy": "Aries is raw passion; 666 brings presence and embodiment. In this blend, Aries’ intensity becomes warm, sensual, and grounded rather than scattered.",
       "socialCopy": "This candle supports being fully in your body, moving intentionally, and acting from inner strength instead of impulse."
@@ -126,17 +126,17 @@ const productCatalog = {
       "definition": "Aries provides bold action; 777 provides intuitive clarity. This candle supports trusting your instincts, seeing beneath the surface, and taking decisive steps guided by inner knowing.",
       "status": "canonical",
       "threeWords": [
-        "Action",
-        "Intuition",
-        "Courage"
+        "Instinct",
+        "Discernment",
+        "Conviction"
       ],
       "wordMeanings": {
-        "Action": "Action names the Aries quality at the center of this pairing: forward motion.",
-        "Intuition": "Intuition describes how 777 redirects that energy into a deliberate emotional movement.",
-        "Courage": "Courage is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Instinct": "Instinct is the opening force of CLEAR FLAME. It draws from this truth: Aries provides bold action; 777 provides intuitive clarity.",
+        "Discernment": "Discernment is the active practice within CLEAR FLAME. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Conviction": "Conviction is the signature alignment CLEAR FLAME is meant to ignite. It carries the promise of this blend forward: This candle supports trusting your instincts, seeing beneath the surface, and taking decisive steps guided by inner knowing."
       },
-      "expandedMeaning": "Action names the Aries quality at the center of this pairing: forward motion. Intuition describes how 777 redirects that energy into a deliberate emotional movement. Courage is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody action, move with intuition, and make space for courage?",
+      "expandedMeaning": "Instinct is the opening force of CLEAR FLAME. It draws from this truth: Aries provides bold action; 777 provides intuitive clarity. Discernment is the active practice within CLEAR FLAME. It turns the pairing's message into a conscious way of moving, choosing, and responding. Conviction is the signature alignment CLEAR FLAME is meant to ignite. It carries the promise of this blend forward: This candle supports trusting your instincts, seeing beneath the surface, and taking decisive steps guided by inner knowing.",
+      "reflection": "What deeper truth does CLEAR FLAME reveal when you trust Instinct, apply Discernment, and stand firmly in Conviction?",
       "websiteCopy": "Aries provides bold action; 777 provides intuitive clarity. This candle supports trusting your instincts, seeing beneath the surface, and taking decisive steps guided by inner knowing.",
       "packagingCopy": "Aries provides bold action; 777 provides intuitive clarity. This candle supports trusting your instincts, seeing beneath the surface, and taking decisive steps guided by inner knowing.",
       "socialCopy": "This candle supports trusting your instincts, seeing beneath the surface, and taking decisive steps guided by inner knowing."
@@ -146,17 +146,17 @@ const productCatalog = {
       "definition": "Aries brings leadership energy; 888 amplifies confidence and magnetism. This candle is for stepping into your worth, owning your presence, and moving through the world with magnetic self-belief.",
       "status": "canonical",
       "threeWords": [
-        "Action",
-        "Abundance",
-        "Courage"
+        "Leadership",
+        "Worth",
+        "Influence"
       ],
       "wordMeanings": {
-        "Action": "Action names the Aries quality at the center of this pairing: forward motion.",
-        "Abundance": "Abundance describes how 888 redirects that energy into a deliberate emotional movement.",
-        "Courage": "Courage is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Leadership": "Leadership is the opening force of SOLAR POWER. It draws from this truth: Aries brings leadership energy; 888 amplifies confidence and magnetism.",
+        "Worth": "Worth is the active practice within SOLAR POWER. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Influence": "Influence is the signature alignment SOLAR POWER is meant to ignite. It carries the promise of this blend forward: This candle is for stepping into your worth, owning your presence, and moving through the world with magnetic self-belief."
       },
-      "expandedMeaning": "Action names the Aries quality at the center of this pairing: forward motion. Abundance describes how 888 redirects that energy into a deliberate emotional movement. Courage is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody action, move with abundance, and make space for courage?",
+      "expandedMeaning": "Leadership is the opening force of SOLAR POWER. It draws from this truth: Aries brings leadership energy; 888 amplifies confidence and magnetism. Worth is the active practice within SOLAR POWER. It turns the pairing's message into a conscious way of moving, choosing, and responding. Influence is the signature alignment SOLAR POWER is meant to ignite. It carries the promise of this blend forward: This candle is for stepping into your worth, owning your presence, and moving through the world with magnetic self-belief.",
+      "reflection": "Where are you ready to claim the Leadership of SOLAR POWER, receive Worth, and direct Influence with integrity?",
       "websiteCopy": "Aries brings leadership energy; 888 amplifies confidence and magnetism. This candle is for stepping into your worth, owning your presence, and moving through the world with magnetic self-belief.",
       "packagingCopy": "Aries brings leadership energy; 888 amplifies confidence and magnetism. This candle is for stepping into your worth, owning your presence, and moving through the world with magnetic self-belief.",
       "socialCopy": "This candle is for stepping into your worth, owning your presence, and moving through the world with magnetic self-belief."
@@ -166,17 +166,17 @@ const productCatalog = {
       "definition": "Aries initiates; 999 completes. In this pairing, Aries’ fiery drive is refined into clarity and release. This candle supports closing chapters with confidence, letting go without attachment, and moving forward with a clear mind.",
       "status": "canonical",
       "threeWords": [
-        "Action",
         "Closure",
-        "Courage"
+        "Release",
+        "Renewal"
       ],
       "wordMeanings": {
-        "Action": "Action names the Aries quality at the center of this pairing: forward motion.",
-        "Closure": "Closure describes how 999 redirects that energy into a deliberate emotional movement.",
-        "Courage": "Courage is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Closure": "Closure is the opening force of CLEAN BURN. It draws from this truth: Aries initiates; 999 completes.",
+        "Release": "Release is the active practice within CLEAN BURN. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Renewal": "Renewal is the signature alignment CLEAN BURN is meant to ignite. It carries the promise of this blend forward: This candle supports closing chapters with confidence, letting go without attachment, and moving forward with a clear mind."
       },
-      "expandedMeaning": "Action names the Aries quality at the center of this pairing: forward motion. Closure describes how 999 redirects that energy into a deliberate emotional movement. Courage is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody action, move with closure, and make space for courage?",
+      "expandedMeaning": "Closure is the opening force of CLEAN BURN. It draws from this truth: Aries initiates; 999 completes. Release is the active practice within CLEAN BURN. It turns the pairing's message into a conscious way of moving, choosing, and responding. Renewal is the signature alignment CLEAN BURN is meant to ignite. It carries the promise of this blend forward: This candle supports closing chapters with confidence, letting go without attachment, and moving forward with a clear mind.",
+      "reflection": "What can CLEAN BURN help you complete through Closure, release through Release, and transform into Renewal?",
       "websiteCopy": "Aries initiates; 999 completes. In this pairing, Aries’ fiery drive is refined into clarity and release. This candle supports closing chapters with confidence, letting go without attachment, and moving forward with a clear mind.",
       "packagingCopy": "Aries initiates; 999 completes. In this pairing, Aries’ fiery drive is refined into clarity and release.",
       "socialCopy": "This candle supports closing chapters with confidence, letting go without attachment, and moving forward with a clear mind."
@@ -188,17 +188,17 @@ const productCatalog = {
       "definition": "Taurus carries steadiness, comfort, and trust in slow growth. With 111, this grounded energy becomes intentional beginnings rather than delay.",
       "status": "canonical",
       "threeWords": [
-        "Grounding",
-        "Start",
-        "Worth"
+        "Intention",
+        "Readiness",
+        "Growth"
       ],
       "wordMeanings": {
-        "Grounding": "Grounding names the Taurus quality at the center of this pairing: embodied steadiness.",
-        "Start": "Start describes how 111 redirects that energy into a deliberate emotional movement.",
-        "Worth": "Worth is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Intention": "Intention is the opening force of NEW GROUND. It draws from this truth: Taurus carries steadiness, comfort, and trust in slow growth.",
+        "Readiness": "Readiness is the active practice within NEW GROUND. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Growth": "Growth is the signature alignment NEW GROUND is meant to ignite. It carries the promise of this blend forward: With 111, this grounded energy becomes intentional beginnings rather than delay."
       },
-      "expandedMeaning": "Grounding names the Taurus quality at the center of this pairing: embodied steadiness. Start describes how 111 redirects that energy into a deliberate emotional movement. Worth is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody grounding, move with start, and make space for worth?",
+      "expandedMeaning": "Intention is the opening force of NEW GROUND. It draws from this truth: Taurus carries steadiness, comfort, and trust in slow growth. Readiness is the active practice within NEW GROUND. It turns the pairing's message into a conscious way of moving, choosing, and responding. Growth is the signature alignment NEW GROUND is meant to ignite. It carries the promise of this blend forward: With 111, this grounded energy becomes intentional beginnings rather than delay.",
+      "reflection": "What are you ready to begin through NEW GROUND, and how would choosing Intention and Readiness create a true Growth?",
       "websiteCopy": "Taurus carries steadiness, comfort, and trust in slow growth. With 111, this grounded energy becomes intentional beginnings rather than delay.",
       "packagingCopy": "Taurus carries steadiness, comfort, and trust in slow growth. With 111, this grounded energy becomes intentional beginnings rather than delay.",
       "socialCopy": "With 111, this grounded energy becomes intentional beginnings rather than delay."
@@ -208,17 +208,17 @@ const productCatalog = {
       "definition": "Taurus embodies security; 222 brings emotional harmony. This candle supports feeling safe in your choices and moving through life with calm, balanced assurance.",
       "status": "canonical",
       "threeWords": [
-        "Grounding",
-        "Peace",
-        "Worth"
+        "Security",
+        "Reciprocity",
+        "Ease"
       ],
       "wordMeanings": {
-        "Grounding": "Grounding names the Taurus quality at the center of this pairing: embodied steadiness.",
-        "Peace": "Peace describes how 222 redirects that energy into a deliberate emotional movement.",
-        "Worth": "Worth is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Security": "Security is the opening force of SOFT STABILITY. It draws from this truth: Taurus embodies security; 222 brings emotional harmony.",
+        "Reciprocity": "Reciprocity is the active practice within SOFT STABILITY. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Ease": "Ease is the signature alignment SOFT STABILITY is meant to ignite. It carries the promise of this blend forward: This candle supports feeling safe in your choices and moving through life with calm, balanced assurance."
       },
-      "expandedMeaning": "Grounding names the Taurus quality at the center of this pairing: embodied steadiness. Peace describes how 222 redirects that energy into a deliberate emotional movement. Worth is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody grounding, move with peace, and make space for worth?",
+      "expandedMeaning": "Security is the opening force of SOFT STABILITY. It draws from this truth: Taurus embodies security; 222 brings emotional harmony. Reciprocity is the active practice within SOFT STABILITY. It turns the pairing's message into a conscious way of moving, choosing, and responding. Ease is the signature alignment SOFT STABILITY is meant to ignite. It carries the promise of this blend forward: This candle supports feeling safe in your choices and moving through life with calm, balanced assurance.",
+      "reflection": "Where is SOFT STABILITY asking you to practice Security, build Reciprocity, and allow Ease to reshape the way you relate?",
       "websiteCopy": "Taurus embodies security; 222 brings emotional harmony. This candle supports feeling safe in your choices and moving through life with calm, balanced assurance.",
       "packagingCopy": "Taurus embodies security; 222 brings emotional harmony. This candle supports feeling safe in your choices and moving through life with calm, balanced assurance.",
       "socialCopy": "This candle supports feeling safe in your choices and moving through life with calm, balanced assurance."
@@ -228,17 +228,17 @@ const productCatalog = {
       "definition": "Taurus provides patience and craftsmanship, while 333 awakens playful creativity. This candle encourages you to create beautifully, confidently, and joyfully.",
       "status": "canonical",
       "threeWords": [
-        "Grounding",
-        "Create",
-        "Worth"
+        "Craft",
+        "Pleasure",
+        "Expression"
       ],
       "wordMeanings": {
-        "Grounding": "Grounding names the Taurus quality at the center of this pairing: embodied steadiness.",
-        "Create": "Create describes how 333 redirects that energy into a deliberate emotional movement.",
-        "Worth": "Worth is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Craft": "Craft is the opening force of CREATIVE EARTH. It draws from this truth: Taurus provides patience and craftsmanship, while 333 awakens playful creativity.",
+        "Pleasure": "Pleasure is the active practice within CREATIVE EARTH. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Expression": "Expression is the signature alignment CREATIVE EARTH is meant to ignite. It carries the promise of this blend forward: This candle encourages you to create beautifully, confidently, and joyfully."
       },
-      "expandedMeaning": "Grounding names the Taurus quality at the center of this pairing: embodied steadiness. Create describes how 333 redirects that energy into a deliberate emotional movement. Worth is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody grounding, move with create, and make space for worth?",
+      "expandedMeaning": "Craft is the opening force of CREATIVE EARTH. It draws from this truth: Taurus provides patience and craftsmanship, while 333 awakens playful creativity. Pleasure is the active practice within CREATIVE EARTH. It turns the pairing's message into a conscious way of moving, choosing, and responding. Expression is the signature alignment CREATIVE EARTH is meant to ignite. It carries the promise of this blend forward: This candle encourages you to create beautifully, confidently, and joyfully.",
+      "reflection": "What wants to come alive through CREATIVE EARTH when Craft gives you permission to pursue Pleasure and embody Expression?",
       "websiteCopy": "Taurus provides patience and craftsmanship, while 333 awakens playful creativity. This candle encourages you to create beautifully, confidently, and joyfully.",
       "packagingCopy": "Taurus provides patience and craftsmanship, while 333 awakens playful creativity. This candle encourages you to create beautifully, confidently, and joyfully.",
       "socialCopy": "This candle encourages you to create beautifully, confidently, and joyfully."
@@ -248,17 +248,17 @@ const productCatalog = {
       "definition": "Taurus is already grounded — 444 deepens that steadiness into quiet inner power. Burn this when you need clarity, structure, and trust in your own foundation.",
       "status": "canonical",
       "threeWords": [
-        "Grounding",
-        "Root",
-        "Worth"
+        "Foundation",
+        "Boundaries",
+        "Endurance"
       ],
       "wordMeanings": {
-        "Grounding": "Grounding names the Taurus quality at the center of this pairing: embodied steadiness.",
-        "Root": "Root describes how 444 redirects that energy into a deliberate emotional movement.",
-        "Worth": "Worth is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Foundation": "Foundation is the opening force of ROOTED STRENGTH. It draws from this truth: Taurus is already grounded — 444 deepens that steadiness into quiet inner power.",
+        "Boundaries": "Boundaries is the active practice within ROOTED STRENGTH. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Endurance": "Endurance is the signature alignment ROOTED STRENGTH is meant to ignite. It carries the promise of this blend forward: Burn this when you need clarity, structure, and trust in your own foundation."
       },
-      "expandedMeaning": "Grounding names the Taurus quality at the center of this pairing: embodied steadiness. Root describes how 444 redirects that energy into a deliberate emotional movement. Worth is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody grounding, move with root, and make space for worth?",
+      "expandedMeaning": "Foundation is the opening force of ROOTED STRENGTH. It draws from this truth: Taurus is already grounded — 444 deepens that steadiness into quiet inner power. Boundaries is the active practice within ROOTED STRENGTH. It turns the pairing's message into a conscious way of moving, choosing, and responding. Endurance is the signature alignment ROOTED STRENGTH is meant to ignite. It carries the promise of this blend forward: Burn this when you need clarity, structure, and trust in your own foundation.",
+      "reflection": "Which part of your life needs the Foundation of ROOTED STRENGTH, the protection of Boundaries, and the lasting support of Endurance?",
       "websiteCopy": "Taurus is already grounded — 444 deepens that steadiness into quiet inner power. Burn this when you need clarity, structure, and trust in your own foundation.",
       "packagingCopy": "Taurus is already grounded — 444 deepens that steadiness into quiet inner power. Burn this when you need clarity, structure, and trust in your own foundation.",
       "socialCopy": "Burn this when you need clarity, structure, and trust in your own foundation."
@@ -268,17 +268,17 @@ const productCatalog = {
       "definition": "Taurus prefers stability, but 555 invites change without chaos. This candle supports steady transitions that feel safe, natural, and expansive.",
       "status": "canonical",
       "threeWords": [
-        "Grounding",
-        "Change",
-        "Worth"
+        "Flexibility",
+        "Release",
+        "Expansion"
       ],
       "wordMeanings": {
-        "Grounding": "Grounding names the Taurus quality at the center of this pairing: embodied steadiness.",
-        "Change": "Change describes how 555 redirects that energy into a deliberate emotional movement.",
-        "Worth": "Worth is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Flexibility": "Flexibility is the opening force of GENTLE SHIFT. It draws from this truth: Taurus prefers stability, but 555 invites change without chaos.",
+        "Release": "Release is the active practice within GENTLE SHIFT. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Expansion": "Expansion is the signature alignment GENTLE SHIFT is meant to ignite. It carries the promise of this blend forward: This candle supports steady transitions that feel safe, natural, and expansive."
       },
-      "expandedMeaning": "Grounding names the Taurus quality at the center of this pairing: embodied steadiness. Change describes how 555 redirects that energy into a deliberate emotional movement. Worth is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody grounding, move with change, and make space for worth?",
+      "expandedMeaning": "Flexibility is the opening force of GENTLE SHIFT. It draws from this truth: Taurus prefers stability, but 555 invites change without chaos. Release is the active practice within GENTLE SHIFT. It turns the pairing's message into a conscious way of moving, choosing, and responding. Expansion is the signature alignment GENTLE SHIFT is meant to ignite. It carries the promise of this blend forward: This candle supports steady transitions that feel safe, natural, and expansive.",
+      "reflection": "What must shift for GENTLE SHIFT to become real, and where could Flexibility, Release, and Expansion carry you next?",
       "websiteCopy": "Taurus prefers stability, but 555 invites change without chaos. This candle supports steady transitions that feel safe, natural, and expansive.",
       "packagingCopy": "Taurus prefers stability, but 555 invites change without chaos. This candle supports steady transitions that feel safe, natural, and expansive.",
       "socialCopy": "This candle supports steady transitions that feel safe, natural, and expansive."
@@ -288,17 +288,17 @@ const productCatalog = {
       "definition": "Taurus lives in sensation, comfort, and pleasure — 666 deepens that presence. This candle is for slowing down, inhabiting your body, and feeling truly at home in yourself.",
       "status": "canonical",
       "threeWords": [
-        "Grounding",
-        "Body",
-        "Worth"
+        "Embodiment",
+        "Nourishment",
+        "Sensuality"
       ],
       "wordMeanings": {
-        "Grounding": "Grounding names the Taurus quality at the center of this pairing: embodied steadiness.",
-        "Body": "Body describes how 666 redirects that energy into a deliberate emotional movement.",
-        "Worth": "Worth is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Embodiment": "Embodiment is the opening force of EMBODIED LUXE. It draws from this truth: Taurus lives in sensation, comfort, and pleasure — 666 deepens that presence.",
+        "Nourishment": "Nourishment is the active practice within EMBODIED LUXE. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Sensuality": "Sensuality is the signature alignment EMBODIED LUXE is meant to ignite. It carries the promise of this blend forward: This candle is for slowing down, inhabiting your body, and feeling truly at home in yourself."
       },
-      "expandedMeaning": "Grounding names the Taurus quality at the center of this pairing: embodied steadiness. Body describes how 666 redirects that energy into a deliberate emotional movement. Worth is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody grounding, move with body, and make space for worth?",
+      "expandedMeaning": "Embodiment is the opening force of EMBODIED LUXE. It draws from this truth: Taurus lives in sensation, comfort, and pleasure — 666 deepens that presence. Nourishment is the active practice within EMBODIED LUXE. It turns the pairing's message into a conscious way of moving, choosing, and responding. Sensuality is the signature alignment EMBODIED LUXE is meant to ignite. It carries the promise of this blend forward: This candle is for slowing down, inhabiting your body, and feeling truly at home in yourself.",
+      "reflection": "How can EMBODIED LUXE bring you back to Embodiment, help you honor Nourishment, and let you live from Sensuality today?",
       "websiteCopy": "Taurus lives in sensation, comfort, and pleasure — 666 deepens that presence. This candle is for slowing down, inhabiting your body, and feeling truly at home in yourself.",
       "packagingCopy": "Taurus lives in sensation, comfort, and pleasure — 666 deepens that presence. This candle is for slowing down, inhabiting your body, and feeling truly at home in yourself.",
       "socialCopy": "This candle is for slowing down, inhabiting your body, and feeling truly at home in yourself."
@@ -308,17 +308,17 @@ const productCatalog = {
       "definition": "Taurus trusts what is real; 777 brings intuitive clarity. This candle supports calm insight, patience, and deep inner knowing.",
       "status": "canonical",
       "threeWords": [
-        "Grounding",
-        "Intuition",
-        "Worth"
+        "Wisdom",
+        "Stillness",
+        "Trust"
       ],
       "wordMeanings": {
-        "Grounding": "Grounding names the Taurus quality at the center of this pairing: embodied steadiness.",
-        "Intuition": "Intuition describes how 777 redirects that energy into a deliberate emotional movement.",
-        "Worth": "Worth is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Wisdom": "Wisdom is the opening force of QUIET KNOWING. It draws from this truth: Taurus trusts what is real; 777 brings intuitive clarity.",
+        "Stillness": "Stillness is the active practice within QUIET KNOWING. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Trust": "Trust is the signature alignment QUIET KNOWING is meant to ignite. It carries the promise of this blend forward: This candle supports calm insight, patience, and deep inner knowing."
       },
-      "expandedMeaning": "Grounding names the Taurus quality at the center of this pairing: embodied steadiness. Intuition describes how 777 redirects that energy into a deliberate emotional movement. Worth is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody grounding, move with intuition, and make space for worth?",
+      "expandedMeaning": "Wisdom is the opening force of QUIET KNOWING. It draws from this truth: Taurus trusts what is real; 777 brings intuitive clarity. Stillness is the active practice within QUIET KNOWING. It turns the pairing's message into a conscious way of moving, choosing, and responding. Trust is the signature alignment QUIET KNOWING is meant to ignite. It carries the promise of this blend forward: This candle supports calm insight, patience, and deep inner knowing.",
+      "reflection": "What deeper truth does QUIET KNOWING reveal when you trust Wisdom, apply Stillness, and stand firmly in Trust?",
       "websiteCopy": "Taurus trusts what is real; 777 brings intuitive clarity. This candle supports calm insight, patience, and deep inner knowing.",
       "packagingCopy": "Taurus trusts what is real; 777 brings intuitive clarity. This candle supports calm insight, patience, and deep inner knowing.",
       "socialCopy": "This candle supports calm insight, patience, and deep inner knowing."
@@ -328,17 +328,17 @@ const productCatalog = {
       "definition": "Taurus represents value and abundance; 888 amplifies confidence and expansion. Burn this when you are stepping fully into your worth and attracting what you deserve.",
       "status": "canonical",
       "threeWords": [
-        "Grounding",
-        "Abundance",
-        "Worth"
+        "Value",
+        "Receiving",
+        "Prosperity"
       ],
       "wordMeanings": {
-        "Grounding": "Grounding names the Taurus quality at the center of this pairing: embodied steadiness.",
-        "Abundance": "Abundance describes how 888 redirects that energy into a deliberate emotional movement.",
-        "Worth": "Worth is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Value": "Value is the opening force of GOLDEN GROWTH. It draws from this truth: Taurus represents value and abundance; 888 amplifies confidence and expansion.",
+        "Receiving": "Receiving is the active practice within GOLDEN GROWTH. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Prosperity": "Prosperity is the signature alignment GOLDEN GROWTH is meant to ignite. It carries the promise of this blend forward: Burn this when you are stepping fully into your worth and attracting what you deserve."
       },
-      "expandedMeaning": "Grounding names the Taurus quality at the center of this pairing: embodied steadiness. Abundance describes how 888 redirects that energy into a deliberate emotional movement. Worth is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody grounding, move with abundance, and make space for worth?",
+      "expandedMeaning": "Value is the opening force of GOLDEN GROWTH. It draws from this truth: Taurus represents value and abundance; 888 amplifies confidence and expansion. Receiving is the active practice within GOLDEN GROWTH. It turns the pairing's message into a conscious way of moving, choosing, and responding. Prosperity is the signature alignment GOLDEN GROWTH is meant to ignite. It carries the promise of this blend forward: Burn this when you are stepping fully into your worth and attracting what you deserve.",
+      "reflection": "Where are you ready to claim the Value of GOLDEN GROWTH, receive Receiving, and direct Prosperity with integrity?",
       "websiteCopy": "Taurus represents value and abundance; 888 amplifies confidence and expansion. Burn this when you are stepping fully into your worth and attracting what you deserve.",
       "packagingCopy": "Taurus represents value and abundance; 888 amplifies confidence and expansion. Burn this when you are stepping fully into your worth and attracting what you deserve.",
       "socialCopy": "Burn this when you are stepping fully into your worth and attracting what you deserve."
@@ -348,17 +348,17 @@ const productCatalog = {
       "definition": "Taurus builds slowly; 999 brings graceful completion. This candle supports releasing what’s complete while staying rooted and centered.",
       "status": "canonical",
       "threeWords": [
-        "Grounding",
-        "Closure",
-        "Worth"
+        "Acceptance",
+        "Simplicity",
+        "Peace"
       ],
       "wordMeanings": {
-        "Grounding": "Grounding names the Taurus quality at the center of this pairing: embodied steadiness.",
-        "Closure": "Closure describes how 999 redirects that energy into a deliberate emotional movement.",
-        "Worth": "Worth is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Acceptance": "Acceptance is the opening force of CLEAR SOIL. It draws from this truth: Taurus builds slowly; 999 brings graceful completion.",
+        "Simplicity": "Simplicity is the active practice within CLEAR SOIL. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Peace": "Peace is the signature alignment CLEAR SOIL is meant to ignite. It carries the promise of this blend forward: This candle supports releasing what’s complete while staying rooted and centered."
       },
-      "expandedMeaning": "Grounding names the Taurus quality at the center of this pairing: embodied steadiness. Closure describes how 999 redirects that energy into a deliberate emotional movement. Worth is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody grounding, move with closure, and make space for worth?",
+      "expandedMeaning": "Acceptance is the opening force of CLEAR SOIL. It draws from this truth: Taurus builds slowly; 999 brings graceful completion. Simplicity is the active practice within CLEAR SOIL. It turns the pairing's message into a conscious way of moving, choosing, and responding. Peace is the signature alignment CLEAR SOIL is meant to ignite. It carries the promise of this blend forward: This candle supports releasing what’s complete while staying rooted and centered.",
+      "reflection": "What can CLEAR SOIL help you complete through Acceptance, release through Simplicity, and transform into Peace?",
       "websiteCopy": "Taurus builds slowly; 999 brings graceful completion. This candle supports releasing what’s complete while staying rooted and centered.",
       "packagingCopy": "Taurus builds slowly; 999 brings graceful completion. This candle supports releasing what’s complete while staying rooted and centered.",
       "socialCopy": "This candle supports releasing what’s complete while staying rooted and centered."
@@ -370,17 +370,17 @@ const productCatalog = {
       "definition": "Gemini carries curiosity, speed of thought, and mental agility. With 111, that brilliance becomes focused intention instead of scattered ideas. This candle inspires decisive thinking — choosing one path and moving forward with confidence.",
       "status": "canonical",
       "threeWords": [
-        "Clarity",
-        "Start",
-        "Voice"
+        "Focus",
+        "Decision",
+        "Direction"
       ],
       "wordMeanings": {
-        "Clarity": "Clarity names the Gemini quality at the center of this pairing: thought and communication.",
-        "Start": "Start describes how 111 redirects that energy into a deliberate emotional movement.",
-        "Voice": "Voice is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Focus": "Focus is the opening force of CLEAR SIGNAL. It draws from this truth: Gemini carries curiosity, speed of thought, and mental agility.",
+        "Decision": "Decision is the active practice within CLEAR SIGNAL. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Direction": "Direction is the signature alignment CLEAR SIGNAL is meant to ignite. It carries the promise of this blend forward: This candle inspires decisive thinking — choosing one path and moving forward with confidence."
       },
-      "expandedMeaning": "Clarity names the Gemini quality at the center of this pairing: thought and communication. Start describes how 111 redirects that energy into a deliberate emotional movement. Voice is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody clarity, move with start, and make space for voice?",
+      "expandedMeaning": "Focus is the opening force of CLEAR SIGNAL. It draws from this truth: Gemini carries curiosity, speed of thought, and mental agility. Decision is the active practice within CLEAR SIGNAL. It turns the pairing's message into a conscious way of moving, choosing, and responding. Direction is the signature alignment CLEAR SIGNAL is meant to ignite. It carries the promise of this blend forward: This candle inspires decisive thinking — choosing one path and moving forward with confidence.",
+      "reflection": "What are you ready to begin through CLEAR SIGNAL, and how would choosing Focus and Decision create a true Direction?",
       "websiteCopy": "Gemini carries curiosity, speed of thought, and mental agility. With 111, that brilliance becomes focused intention instead of scattered ideas. This candle inspires decisive thinking — choosing one path and moving forward with confidence.",
       "packagingCopy": "Gemini carries curiosity, speed of thought, and mental agility. With 111, that brilliance becomes focused intention instead of scattered ideas.",
       "socialCopy": "This candle inspires decisive thinking — choosing one path and moving forward with confidence."
@@ -390,17 +390,17 @@ const productCatalog = {
       "definition": "Gemini thinks fast; 222 brings emotional alignment. Burn this when you want clarity without overwhelm and communication without tension.",
       "status": "canonical",
       "threeWords": [
-        "Clarity",
-        "Peace",
-        "Voice"
+        "Listening",
+        "Dialogue",
+        "Understanding"
       ],
       "wordMeanings": {
-        "Clarity": "Clarity names the Gemini quality at the center of this pairing: thought and communication.",
-        "Peace": "Peace describes how 222 redirects that energy into a deliberate emotional movement.",
-        "Voice": "Voice is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Listening": "Listening is the opening force of CALM MIND. It draws from this truth: Gemini thinks fast; 222 brings emotional alignment.",
+        "Dialogue": "Dialogue is the active practice within CALM MIND. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Understanding": "Understanding is the signature alignment CALM MIND is meant to ignite. It carries the promise of this blend forward: Burn this when you want clarity without overwhelm and communication without tension."
       },
-      "expandedMeaning": "Clarity names the Gemini quality at the center of this pairing: thought and communication. Peace describes how 222 redirects that energy into a deliberate emotional movement. Voice is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody clarity, move with peace, and make space for voice?",
+      "expandedMeaning": "Listening is the opening force of CALM MIND. It draws from this truth: Gemini thinks fast; 222 brings emotional alignment. Dialogue is the active practice within CALM MIND. It turns the pairing's message into a conscious way of moving, choosing, and responding. Understanding is the signature alignment CALM MIND is meant to ignite. It carries the promise of this blend forward: Burn this when you want clarity without overwhelm and communication without tension.",
+      "reflection": "Where is CALM MIND asking you to practice Listening, build Dialogue, and allow Understanding to reshape the way you relate?",
       "websiteCopy": "Gemini thinks fast; 222 brings emotional alignment. Burn this when you want clarity without overwhelm and communication without tension.",
       "packagingCopy": "Gemini thinks fast; 222 brings emotional alignment. Burn this when you want clarity without overwhelm and communication without tension.",
       "socialCopy": "Burn this when you want clarity without overwhelm and communication without tension."
@@ -410,17 +410,17 @@ const productCatalog = {
       "definition": "Gemini is expression; 333 is creative flow. This candle supports confident speaking, creative brainstorming, and joyful self‑expression.",
       "status": "canonical",
       "threeWords": [
-        "Clarity",
-        "Create",
-        "Voice"
+        "Curiosity",
+        "Voice",
+        "Invention"
       ],
       "wordMeanings": {
-        "Clarity": "Clarity names the Gemini quality at the center of this pairing: thought and communication.",
-        "Create": "Create describes how 333 redirects that energy into a deliberate emotional movement.",
-        "Voice": "Voice is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Curiosity": "Curiosity is the opening force of BRILLIANT VOICE. It draws from this truth: Gemini is expression; 333 is creative flow.",
+        "Voice": "Voice is the active practice within BRILLIANT VOICE. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Invention": "Invention is the signature alignment BRILLIANT VOICE is meant to ignite. It carries the promise of this blend forward: This candle supports confident speaking, creative brainstorming, and joyful self‑expression."
       },
-      "expandedMeaning": "Clarity names the Gemini quality at the center of this pairing: thought and communication. Create describes how 333 redirects that energy into a deliberate emotional movement. Voice is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody clarity, move with create, and make space for voice?",
+      "expandedMeaning": "Curiosity is the opening force of BRILLIANT VOICE. It draws from this truth: Gemini is expression; 333 is creative flow. Voice is the active practice within BRILLIANT VOICE. It turns the pairing's message into a conscious way of moving, choosing, and responding. Invention is the signature alignment BRILLIANT VOICE is meant to ignite. It carries the promise of this blend forward: This candle supports confident speaking, creative brainstorming, and joyful self‑expression.",
+      "reflection": "What wants to come alive through BRILLIANT VOICE when Curiosity gives you permission to pursue Voice and embody Invention?",
       "websiteCopy": "Gemini is expression; 333 is creative flow. This candle supports confident speaking, creative brainstorming, and joyful self‑expression.",
       "packagingCopy": "Gemini is expression; 333 is creative flow. This candle supports confident speaking, creative brainstorming, and joyful self‑expression.",
       "socialCopy": "This candle supports confident speaking, creative brainstorming, and joyful self‑expression."
@@ -430,17 +430,17 @@ const productCatalog = {
       "definition": "Gemini moves quickly; 444 grounds the motion. This candle is for focus, structure, and thinking with purpose instead of distraction.",
       "status": "canonical",
       "threeWords": [
-        "Clarity",
-        "Root",
-        "Voice"
+        "Structure",
+        "Concentration",
+        "Follow-Through"
       ],
       "wordMeanings": {
-        "Clarity": "Clarity names the Gemini quality at the center of this pairing: thought and communication.",
-        "Root": "Root describes how 444 redirects that energy into a deliberate emotional movement.",
-        "Voice": "Voice is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Structure": "Structure is the opening force of STEADY INTELLECT. It draws from this truth: Gemini moves quickly; 444 grounds the motion.",
+        "Concentration": "Concentration is the active practice within STEADY INTELLECT. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Follow-Through": "Follow-Through is the signature alignment STEADY INTELLECT is meant to ignite. It carries the promise of this blend forward: This candle is for focus, structure, and thinking with purpose instead of distraction."
       },
-      "expandedMeaning": "Clarity names the Gemini quality at the center of this pairing: thought and communication. Root describes how 444 redirects that energy into a deliberate emotional movement. Voice is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody clarity, move with root, and make space for voice?",
+      "expandedMeaning": "Structure is the opening force of STEADY INTELLECT. It draws from this truth: Gemini moves quickly; 444 grounds the motion. Concentration is the active practice within STEADY INTELLECT. It turns the pairing's message into a conscious way of moving, choosing, and responding. Follow-Through is the signature alignment STEADY INTELLECT is meant to ignite. It carries the promise of this blend forward: This candle is for focus, structure, and thinking with purpose instead of distraction.",
+      "reflection": "Which part of your life needs the Structure of STEADY INTELLECT, the protection of Concentration, and the lasting support of Follow-Through?",
       "websiteCopy": "Gemini moves quickly; 444 grounds the motion. This candle is for focus, structure, and thinking with purpose instead of distraction.",
       "packagingCopy": "Gemini moves quickly; 444 grounds the motion. This candle is for focus, structure, and thinking with purpose instead of distraction.",
       "socialCopy": "This candle is for focus, structure, and thinking with purpose instead of distraction."
@@ -450,17 +450,17 @@ const productCatalog = {
       "definition": "Gemini thrives on movement, and 555 amplifies change. Burn this when you’re ready for a mental shift, new perspectives, and fresh ideas.",
       "status": "canonical",
       "threeWords": [
-        "Clarity",
-        "Change",
-        "Voice"
+        "Perspective",
+        "Movement",
+        "Discovery"
       ],
       "wordMeanings": {
-        "Clarity": "Clarity names the Gemini quality at the center of this pairing: thought and communication.",
-        "Change": "Change describes how 555 redirects that energy into a deliberate emotional movement.",
-        "Voice": "Voice is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Perspective": "Perspective is the opening force of FREE THOUGHT. It draws from this truth: Gemini thrives on movement, and 555 amplifies change.",
+        "Movement": "Movement is the active practice within FREE THOUGHT. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Discovery": "Discovery is the signature alignment FREE THOUGHT is meant to ignite. It carries the promise of this blend forward: Burn this when you’re ready for a mental shift, new perspectives, and fresh ideas."
       },
-      "expandedMeaning": "Clarity names the Gemini quality at the center of this pairing: thought and communication. Change describes how 555 redirects that energy into a deliberate emotional movement. Voice is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody clarity, move with change, and make space for voice?",
+      "expandedMeaning": "Perspective is the opening force of FREE THOUGHT. It draws from this truth: Gemini thrives on movement, and 555 amplifies change. Movement is the active practice within FREE THOUGHT. It turns the pairing's message into a conscious way of moving, choosing, and responding. Discovery is the signature alignment FREE THOUGHT is meant to ignite. It carries the promise of this blend forward: Burn this when you’re ready for a mental shift, new perspectives, and fresh ideas.",
+      "reflection": "What must shift for FREE THOUGHT to become real, and where could Perspective, Movement, and Discovery carry you next?",
       "websiteCopy": "Gemini thrives on movement, and 555 amplifies change. Burn this when you’re ready for a mental shift, new perspectives, and fresh ideas.",
       "packagingCopy": "Gemini thrives on movement, and 555 amplifies change. Burn this when you’re ready for a mental shift, new perspectives, and fresh ideas.",
       "socialCopy": "Burn this when you’re ready for a mental shift, new perspectives, and fresh ideas."
@@ -470,17 +470,17 @@ const productCatalog = {
       "definition": "Gemini lives in the head; 666 brings awareness back into the body. This candle supports slowing down, breathing, and staying present.",
       "status": "canonical",
       "threeWords": [
-        "Clarity",
-        "Body",
-        "Voice"
+        "Breath",
+        "Presence",
+        "Integration"
       ],
       "wordMeanings": {
-        "Clarity": "Clarity names the Gemini quality at the center of this pairing: thought and communication.",
-        "Body": "Body describes how 666 redirects that energy into a deliberate emotional movement.",
-        "Voice": "Voice is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Breath": "Breath is the opening force of MINDFUL PRESENCE. It draws from this truth: Gemini lives in the head; 666 brings awareness back into the body.",
+        "Presence": "Presence is the active practice within MINDFUL PRESENCE. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Integration": "Integration is the signature alignment MINDFUL PRESENCE is meant to ignite. It carries the promise of this blend forward: This candle supports slowing down, breathing, and staying present."
       },
-      "expandedMeaning": "Clarity names the Gemini quality at the center of this pairing: thought and communication. Body describes how 666 redirects that energy into a deliberate emotional movement. Voice is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody clarity, move with body, and make space for voice?",
+      "expandedMeaning": "Breath is the opening force of MINDFUL PRESENCE. It draws from this truth: Gemini lives in the head; 666 brings awareness back into the body. Presence is the active practice within MINDFUL PRESENCE. It turns the pairing's message into a conscious way of moving, choosing, and responding. Integration is the signature alignment MINDFUL PRESENCE is meant to ignite. It carries the promise of this blend forward: This candle supports slowing down, breathing, and staying present.",
+      "reflection": "How can MINDFUL PRESENCE bring you back to Breath, help you honor Presence, and let you live from Integration today?",
       "websiteCopy": "Gemini lives in the head; 666 brings awareness back into the body. This candle supports slowing down, breathing, and staying present.",
       "packagingCopy": "Gemini lives in the head; 666 brings awareness back into the body. This candle supports slowing down, breathing, and staying present.",
       "socialCopy": "This candle supports slowing down, breathing, and staying present."
@@ -490,17 +490,17 @@ const productCatalog = {
       "definition": "Gemini sees many angles; 777 reveals the truth beneath them. This candle supports trusting your inner knowing and reading between the lines.",
       "status": "canonical",
       "threeWords": [
-        "Clarity",
-        "Intuition",
-        "Voice"
+        "Perception",
+        "Insight",
+        "Truth"
       ],
       "wordMeanings": {
-        "Clarity": "Clarity names the Gemini quality at the center of this pairing: thought and communication.",
-        "Intuition": "Intuition describes how 777 redirects that energy into a deliberate emotional movement.",
-        "Voice": "Voice is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Perception": "Perception is the opening force of INTUITIVE CLARITY. It draws from this truth: Gemini sees many angles; 777 reveals the truth beneath them.",
+        "Insight": "Insight is the active practice within INTUITIVE CLARITY. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Truth": "Truth is the signature alignment INTUITIVE CLARITY is meant to ignite. It carries the promise of this blend forward: This candle supports trusting your inner knowing and reading between the lines."
       },
-      "expandedMeaning": "Clarity names the Gemini quality at the center of this pairing: thought and communication. Intuition describes how 777 redirects that energy into a deliberate emotional movement. Voice is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody clarity, move with intuition, and make space for voice?",
+      "expandedMeaning": "Perception is the opening force of INTUITIVE CLARITY. It draws from this truth: Gemini sees many angles; 777 reveals the truth beneath them. Insight is the active practice within INTUITIVE CLARITY. It turns the pairing's message into a conscious way of moving, choosing, and responding. Truth is the signature alignment INTUITIVE CLARITY is meant to ignite. It carries the promise of this blend forward: This candle supports trusting your inner knowing and reading between the lines.",
+      "reflection": "What deeper truth does INTUITIVE CLARITY reveal when you trust Perception, apply Insight, and stand firmly in Truth?",
       "websiteCopy": "Gemini sees many angles; 777 reveals the truth beneath them. This candle supports trusting your inner knowing and reading between the lines.",
       "packagingCopy": "Gemini sees many angles; 777 reveals the truth beneath them. This candle supports trusting your inner knowing and reading between the lines.",
       "socialCopy": "This candle supports trusting your inner knowing and reading between the lines."
@@ -510,17 +510,17 @@ const productCatalog = {
       "definition": "Gemini communicates; 888 makes that communication powerful. Burn this when you want to be seen, heard, and taken seriously.",
       "status": "canonical",
       "threeWords": [
-        "Clarity",
-        "Abundance",
-        "Voice"
+        "Articulation",
+        "Authority",
+        "Impact"
       ],
       "wordMeanings": {
-        "Clarity": "Clarity names the Gemini quality at the center of this pairing: thought and communication.",
-        "Abundance": "Abundance describes how 888 redirects that energy into a deliberate emotional movement.",
-        "Voice": "Voice is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Articulation": "Articulation is the opening force of MAGNETIC MESSENGER. It draws from this truth: Gemini communicates; 888 makes that communication powerful.",
+        "Authority": "Authority is the active practice within MAGNETIC MESSENGER. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Impact": "Impact is the signature alignment MAGNETIC MESSENGER is meant to ignite. It carries the promise of this blend forward: Burn this when you want to be seen, heard, and taken seriously."
       },
-      "expandedMeaning": "Clarity names the Gemini quality at the center of this pairing: thought and communication. Abundance describes how 888 redirects that energy into a deliberate emotional movement. Voice is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody clarity, move with abundance, and make space for voice?",
+      "expandedMeaning": "Articulation is the opening force of MAGNETIC MESSENGER. It draws from this truth: Gemini communicates; 888 makes that communication powerful. Authority is the active practice within MAGNETIC MESSENGER. It turns the pairing's message into a conscious way of moving, choosing, and responding. Impact is the signature alignment MAGNETIC MESSENGER is meant to ignite. It carries the promise of this blend forward: Burn this when you want to be seen, heard, and taken seriously.",
+      "reflection": "Where are you ready to claim the Articulation of MAGNETIC MESSENGER, receive Authority, and direct Impact with integrity?",
       "websiteCopy": "Gemini communicates; 888 makes that communication powerful. Burn this when you want to be seen, heard, and taken seriously.",
       "packagingCopy": "Gemini communicates; 888 makes that communication powerful. Burn this when you want to be seen, heard, and taken seriously.",
       "socialCopy": "Burn this when you want to be seen, heard, and taken seriously."
@@ -530,17 +530,17 @@ const productCatalog = {
       "definition": "Gemini gathers information; 999 creates closure. This candle supports letting go of mental clutter, finishing conversations, and moving forward with a clear mind.",
       "status": "canonical",
       "threeWords": [
+        "Resolution",
         "Clarity",
-        "Closure",
-        "Voice"
+        "Spaciousness"
       ],
       "wordMeanings": {
-        "Clarity": "Clarity names the Gemini quality at the center of this pairing: thought and communication.",
-        "Closure": "Closure describes how 999 redirects that energy into a deliberate emotional movement.",
-        "Voice": "Voice is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Resolution": "Resolution is the opening force of CLEAR CHANNEL. It draws from this truth: Gemini gathers information; 999 creates closure.",
+        "Clarity": "Clarity is the active practice within CLEAR CHANNEL. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Spaciousness": "Spaciousness is the signature alignment CLEAR CHANNEL is meant to ignite. It carries the promise of this blend forward: This candle supports letting go of mental clutter, finishing conversations, and moving forward with a clear mind."
       },
-      "expandedMeaning": "Clarity names the Gemini quality at the center of this pairing: thought and communication. Closure describes how 999 redirects that energy into a deliberate emotional movement. Voice is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody clarity, move with closure, and make space for voice?",
+      "expandedMeaning": "Resolution is the opening force of CLEAR CHANNEL. It draws from this truth: Gemini gathers information; 999 creates closure. Clarity is the active practice within CLEAR CHANNEL. It turns the pairing's message into a conscious way of moving, choosing, and responding. Spaciousness is the signature alignment CLEAR CHANNEL is meant to ignite. It carries the promise of this blend forward: This candle supports letting go of mental clutter, finishing conversations, and moving forward with a clear mind.",
+      "reflection": "What can CLEAR CHANNEL help you complete through Resolution, release through Clarity, and transform into Spaciousness?",
       "websiteCopy": "Gemini gathers information; 999 creates closure. This candle supports letting go of mental clutter, finishing conversations, and moving forward with a clear mind.",
       "packagingCopy": "Gemini gathers information; 999 creates closure. This candle supports letting go of mental clutter, finishing conversations, and moving forward with a clear mind.",
       "socialCopy": "This candle supports letting go of mental clutter, finishing conversations, and moving forward with a clear mind."
@@ -552,17 +552,17 @@ const productCatalog = {
       "definition": "Cancer carries emotional safety, nurture, and deep feeling. With 111, this protective energy becomes a tender fresh start. This candle supports soft but confident new beginnings from the heart.",
       "status": "canonical",
       "threeWords": [
-        "Nurture",
-        "Start",
-        "Home"
+        "Tenderness",
+        "Courage",
+        "Beginning"
       ],
       "wordMeanings": {
-        "Nurture": "Nurture names the Cancer quality at the center of this pairing: emotional safety.",
-        "Start": "Start describes how 111 redirects that energy into a deliberate emotional movement.",
-        "Home": "Home is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Tenderness": "Tenderness is the opening force of GENTLE BEGINNING. It draws from this truth: Cancer carries emotional safety, nurture, and deep feeling.",
+        "Courage": "Courage is the active practice within GENTLE BEGINNING. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Beginning": "Beginning is the signature alignment GENTLE BEGINNING is meant to ignite. It carries the promise of this blend forward: This candle supports soft but confident new beginnings from the heart."
       },
-      "expandedMeaning": "Nurture names the Cancer quality at the center of this pairing: emotional safety. Start describes how 111 redirects that energy into a deliberate emotional movement. Home is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody nurture, move with start, and make space for home?",
+      "expandedMeaning": "Tenderness is the opening force of GENTLE BEGINNING. It draws from this truth: Cancer carries emotional safety, nurture, and deep feeling. Courage is the active practice within GENTLE BEGINNING. It turns the pairing's message into a conscious way of moving, choosing, and responding. Beginning is the signature alignment GENTLE BEGINNING is meant to ignite. It carries the promise of this blend forward: This candle supports soft but confident new beginnings from the heart.",
+      "reflection": "What are you ready to begin through GENTLE BEGINNING, and how would choosing Tenderness and Courage create a true Beginning?",
       "websiteCopy": "Cancer carries emotional safety, nurture, and deep feeling. With 111, this protective energy becomes a tender fresh start. This candle supports soft but confident new beginnings from the heart.",
       "packagingCopy": "Cancer carries emotional safety, nurture, and deep feeling. With 111, this protective energy becomes a tender fresh start.",
       "socialCopy": "This candle supports soft but confident new beginnings from the heart."
@@ -572,17 +572,17 @@ const productCatalog = {
       "definition": "Cancer feels deeply; 222 brings emotional balance. Burn this when you want to feel held, aligned, and peacefully centered.",
       "status": "canonical",
       "threeWords": [
-        "Nurture",
-        "Peace",
-        "Home"
+        "Safety",
+        "Attunement",
+        "Belonging"
       ],
       "wordMeanings": {
-        "Nurture": "Nurture names the Cancer quality at the center of this pairing: emotional safety.",
-        "Peace": "Peace describes how 222 redirects that energy into a deliberate emotional movement.",
-        "Home": "Home is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Safety": "Safety is the opening force of HARMONIZED HEART. It draws from this truth: Cancer feels deeply; 222 brings emotional balance.",
+        "Attunement": "Attunement is the active practice within HARMONIZED HEART. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Belonging": "Belonging is the signature alignment HARMONIZED HEART is meant to ignite. It carries the promise of this blend forward: Burn this when you want to feel held, aligned, and peacefully centered."
       },
-      "expandedMeaning": "Nurture names the Cancer quality at the center of this pairing: emotional safety. Peace describes how 222 redirects that energy into a deliberate emotional movement. Home is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody nurture, move with peace, and make space for home?",
+      "expandedMeaning": "Safety is the opening force of HARMONIZED HEART. It draws from this truth: Cancer feels deeply; 222 brings emotional balance. Attunement is the active practice within HARMONIZED HEART. It turns the pairing's message into a conscious way of moving, choosing, and responding. Belonging is the signature alignment HARMONIZED HEART is meant to ignite. It carries the promise of this blend forward: Burn this when you want to feel held, aligned, and peacefully centered.",
+      "reflection": "Where is HARMONIZED HEART asking you to practice Safety, build Attunement, and allow Belonging to reshape the way you relate?",
       "websiteCopy": "Cancer feels deeply; 222 brings emotional balance. Burn this when you want to feel held, aligned, and peacefully centered.",
       "packagingCopy": "Cancer feels deeply; 222 brings emotional balance. Burn this when you want to feel held, aligned, and peacefully centered.",
       "socialCopy": "Burn this when you want to feel held, aligned, and peacefully centered."
@@ -592,17 +592,17 @@ const productCatalog = {
       "definition": "Cancer nurtures; 333 invites joyful creation. This candle encourages creative expression that feels safe, playful, and emotionally honest.",
       "status": "canonical",
       "threeWords": [
-        "Nurture",
-        "Create",
-        "Home"
+        "Imagination",
+        "Warmth",
+        "Openness"
       ],
       "wordMeanings": {
-        "Nurture": "Nurture names the Cancer quality at the center of this pairing: emotional safety.",
-        "Create": "Create describes how 333 redirects that energy into a deliberate emotional movement.",
-        "Home": "Home is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Imagination": "Imagination is the opening force of CREATIVE NURTURE. It draws from this truth: Cancer nurtures; 333 invites joyful creation.",
+        "Warmth": "Warmth is the active practice within CREATIVE NURTURE. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Openness": "Openness is the signature alignment CREATIVE NURTURE is meant to ignite. It carries the promise of this blend forward: This candle encourages creative expression that feels safe, playful, and emotionally honest."
       },
-      "expandedMeaning": "Nurture names the Cancer quality at the center of this pairing: emotional safety. Create describes how 333 redirects that energy into a deliberate emotional movement. Home is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody nurture, move with create, and make space for home?",
+      "expandedMeaning": "Imagination is the opening force of CREATIVE NURTURE. It draws from this truth: Cancer nurtures; 333 invites joyful creation. Warmth is the active practice within CREATIVE NURTURE. It turns the pairing's message into a conscious way of moving, choosing, and responding. Openness is the signature alignment CREATIVE NURTURE is meant to ignite. It carries the promise of this blend forward: This candle encourages creative expression that feels safe, playful, and emotionally honest.",
+      "reflection": "What wants to come alive through CREATIVE NURTURE when Imagination gives you permission to pursue Warmth and embody Openness?",
       "websiteCopy": "Cancer nurtures; 333 invites joyful creation. This candle encourages creative expression that feels safe, playful, and emotionally honest.",
       "packagingCopy": "Cancer nurtures; 333 invites joyful creation. This candle encourages creative expression that feels safe, playful, and emotionally honest.",
       "socialCopy": "This candle encourages creative expression that feels safe, playful, and emotionally honest."
@@ -612,17 +612,17 @@ const productCatalog = {
       "definition": "Cancer seeks emotional safety; 444 deepens that sense of stability. This candle is for steadiness, boundaries, and inner security.",
       "status": "canonical",
       "threeWords": [
-        "Nurture",
-        "Root",
-        "Home"
+        "Protection",
+        "Boundaries",
+        "Security"
       ],
       "wordMeanings": {
-        "Nurture": "Nurture names the Cancer quality at the center of this pairing: emotional safety.",
-        "Root": "Root describes how 444 redirects that energy into a deliberate emotional movement.",
-        "Home": "Home is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Protection": "Protection is the opening force of SECURE HAVEN. It draws from this truth: Cancer seeks emotional safety; 444 deepens that sense of stability.",
+        "Boundaries": "Boundaries is the active practice within SECURE HAVEN. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Security": "Security is the signature alignment SECURE HAVEN is meant to ignite. It carries the promise of this blend forward: This candle is for steadiness, boundaries, and inner security."
       },
-      "expandedMeaning": "Nurture names the Cancer quality at the center of this pairing: emotional safety. Root describes how 444 redirects that energy into a deliberate emotional movement. Home is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody nurture, move with root, and make space for home?",
+      "expandedMeaning": "Protection is the opening force of SECURE HAVEN. It draws from this truth: Cancer seeks emotional safety; 444 deepens that sense of stability. Boundaries is the active practice within SECURE HAVEN. It turns the pairing's message into a conscious way of moving, choosing, and responding. Security is the signature alignment SECURE HAVEN is meant to ignite. It carries the promise of this blend forward: This candle is for steadiness, boundaries, and inner security.",
+      "reflection": "Which part of your life needs the Protection of SECURE HAVEN, the protection of Boundaries, and the lasting support of Security?",
       "websiteCopy": "Cancer seeks emotional safety; 444 deepens that sense of stability. This candle is for steadiness, boundaries, and inner security.",
       "packagingCopy": "Cancer seeks emotional safety; 444 deepens that sense of stability. This candle is for steadiness, boundaries, and inner security.",
       "socialCopy": "This candle is for steadiness, boundaries, and inner security."
@@ -632,17 +632,17 @@ const productCatalog = {
       "definition": "Cancer moves like water; 555 invites gentle change. Burn this when you’re ready to release, move, and evolve without losing your emotional center.",
       "status": "canonical",
       "threeWords": [
-        "Nurture",
-        "Change",
-        "Home"
+        "Flow",
+        "Adaptation",
+        "Emotional-Freedom"
       ],
       "wordMeanings": {
-        "Nurture": "Nurture names the Cancer quality at the center of this pairing: emotional safety.",
-        "Change": "Change describes how 555 redirects that energy into a deliberate emotional movement.",
-        "Home": "Home is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Flow": "Flow is the opening force of OPEN TIDE. It draws from this truth: Cancer moves like water; 555 invites gentle change.",
+        "Adaptation": "Adaptation is the active practice within OPEN TIDE. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Emotional-Freedom": "Emotional-Freedom is the signature alignment OPEN TIDE is meant to ignite. It carries the promise of this blend forward: Burn this when you’re ready to release, move, and evolve without losing your emotional center."
       },
-      "expandedMeaning": "Nurture names the Cancer quality at the center of this pairing: emotional safety. Change describes how 555 redirects that energy into a deliberate emotional movement. Home is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody nurture, move with change, and make space for home?",
+      "expandedMeaning": "Flow is the opening force of OPEN TIDE. It draws from this truth: Cancer moves like water; 555 invites gentle change. Adaptation is the active practice within OPEN TIDE. It turns the pairing's message into a conscious way of moving, choosing, and responding. Emotional-Freedom is the signature alignment OPEN TIDE is meant to ignite. It carries the promise of this blend forward: Burn this when you’re ready to release, move, and evolve without losing your emotional center.",
+      "reflection": "What must shift for OPEN TIDE to become real, and where could Flow, Adaptation, and Emotional-Freedom carry you next?",
       "websiteCopy": "Cancer moves like water; 555 invites gentle change. Burn this when you’re ready to release, move, and evolve without losing your emotional center.",
       "packagingCopy": "Cancer moves like water; 555 invites gentle change. Burn this when you’re ready to release, move, and evolve without losing your emotional center.",
       "socialCopy": "Burn this when you’re ready to release, move, and evolve without losing your emotional center."
@@ -653,16 +653,16 @@ const productCatalog = {
       "status": "canonical",
       "threeWords": [
         "Nurture",
-        "Body",
-        "Home"
+        "Rest",
+        "Wholeness"
       ],
       "wordMeanings": {
-        "Nurture": "Nurture names the Cancer quality at the center of this pairing: emotional safety.",
-        "Body": "Body describes how 666 redirects that energy into a deliberate emotional movement.",
-        "Home": "Home is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Nurture": "Nurture is the opening force of EMBODIED COMFORT. It draws from this truth: Cancer lives in feeling; 666 brings presence into the body.",
+        "Rest": "Rest is the active practice within EMBODIED COMFORT. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Wholeness": "Wholeness is the signature alignment EMBODIED COMFORT is meant to ignite. It carries the promise of this blend forward: This candle supports slowing down, self‑care, and feeling truly at home in yourself."
       },
-      "expandedMeaning": "Nurture names the Cancer quality at the center of this pairing: emotional safety. Body describes how 666 redirects that energy into a deliberate emotional movement. Home is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody nurture, move with body, and make space for home?",
+      "expandedMeaning": "Nurture is the opening force of EMBODIED COMFORT. It draws from this truth: Cancer lives in feeling; 666 brings presence into the body. Rest is the active practice within EMBODIED COMFORT. It turns the pairing's message into a conscious way of moving, choosing, and responding. Wholeness is the signature alignment EMBODIED COMFORT is meant to ignite. It carries the promise of this blend forward: This candle supports slowing down, self‑care, and feeling truly at home in yourself.",
+      "reflection": "How can EMBODIED COMFORT bring you back to Nurture, help you honor Rest, and let you live from Wholeness today?",
       "websiteCopy": "Cancer lives in feeling; 666 brings presence into the body. This candle supports slowing down, self‑care, and feeling truly at home in yourself.",
       "packagingCopy": "Cancer lives in feeling; 666 brings presence into the body. This candle supports slowing down, self‑care, and feeling truly at home in yourself.",
       "socialCopy": "This candle supports slowing down, self‑care, and feeling truly at home in yourself."
@@ -672,17 +672,17 @@ const productCatalog = {
       "definition": "Cancer is deeply perceptive; 777 clarifies intuition. This candle supports trusting your inner knowing and reading beneath the surface of feelings.",
       "status": "canonical",
       "threeWords": [
-        "Nurture",
+        "Sensitivity",
         "Intuition",
-        "Home"
+        "Knowing"
       ],
       "wordMeanings": {
-        "Nurture": "Nurture names the Cancer quality at the center of this pairing: emotional safety.",
-        "Intuition": "Intuition describes how 777 redirects that energy into a deliberate emotional movement.",
-        "Home": "Home is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Sensitivity": "Sensitivity is the opening force of INTUITIVE TIDE. It draws from this truth: Cancer is deeply perceptive; 777 clarifies intuition.",
+        "Intuition": "Intuition is the active practice within INTUITIVE TIDE. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Knowing": "Knowing is the signature alignment INTUITIVE TIDE is meant to ignite. It carries the promise of this blend forward: This candle supports trusting your inner knowing and reading beneath the surface of feelings."
       },
-      "expandedMeaning": "Nurture names the Cancer quality at the center of this pairing: emotional safety. Intuition describes how 777 redirects that energy into a deliberate emotional movement. Home is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody nurture, move with intuition, and make space for home?",
+      "expandedMeaning": "Sensitivity is the opening force of INTUITIVE TIDE. It draws from this truth: Cancer is deeply perceptive; 777 clarifies intuition. Intuition is the active practice within INTUITIVE TIDE. It turns the pairing's message into a conscious way of moving, choosing, and responding. Knowing is the signature alignment INTUITIVE TIDE is meant to ignite. It carries the promise of this blend forward: This candle supports trusting your inner knowing and reading beneath the surface of feelings.",
+      "reflection": "What deeper truth does INTUITIVE TIDE reveal when you trust Sensitivity, apply Intuition, and stand firmly in Knowing?",
       "websiteCopy": "Cancer is deeply perceptive; 777 clarifies intuition. This candle supports trusting your inner knowing and reading beneath the surface of feelings.",
       "packagingCopy": "Cancer is deeply perceptive; 777 clarifies intuition. This candle supports trusting your inner knowing and reading beneath the surface of feelings.",
       "socialCopy": "This candle supports trusting your inner knowing and reading beneath the surface of feelings."
@@ -692,17 +692,17 @@ const productCatalog = {
       "definition": "Cancer nurtures others; 888 reminds you of your own worth. Burn this when you want to feel valued, magnetic, and emotionally empowered.",
       "status": "canonical",
       "threeWords": [
-        "Nurture",
-        "Abundance",
-        "Home"
+        "Self-Worth",
+        "Care",
+        "Magnetism"
       ],
       "wordMeanings": {
-        "Nurture": "Nurture names the Cancer quality at the center of this pairing: emotional safety.",
-        "Abundance": "Abundance describes how 888 redirects that energy into a deliberate emotional movement.",
-        "Home": "Home is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Self-Worth": "Self-Worth is the opening force of RADIANT CARE. It draws from this truth: Cancer nurtures others; 888 reminds you of your own worth.",
+        "Care": "Care is the active practice within RADIANT CARE. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Magnetism": "Magnetism is the signature alignment RADIANT CARE is meant to ignite. It carries the promise of this blend forward: Burn this when you want to feel valued, magnetic, and emotionally empowered."
       },
-      "expandedMeaning": "Nurture names the Cancer quality at the center of this pairing: emotional safety. Abundance describes how 888 redirects that energy into a deliberate emotional movement. Home is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody nurture, move with abundance, and make space for home?",
+      "expandedMeaning": "Self-Worth is the opening force of RADIANT CARE. It draws from this truth: Cancer nurtures others; 888 reminds you of your own worth. Care is the active practice within RADIANT CARE. It turns the pairing's message into a conscious way of moving, choosing, and responding. Magnetism is the signature alignment RADIANT CARE is meant to ignite. It carries the promise of this blend forward: Burn this when you want to feel valued, magnetic, and emotionally empowered.",
+      "reflection": "Where are you ready to claim the Self-Worth of RADIANT CARE, receive Care, and direct Magnetism with integrity?",
       "websiteCopy": "Cancer nurtures others; 888 reminds you of your own worth. Burn this when you want to feel valued, magnetic, and emotionally empowered.",
       "packagingCopy": "Cancer nurtures others; 888 reminds you of your own worth. Burn this when you want to feel valued, magnetic, and emotionally empowered.",
       "socialCopy": "Burn this when you want to feel valued, magnetic, and emotionally empowered."
@@ -712,17 +712,17 @@ const productCatalog = {
       "definition": "Cancer remembers; 999 invites closure. This candle supports letting go gently, healing quietly, and moving forward with a clear heart.",
       "status": "canonical",
       "threeWords": [
-        "Nurture",
-        "Closure",
-        "Home"
+        "Forgiveness",
+        "Release",
+        "Healing"
       ],
       "wordMeanings": {
-        "Nurture": "Nurture names the Cancer quality at the center of this pairing: emotional safety.",
-        "Closure": "Closure describes how 999 redirects that energy into a deliberate emotional movement.",
-        "Home": "Home is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Forgiveness": "Forgiveness is the opening force of SOFT RELEASE. It draws from this truth: Cancer remembers; 999 invites closure.",
+        "Release": "Release is the active practice within SOFT RELEASE. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Healing": "Healing is the signature alignment SOFT RELEASE is meant to ignite. It carries the promise of this blend forward: This candle supports letting go gently, healing quietly, and moving forward with a clear heart."
       },
-      "expandedMeaning": "Nurture names the Cancer quality at the center of this pairing: emotional safety. Closure describes how 999 redirects that energy into a deliberate emotional movement. Home is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody nurture, move with closure, and make space for home?",
+      "expandedMeaning": "Forgiveness is the opening force of SOFT RELEASE. It draws from this truth: Cancer remembers; 999 invites closure. Release is the active practice within SOFT RELEASE. It turns the pairing's message into a conscious way of moving, choosing, and responding. Healing is the signature alignment SOFT RELEASE is meant to ignite. It carries the promise of this blend forward: This candle supports letting go gently, healing quietly, and moving forward with a clear heart.",
+      "reflection": "What can SOFT RELEASE help you complete through Forgiveness, release through Release, and transform into Healing?",
       "websiteCopy": "Cancer remembers; 999 invites closure. This candle supports letting go gently, healing quietly, and moving forward with a clear heart.",
       "packagingCopy": "Cancer remembers; 999 invites closure. This candle supports letting go gently, healing quietly, and moving forward with a clear heart.",
       "socialCopy": "This candle supports letting go gently, healing quietly, and moving forward with a clear heart."
@@ -735,16 +735,16 @@ const productCatalog = {
       "status": "canonical",
       "threeWords": [
         "Radiance",
-        "Start",
-        "Heart"
+        "Courage",
+        "Emergence"
       ],
       "wordMeanings": {
-        "Radiance": "Radiance names the Leo quality at the center of this pairing: visible confidence.",
-        "Start": "Start describes how 111 redirects that energy into a deliberate emotional movement.",
-        "Heart": "Heart is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Radiance": "Radiance is the opening force of RADIANT BEGINNING. It draws from this truth: Leo carries presence, courage, and magnetic light.",
+        "Courage": "Courage is the active practice within RADIANT BEGINNING. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Emergence": "Emergence is the signature alignment RADIANT BEGINNING is meant to ignite. It carries the promise of this blend forward: This candle inspires you to step forward boldly, shine confidently, and claim your space."
       },
-      "expandedMeaning": "Radiance names the Leo quality at the center of this pairing: visible confidence. Start describes how 111 redirects that energy into a deliberate emotional movement. Heart is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody radiance, move with start, and make space for heart?",
+      "expandedMeaning": "Radiance is the opening force of RADIANT BEGINNING. It draws from this truth: Leo carries presence, courage, and magnetic light. Courage is the active practice within RADIANT BEGINNING. It turns the pairing's message into a conscious way of moving, choosing, and responding. Emergence is the signature alignment RADIANT BEGINNING is meant to ignite. It carries the promise of this blend forward: This candle inspires you to step forward boldly, shine confidently, and claim your space.",
+      "reflection": "What are you ready to begin through RADIANT BEGINNING, and how would choosing Radiance and Courage create a true Emergence?",
       "websiteCopy": "Leo carries presence, courage, and magnetic light. With 111, that radiance becomes a purposeful new start rather than pure performance. This candle inspires you to step forward boldly, shine confidently, and claim your space.",
       "packagingCopy": "Leo carries presence, courage, and magnetic light. With 111, that radiance becomes a purposeful new start rather than pure performance.",
       "socialCopy": "This candle inspires you to step forward boldly, shine confidently, and claim your space."
@@ -754,17 +754,17 @@ const productCatalog = {
       "definition": "Leo shines; 222 softens that brilliance into balanced confidence. Burn this when you want to feel powerful yet peaceful, admired yet centered.",
       "status": "canonical",
       "threeWords": [
-        "Radiance",
-        "Peace",
-        "Heart"
+        "Generosity",
+        "Partnership",
+        "Grace"
       ],
       "wordMeanings": {
-        "Radiance": "Radiance names the Leo quality at the center of this pairing: visible confidence.",
-        "Peace": "Peace describes how 222 redirects that energy into a deliberate emotional movement.",
-        "Heart": "Heart is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Generosity": "Generosity is the opening force of CALM RADIANCE. It draws from this truth: Leo shines; 222 softens that brilliance into balanced confidence.",
+        "Partnership": "Partnership is the active practice within CALM RADIANCE. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Grace": "Grace is the signature alignment CALM RADIANCE is meant to ignite. It carries the promise of this blend forward: Burn this when you want to feel powerful yet peaceful, admired yet centered."
       },
-      "expandedMeaning": "Radiance names the Leo quality at the center of this pairing: visible confidence. Peace describes how 222 redirects that energy into a deliberate emotional movement. Heart is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody radiance, move with peace, and make space for heart?",
+      "expandedMeaning": "Generosity is the opening force of CALM RADIANCE. It draws from this truth: Leo shines; 222 softens that brilliance into balanced confidence. Partnership is the active practice within CALM RADIANCE. It turns the pairing's message into a conscious way of moving, choosing, and responding. Grace is the signature alignment CALM RADIANCE is meant to ignite. It carries the promise of this blend forward: Burn this when you want to feel powerful yet peaceful, admired yet centered.",
+      "reflection": "Where is CALM RADIANCE asking you to practice Generosity, build Partnership, and allow Grace to reshape the way you relate?",
       "websiteCopy": "Leo shines; 222 softens that brilliance into balanced confidence. Burn this when you want to feel powerful yet peaceful, admired yet centered.",
       "packagingCopy": "Leo shines; 222 softens that brilliance into balanced confidence. Burn this when you want to feel powerful yet peaceful, admired yet centered.",
       "socialCopy": "Burn this when you want to feel powerful yet peaceful, admired yet centered."
@@ -774,17 +774,17 @@ const productCatalog = {
       "definition": "Leo is self‑expression; 333 is joyful creation. This candle supports artistic confidence, bold creativity, and the pleasure of being seen as your true self.",
       "status": "canonical",
       "threeWords": [
-        "Radiance",
-        "Create",
-        "Heart"
+        "Creativity",
+        "Joy",
+        "Visibility"
       ],
       "wordMeanings": {
-        "Radiance": "Radiance names the Leo quality at the center of this pairing: visible confidence.",
-        "Create": "Create describes how 333 redirects that energy into a deliberate emotional movement.",
-        "Heart": "Heart is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Creativity": "Creativity is the opening force of CREATIVE LIGHT. It draws from this truth: Leo is self‑expression; 333 is joyful creation.",
+        "Joy": "Joy is the active practice within CREATIVE LIGHT. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Visibility": "Visibility is the signature alignment CREATIVE LIGHT is meant to ignite. It carries the promise of this blend forward: This candle supports artistic confidence, bold creativity, and the pleasure of being seen as your true self."
       },
-      "expandedMeaning": "Radiance names the Leo quality at the center of this pairing: visible confidence. Create describes how 333 redirects that energy into a deliberate emotional movement. Heart is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody radiance, move with create, and make space for heart?",
+      "expandedMeaning": "Creativity is the opening force of CREATIVE LIGHT. It draws from this truth: Leo is self‑expression; 333 is joyful creation. Joy is the active practice within CREATIVE LIGHT. It turns the pairing's message into a conscious way of moving, choosing, and responding. Visibility is the signature alignment CREATIVE LIGHT is meant to ignite. It carries the promise of this blend forward: This candle supports artistic confidence, bold creativity, and the pleasure of being seen as your true self.",
+      "reflection": "What wants to come alive through CREATIVE LIGHT when Creativity gives you permission to pursue Joy and embody Visibility?",
       "websiteCopy": "Leo is self‑expression; 333 is joyful creation. This candle supports artistic confidence, bold creativity, and the pleasure of being seen as your true self.",
       "packagingCopy": "Leo is self‑expression; 333 is joyful creation. This candle supports artistic confidence, bold creativity, and the pleasure of being seen as your true self.",
       "socialCopy": "This candle supports artistic confidence, bold creativity, and the pleasure of being seen as your true self."
@@ -794,17 +794,17 @@ const productCatalog = {
       "definition": "Leo leads with fire; 444 anchors that fire in quiet strength. This candle supports composure, discipline, and confident self‑control.",
       "status": "canonical",
       "threeWords": [
-        "Radiance",
-        "Root",
-        "Heart"
+        "Loyalty",
+        "Integrity",
+        "Strength"
       ],
       "wordMeanings": {
-        "Radiance": "Radiance names the Leo quality at the center of this pairing: visible confidence.",
-        "Root": "Root describes how 444 redirects that energy into a deliberate emotional movement.",
-        "Heart": "Heart is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Loyalty": "Loyalty is the opening force of REGAL GROUNDING. It draws from this truth: Leo leads with fire; 444 anchors that fire in quiet strength.",
+        "Integrity": "Integrity is the active practice within REGAL GROUNDING. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Strength": "Strength is the signature alignment REGAL GROUNDING is meant to ignite. It carries the promise of this blend forward: This candle supports composure, discipline, and confident self‑control."
       },
-      "expandedMeaning": "Radiance names the Leo quality at the center of this pairing: visible confidence. Root describes how 444 redirects that energy into a deliberate emotional movement. Heart is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody radiance, move with root, and make space for heart?",
+      "expandedMeaning": "Loyalty is the opening force of REGAL GROUNDING. It draws from this truth: Leo leads with fire; 444 anchors that fire in quiet strength. Integrity is the active practice within REGAL GROUNDING. It turns the pairing's message into a conscious way of moving, choosing, and responding. Strength is the signature alignment REGAL GROUNDING is meant to ignite. It carries the promise of this blend forward: This candle supports composure, discipline, and confident self‑control.",
+      "reflection": "Which part of your life needs the Loyalty of REGAL GROUNDING, the protection of Integrity, and the lasting support of Strength?",
       "websiteCopy": "Leo leads with fire; 444 anchors that fire in quiet strength. This candle supports composure, discipline, and confident self‑control.",
       "packagingCopy": "Leo leads with fire; 444 anchors that fire in quiet strength. This candle supports composure, discipline, and confident self‑control.",
       "socialCopy": "This candle supports composure, discipline, and confident self‑control."
@@ -814,17 +814,17 @@ const productCatalog = {
       "definition": "Leo thrives on movement, and 555 invites liberating change. Burn this when you’re ready to step out of the spotlight on your terms and move toward a new horizon.",
       "status": "canonical",
       "threeWords": [
-        "Radiance",
-        "Change",
-        "Heart"
+        "Freedom",
+        "Reinvention",
+        "Adventure"
       ],
       "wordMeanings": {
-        "Radiance": "Radiance names the Leo quality at the center of this pairing: visible confidence.",
-        "Change": "Change describes how 555 redirects that energy into a deliberate emotional movement.",
-        "Heart": "Heart is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Freedom": "Freedom is the opening force of FREE LIGHT. It draws from this truth: Leo thrives on movement, and 555 invites liberating change.",
+        "Reinvention": "Reinvention is the active practice within FREE LIGHT. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Adventure": "Adventure is the signature alignment FREE LIGHT is meant to ignite. It carries the promise of this blend forward: Burn this when you’re ready to step out of the spotlight on your terms and move toward a new horizon."
       },
-      "expandedMeaning": "Radiance names the Leo quality at the center of this pairing: visible confidence. Change describes how 555 redirects that energy into a deliberate emotional movement. Heart is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody radiance, move with change, and make space for heart?",
+      "expandedMeaning": "Freedom is the opening force of FREE LIGHT. It draws from this truth: Leo thrives on movement, and 555 invites liberating change. Reinvention is the active practice within FREE LIGHT. It turns the pairing's message into a conscious way of moving, choosing, and responding. Adventure is the signature alignment FREE LIGHT is meant to ignite. It carries the promise of this blend forward: Burn this when you’re ready to step out of the spotlight on your terms and move toward a new horizon.",
+      "reflection": "What must shift for FREE LIGHT to become real, and where could Freedom, Reinvention, and Adventure carry you next?",
       "websiteCopy": "Leo thrives on movement, and 555 invites liberating change. Burn this when you’re ready to step out of the spotlight on your terms and move toward a new horizon.",
       "packagingCopy": "Leo thrives on movement, and 555 invites liberating change. Burn this when you’re ready to step out of the spotlight on your terms and move toward a new horizon.",
       "socialCopy": "Burn this when you’re ready to step out of the spotlight on your terms and move toward a new horizon."
@@ -834,17 +834,17 @@ const productCatalog = {
       "definition": "Leo is passion; 666 brings presence into the body. This candle supports self‑love, slow confidence, and feeling safe in your own power.",
       "status": "canonical",
       "threeWords": [
-        "Radiance",
-        "Body",
-        "Heart"
+        "Vitality",
+        "Pleasure",
+        "Authenticity"
       ],
       "wordMeanings": {
-        "Radiance": "Radiance names the Leo quality at the center of this pairing: visible confidence.",
-        "Body": "Body describes how 666 redirects that energy into a deliberate emotional movement.",
-        "Heart": "Heart is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Vitality": "Vitality is the opening force of EMBODIED WARMTH. It draws from this truth: Leo is passion; 666 brings presence into the body.",
+        "Pleasure": "Pleasure is the active practice within EMBODIED WARMTH. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Authenticity": "Authenticity is the signature alignment EMBODIED WARMTH is meant to ignite. It carries the promise of this blend forward: This candle supports self‑love, slow confidence, and feeling safe in your own power."
       },
-      "expandedMeaning": "Radiance names the Leo quality at the center of this pairing: visible confidence. Body describes how 666 redirects that energy into a deliberate emotional movement. Heart is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody radiance, move with body, and make space for heart?",
+      "expandedMeaning": "Vitality is the opening force of EMBODIED WARMTH. It draws from this truth: Leo is passion; 666 brings presence into the body. Pleasure is the active practice within EMBODIED WARMTH. It turns the pairing's message into a conscious way of moving, choosing, and responding. Authenticity is the signature alignment EMBODIED WARMTH is meant to ignite. It carries the promise of this blend forward: This candle supports self‑love, slow confidence, and feeling safe in your own power.",
+      "reflection": "How can EMBODIED WARMTH bring you back to Vitality, help you honor Pleasure, and let you live from Authenticity today?",
       "websiteCopy": "Leo is passion; 666 brings presence into the body. This candle supports self‑love, slow confidence, and feeling safe in your own power.",
       "packagingCopy": "Leo is passion; 666 brings presence into the body. This candle supports self‑love, slow confidence, and feeling safe in your own power.",
       "socialCopy": "This candle supports self‑love, slow confidence, and feeling safe in your own power."
@@ -854,17 +854,17 @@ const productCatalog = {
       "definition": "Leo radiates; 777 clarifies. This candle supports trusting your instincts and shining with quiet certainty.",
       "status": "canonical",
       "threeWords": [
-        "Radiance",
+        "Heart-Wisdom",
         "Intuition",
-        "Heart"
+        "Purpose"
       ],
       "wordMeanings": {
-        "Radiance": "Radiance names the Leo quality at the center of this pairing: visible confidence.",
-        "Intuition": "Intuition describes how 777 redirects that energy into a deliberate emotional movement.",
-        "Heart": "Heart is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Heart-Wisdom": "Heart-Wisdom is the opening force of CLEAR BRILLIANCE. It draws from this truth: Leo radiates; 777 clarifies.",
+        "Intuition": "Intuition is the active practice within CLEAR BRILLIANCE. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Purpose": "Purpose is the signature alignment CLEAR BRILLIANCE is meant to ignite. It carries the promise of this blend forward: This candle supports trusting your instincts and shining with quiet certainty."
       },
-      "expandedMeaning": "Radiance names the Leo quality at the center of this pairing: visible confidence. Intuition describes how 777 redirects that energy into a deliberate emotional movement. Heart is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody radiance, move with intuition, and make space for heart?",
+      "expandedMeaning": "Heart-Wisdom is the opening force of CLEAR BRILLIANCE. It draws from this truth: Leo radiates; 777 clarifies. Intuition is the active practice within CLEAR BRILLIANCE. It turns the pairing's message into a conscious way of moving, choosing, and responding. Purpose is the signature alignment CLEAR BRILLIANCE is meant to ignite. It carries the promise of this blend forward: This candle supports trusting your instincts and shining with quiet certainty.",
+      "reflection": "What deeper truth does CLEAR BRILLIANCE reveal when you trust Heart-Wisdom, apply Intuition, and stand firmly in Purpose?",
       "websiteCopy": "Leo radiates; 777 clarifies. This candle supports trusting your instincts and shining with quiet certainty.",
       "packagingCopy": "Leo radiates; 777 clarifies. This candle supports trusting your instincts and shining with quiet certainty.",
       "socialCopy": "This candle supports trusting your instincts and shining with quiet certainty."
@@ -874,17 +874,17 @@ const productCatalog = {
       "definition": "Leo embodies confidence; 888 amplifies it into abundance. Burn this when you want to stand fully in your worth and attract what you deserve.",
       "status": "canonical",
       "threeWords": [
-        "Radiance",
-        "Abundance",
-        "Heart"
+        "Sovereignty",
+        "Confidence",
+        "Recognition"
       ],
       "wordMeanings": {
-        "Radiance": "Radiance names the Leo quality at the center of this pairing: visible confidence.",
-        "Abundance": "Abundance describes how 888 redirects that energy into a deliberate emotional movement.",
-        "Heart": "Heart is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Sovereignty": "Sovereignty is the opening force of MAGNETIC GOLD. It draws from this truth: Leo embodies confidence; 888 amplifies it into abundance.",
+        "Confidence": "Confidence is the active practice within MAGNETIC GOLD. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Recognition": "Recognition is the signature alignment MAGNETIC GOLD is meant to ignite. It carries the promise of this blend forward: Burn this when you want to stand fully in your worth and attract what you deserve."
       },
-      "expandedMeaning": "Radiance names the Leo quality at the center of this pairing: visible confidence. Abundance describes how 888 redirects that energy into a deliberate emotional movement. Heart is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody radiance, move with abundance, and make space for heart?",
+      "expandedMeaning": "Sovereignty is the opening force of MAGNETIC GOLD. It draws from this truth: Leo embodies confidence; 888 amplifies it into abundance. Confidence is the active practice within MAGNETIC GOLD. It turns the pairing's message into a conscious way of moving, choosing, and responding. Recognition is the signature alignment MAGNETIC GOLD is meant to ignite. It carries the promise of this blend forward: Burn this when you want to stand fully in your worth and attract what you deserve.",
+      "reflection": "Where are you ready to claim the Sovereignty of MAGNETIC GOLD, receive Confidence, and direct Recognition with integrity?",
       "websiteCopy": "Leo embodies confidence; 888 amplifies it into abundance. Burn this when you want to stand fully in your worth and attract what you deserve.",
       "packagingCopy": "Leo embodies confidence; 888 amplifies it into abundance. Burn this when you want to stand fully in your worth and attract what you deserve.",
       "socialCopy": "Burn this when you want to stand fully in your worth and attract what you deserve."
@@ -894,17 +894,17 @@ const productCatalog = {
       "definition": "Leo creates impact; 999 brings graceful closure. This candle supports releasing the past with dignity and moving forward with clarity.",
       "status": "canonical",
       "threeWords": [
-        "Radiance",
-        "Closure",
-        "Heart"
+        "Humility",
+        "Completion",
+        "Legacy"
       ],
       "wordMeanings": {
-        "Radiance": "Radiance names the Leo quality at the center of this pairing: visible confidence.",
-        "Closure": "Closure describes how 999 redirects that energy into a deliberate emotional movement.",
-        "Heart": "Heart is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Humility": "Humility is the opening force of GENTLE FADE. It draws from this truth: Leo creates impact; 999 brings graceful closure.",
+        "Completion": "Completion is the active practice within GENTLE FADE. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Legacy": "Legacy is the signature alignment GENTLE FADE is meant to ignite. It carries the promise of this blend forward: This candle supports releasing the past with dignity and moving forward with clarity."
       },
-      "expandedMeaning": "Radiance names the Leo quality at the center of this pairing: visible confidence. Closure describes how 999 redirects that energy into a deliberate emotional movement. Heart is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody radiance, move with closure, and make space for heart?",
+      "expandedMeaning": "Humility is the opening force of GENTLE FADE. It draws from this truth: Leo creates impact; 999 brings graceful closure. Completion is the active practice within GENTLE FADE. It turns the pairing's message into a conscious way of moving, choosing, and responding. Legacy is the signature alignment GENTLE FADE is meant to ignite. It carries the promise of this blend forward: This candle supports releasing the past with dignity and moving forward with clarity.",
+      "reflection": "What can GENTLE FADE help you complete through Humility, release through Completion, and transform into Legacy?",
       "websiteCopy": "Leo creates impact; 999 brings graceful closure. This candle supports releasing the past with dignity and moving forward with clarity.",
       "packagingCopy": "Leo creates impact; 999 brings graceful closure. This candle supports releasing the past with dignity and moving forward with clarity.",
       "socialCopy": "This candle supports releasing the past with dignity and moving forward with clarity."
@@ -916,17 +916,17 @@ const productCatalog = {
       "definition": "Virgo brings organization, discernment, and mental clarity. With 111, this thoughtful energy becomes purposeful initiation. This candle supports beginning with intention, clarity, and confidence rather than hesitation.",
       "status": "canonical",
       "threeWords": [
-        "Refinement",
-        "Start",
-        "Care"
+        "Clarity",
+        "Intention",
+        "Reset"
       ],
       "wordMeanings": {
-        "Refinement": "Refinement names the Virgo quality at the center of this pairing: careful alignment.",
-        "Start": "Start describes how 111 redirects that energy into a deliberate emotional movement.",
-        "Care": "Care is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Clarity": "Clarity is the opening force of FRESH ORDER. It draws from this truth: Virgo brings organization, discernment, and mental clarity.",
+        "Intention": "Intention is the active practice within FRESH ORDER. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Reset": "Reset is the signature alignment FRESH ORDER is meant to ignite. It carries the promise of this blend forward: This candle supports beginning with intention, clarity, and confidence rather than hesitation."
       },
-      "expandedMeaning": "Refinement names the Virgo quality at the center of this pairing: careful alignment. Start describes how 111 redirects that energy into a deliberate emotional movement. Care is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody refinement, move with start, and make space for care?",
+      "expandedMeaning": "Clarity is the opening force of FRESH ORDER. It draws from this truth: Virgo brings organization, discernment, and mental clarity. Intention is the active practice within FRESH ORDER. It turns the pairing's message into a conscious way of moving, choosing, and responding. Reset is the signature alignment FRESH ORDER is meant to ignite. It carries the promise of this blend forward: This candle supports beginning with intention, clarity, and confidence rather than hesitation.",
+      "reflection": "What are you ready to begin through FRESH ORDER, and how would choosing Clarity and Intention create a true Reset?",
       "websiteCopy": "Virgo brings organization, discernment, and mental clarity. With 111, this thoughtful energy becomes purposeful initiation. This candle supports beginning with intention, clarity, and confidence rather than hesitation.",
       "packagingCopy": "Virgo brings organization, discernment, and mental clarity. With 111, this thoughtful energy becomes purposeful initiation.",
       "socialCopy": "This candle supports beginning with intention, clarity, and confidence rather than hesitation."
@@ -936,17 +936,17 @@ const productCatalog = {
       "definition": "Virgo seeks balance; 222 brings emotional harmony. Burn this when you want structure without stress and control without pressure.",
       "status": "canonical",
       "threeWords": [
-        "Refinement",
-        "Peace",
-        "Care"
+        "Balance",
+        "Patience",
+        "Harmony"
       ],
       "wordMeanings": {
-        "Refinement": "Refinement names the Virgo quality at the center of this pairing: careful alignment.",
-        "Peace": "Peace describes how 222 redirects that energy into a deliberate emotional movement.",
-        "Care": "Care is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Balance": "Balance is the opening force of PEACEFUL SYSTEM. It draws from this truth: Virgo seeks balance; 222 brings emotional harmony.",
+        "Patience": "Patience is the active practice within PEACEFUL SYSTEM. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Harmony": "Harmony is the signature alignment PEACEFUL SYSTEM is meant to ignite. It carries the promise of this blend forward: Burn this when you want structure without stress and control without pressure."
       },
-      "expandedMeaning": "Refinement names the Virgo quality at the center of this pairing: careful alignment. Peace describes how 222 redirects that energy into a deliberate emotional movement. Care is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody refinement, move with peace, and make space for care?",
+      "expandedMeaning": "Balance is the opening force of PEACEFUL SYSTEM. It draws from this truth: Virgo seeks balance; 222 brings emotional harmony. Patience is the active practice within PEACEFUL SYSTEM. It turns the pairing's message into a conscious way of moving, choosing, and responding. Harmony is the signature alignment PEACEFUL SYSTEM is meant to ignite. It carries the promise of this blend forward: Burn this when you want structure without stress and control without pressure.",
+      "reflection": "Where is PEACEFUL SYSTEM asking you to practice Balance, build Patience, and allow Harmony to reshape the way you relate?",
       "websiteCopy": "Virgo seeks balance; 222 brings emotional harmony. Burn this when you want structure without stress and control without pressure.",
       "packagingCopy": "Virgo seeks balance; 222 brings emotional harmony. Burn this when you want structure without stress and control without pressure.",
       "socialCopy": "Burn this when you want structure without stress and control without pressure."
@@ -956,17 +956,17 @@ const productCatalog = {
       "definition": "Virgo is precision; 333 invites joyful expression. This candle encourages thoughtful creativity, inspired problem‑solving, and confident self-expression.",
       "status": "canonical",
       "threeWords": [
-        "Refinement",
-        "Create",
-        "Care"
+        "Ingenuity",
+        "Precision",
+        "Expression"
       ],
       "wordMeanings": {
-        "Refinement": "Refinement names the Virgo quality at the center of this pairing: careful alignment.",
-        "Create": "Create describes how 333 redirects that energy into a deliberate emotional movement.",
-        "Care": "Care is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Ingenuity": "Ingenuity is the opening force of CREATIVE DETAIL. It draws from this truth: Virgo is precision; 333 invites joyful expression.",
+        "Precision": "Precision is the active practice within CREATIVE DETAIL. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Expression": "Expression is the signature alignment CREATIVE DETAIL is meant to ignite. It carries the promise of this blend forward: This candle encourages thoughtful creativity, inspired problem‑solving, and confident self-expression."
       },
-      "expandedMeaning": "Refinement names the Virgo quality at the center of this pairing: careful alignment. Create describes how 333 redirects that energy into a deliberate emotional movement. Care is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody refinement, move with create, and make space for care?",
+      "expandedMeaning": "Ingenuity is the opening force of CREATIVE DETAIL. It draws from this truth: Virgo is precision; 333 invites joyful expression. Precision is the active practice within CREATIVE DETAIL. It turns the pairing's message into a conscious way of moving, choosing, and responding. Expression is the signature alignment CREATIVE DETAIL is meant to ignite. It carries the promise of this blend forward: This candle encourages thoughtful creativity, inspired problem‑solving, and confident self-expression.",
+      "reflection": "What wants to come alive through CREATIVE DETAIL when Ingenuity gives you permission to pursue Precision and embody Expression?",
       "websiteCopy": "Virgo is precision; 333 invites joyful expression. This candle encourages thoughtful creativity, inspired problem‑solving, and confident self-expression.",
       "packagingCopy": "Virgo is precision; 333 invites joyful expression. This candle encourages thoughtful creativity, inspired problem‑solving, and confident self-expression.",
       "socialCopy": "This candle encourages thoughtful creativity, inspired problem‑solving, and confident self-expression."
@@ -976,17 +976,17 @@ const productCatalog = {
       "definition": "Virgo builds systems; 444 strengthens the foundation. This candle supports discipline, focus, and trust in your own methodical process.",
       "status": "canonical",
       "threeWords": [
-        "Refinement",
-        "Root",
-        "Care"
+        "Order",
+        "Devotion",
+        "Reliability"
       ],
       "wordMeanings": {
-        "Refinement": "Refinement names the Virgo quality at the center of this pairing: careful alignment.",
-        "Root": "Root describes how 444 redirects that energy into a deliberate emotional movement.",
-        "Care": "Care is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Order": "Order is the opening force of SOLID STRUCTURE. It draws from this truth: Virgo builds systems; 444 strengthens the foundation.",
+        "Devotion": "Devotion is the active practice within SOLID STRUCTURE. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Reliability": "Reliability is the signature alignment SOLID STRUCTURE is meant to ignite. It carries the promise of this blend forward: This candle supports discipline, focus, and trust in your own methodical process."
       },
-      "expandedMeaning": "Refinement names the Virgo quality at the center of this pairing: careful alignment. Root describes how 444 redirects that energy into a deliberate emotional movement. Care is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody refinement, move with root, and make space for care?",
+      "expandedMeaning": "Order is the opening force of SOLID STRUCTURE. It draws from this truth: Virgo builds systems; 444 strengthens the foundation. Devotion is the active practice within SOLID STRUCTURE. It turns the pairing's message into a conscious way of moving, choosing, and responding. Reliability is the signature alignment SOLID STRUCTURE is meant to ignite. It carries the promise of this blend forward: This candle supports discipline, focus, and trust in your own methodical process.",
+      "reflection": "Which part of your life needs the Order of SOLID STRUCTURE, the protection of Devotion, and the lasting support of Reliability?",
       "websiteCopy": "Virgo builds systems; 444 strengthens the foundation. This candle supports discipline, focus, and trust in your own methodical process.",
       "packagingCopy": "Virgo builds systems; 444 strengthens the foundation. This candle supports discipline, focus, and trust in your own methodical process.",
       "socialCopy": "This candle supports discipline, focus, and trust in your own methodical process."
@@ -996,17 +996,17 @@ const productCatalog = {
       "definition": "Virgo values routine; 555 invites flexible change. Burn this when you’re ready to evolve your plans without losing your center.",
       "status": "canonical",
       "threeWords": [
-        "Refinement",
-        "Change",
-        "Care"
+        "Release",
+        "Adjustment",
+        "Renewal"
       ],
       "wordMeanings": {
-        "Refinement": "Refinement names the Virgo quality at the center of this pairing: careful alignment.",
-        "Change": "Change describes how 555 redirects that energy into a deliberate emotional movement.",
-        "Care": "Care is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Release": "Release is the opening force of OPEN METHOD. It draws from this truth: Virgo values routine; 555 invites flexible change.",
+        "Adjustment": "Adjustment is the active practice within OPEN METHOD. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Renewal": "Renewal is the signature alignment OPEN METHOD is meant to ignite. It carries the promise of this blend forward: Burn this when you’re ready to evolve your plans without losing your center."
       },
-      "expandedMeaning": "Refinement names the Virgo quality at the center of this pairing: careful alignment. Change describes how 555 redirects that energy into a deliberate emotional movement. Care is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody refinement, move with change, and make space for care?",
+      "expandedMeaning": "Release is the opening force of OPEN METHOD. It draws from this truth: Virgo values routine; 555 invites flexible change. Adjustment is the active practice within OPEN METHOD. It turns the pairing's message into a conscious way of moving, choosing, and responding. Renewal is the signature alignment OPEN METHOD is meant to ignite. It carries the promise of this blend forward: Burn this when you’re ready to evolve your plans without losing your center.",
+      "reflection": "What must shift for OPEN METHOD to become real, and where could Release, Adjustment, and Renewal carry you next?",
       "websiteCopy": "Virgo values routine; 555 invites flexible change. Burn this when you’re ready to evolve your plans without losing your center.",
       "packagingCopy": "Virgo values routine; 555 invites flexible change. Burn this when you’re ready to evolve your plans without losing your center.",
       "socialCopy": "Burn this when you’re ready to evolve your plans without losing your center."
@@ -1016,17 +1016,17 @@ const productCatalog = {
       "definition": "Virgo serves others; 666 brings presence back to the self. This candle supports self‑care, slowing down, and feeling grounded in your own needs.",
       "status": "canonical",
       "threeWords": [
-        "Refinement",
-        "Body",
-        "Care"
+        "Care",
+        "Ritual",
+        "Wellbeing"
       ],
       "wordMeanings": {
-        "Refinement": "Refinement names the Virgo quality at the center of this pairing: careful alignment.",
-        "Body": "Body describes how 666 redirects that energy into a deliberate emotional movement.",
-        "Care": "Care is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Care": "Care is the opening force of MINDFUL CARE. It draws from this truth: Virgo serves others; 666 brings presence back to the self.",
+        "Ritual": "Ritual is the active practice within MINDFUL CARE. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Wellbeing": "Wellbeing is the signature alignment MINDFUL CARE is meant to ignite. It carries the promise of this blend forward: This candle supports self‑care, slowing down, and feeling grounded in your own needs."
       },
-      "expandedMeaning": "Refinement names the Virgo quality at the center of this pairing: careful alignment. Body describes how 666 redirects that energy into a deliberate emotional movement. Care is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody refinement, move with body, and make space for care?",
+      "expandedMeaning": "Care is the opening force of MINDFUL CARE. It draws from this truth: Virgo serves others; 666 brings presence back to the self. Ritual is the active practice within MINDFUL CARE. It turns the pairing's message into a conscious way of moving, choosing, and responding. Wellbeing is the signature alignment MINDFUL CARE is meant to ignite. It carries the promise of this blend forward: This candle supports self‑care, slowing down, and feeling grounded in your own needs.",
+      "reflection": "How can MINDFUL CARE bring you back to Care, help you honor Ritual, and let you live from Wellbeing today?",
       "websiteCopy": "Virgo serves others; 666 brings presence back to the self. This candle supports self‑care, slowing down, and feeling grounded in your own needs.",
       "packagingCopy": "Virgo serves others; 666 brings presence back to the self. This candle supports self‑care, slowing down, and feeling grounded in your own needs.",
       "socialCopy": "This candle supports self‑care, slowing down, and feeling grounded in your own needs."
@@ -1036,17 +1036,17 @@ const productCatalog = {
       "definition": "Virgo sees details; 777 reveals deeper truth. This candle supports trusting intuition alongside logic.",
       "status": "canonical",
       "threeWords": [
-        "Refinement",
-        "Intuition",
-        "Care"
+        "Discernment",
+        "Observation",
+        "Wisdom"
       ],
       "wordMeanings": {
-        "Refinement": "Refinement names the Virgo quality at the center of this pairing: careful alignment.",
-        "Intuition": "Intuition describes how 777 redirects that energy into a deliberate emotional movement.",
-        "Care": "Care is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Discernment": "Discernment is the opening force of INTUITIVE ORDER. It draws from this truth: Virgo sees details; 777 reveals deeper truth.",
+        "Observation": "Observation is the active practice within INTUITIVE ORDER. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Wisdom": "Wisdom is the signature alignment INTUITIVE ORDER is meant to ignite. It carries the promise of this blend forward: This candle supports trusting intuition alongside logic."
       },
-      "expandedMeaning": "Refinement names the Virgo quality at the center of this pairing: careful alignment. Intuition describes how 777 redirects that energy into a deliberate emotional movement. Care is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody refinement, move with intuition, and make space for care?",
+      "expandedMeaning": "Discernment is the opening force of INTUITIVE ORDER. It draws from this truth: Virgo sees details; 777 reveals deeper truth. Observation is the active practice within INTUITIVE ORDER. It turns the pairing's message into a conscious way of moving, choosing, and responding. Wisdom is the signature alignment INTUITIVE ORDER is meant to ignite. It carries the promise of this blend forward: This candle supports trusting intuition alongside logic.",
+      "reflection": "What deeper truth does INTUITIVE ORDER reveal when you trust Discernment, apply Observation, and stand firmly in Wisdom?",
       "websiteCopy": "Virgo sees details; 777 reveals deeper truth. This candle supports trusting intuition alongside logic.",
       "packagingCopy": "Virgo sees details; 777 reveals deeper truth. This candle supports trusting intuition alongside logic.",
       "socialCopy": "This candle supports trusting intuition alongside logic."
@@ -1056,17 +1056,17 @@ const productCatalog = {
       "definition": "Virgo cultivates excellence; 888 amplifies confidence and worth. Burn this when you want to step into your value with quiet authority.",
       "status": "canonical",
       "threeWords": [
-        "Refinement",
-        "Abundance",
-        "Care"
+        "Mastery",
+        "Service",
+        "Abundance"
       ],
       "wordMeanings": {
-        "Refinement": "Refinement names the Virgo quality at the center of this pairing: careful alignment.",
-        "Abundance": "Abundance describes how 888 redirects that energy into a deliberate emotional movement.",
-        "Care": "Care is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Mastery": "Mastery is the opening force of REFINED POWER. It draws from this truth: Virgo cultivates excellence; 888 amplifies confidence and worth.",
+        "Service": "Service is the active practice within REFINED POWER. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Abundance": "Abundance is the signature alignment REFINED POWER is meant to ignite. It carries the promise of this blend forward: Burn this when you want to step into your value with quiet authority."
       },
-      "expandedMeaning": "Refinement names the Virgo quality at the center of this pairing: careful alignment. Abundance describes how 888 redirects that energy into a deliberate emotional movement. Care is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody refinement, move with abundance, and make space for care?",
+      "expandedMeaning": "Mastery is the opening force of REFINED POWER. It draws from this truth: Virgo cultivates excellence; 888 amplifies confidence and worth. Service is the active practice within REFINED POWER. It turns the pairing's message into a conscious way of moving, choosing, and responding. Abundance is the signature alignment REFINED POWER is meant to ignite. It carries the promise of this blend forward: Burn this when you want to step into your value with quiet authority.",
+      "reflection": "Where are you ready to claim the Mastery of REFINED POWER, receive Service, and direct Abundance with integrity?",
       "websiteCopy": "Virgo cultivates excellence; 888 amplifies confidence and worth. Burn this when you want to step into your value with quiet authority.",
       "packagingCopy": "Virgo cultivates excellence; 888 amplifies confidence and worth. Burn this when you want to step into your value with quiet authority.",
       "socialCopy": "Burn this when you want to step into your value with quiet authority."
@@ -1076,17 +1076,17 @@ const productCatalog = {
       "definition": "Virgo perfects; 999 completes. This candle supports releasing what no longer serves you while maintaining order and calm.",
       "status": "canonical",
       "threeWords": [
-        "Refinement",
-        "Closure",
-        "Care"
+        "Completion",
+        "Purification",
+        "Peace"
       ],
       "wordMeanings": {
-        "Refinement": "Refinement names the Virgo quality at the center of this pairing: careful alignment.",
-        "Closure": "Closure describes how 999 redirects that energy into a deliberate emotional movement.",
-        "Care": "Care is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Completion": "Completion is the opening force of CLEAN RESET. It draws from this truth: Virgo perfects; 999 completes.",
+        "Purification": "Purification is the active practice within CLEAN RESET. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Peace": "Peace is the signature alignment CLEAN RESET is meant to ignite. It carries the promise of this blend forward: This candle supports releasing what no longer serves you while maintaining order and calm."
       },
-      "expandedMeaning": "Refinement names the Virgo quality at the center of this pairing: careful alignment. Closure describes how 999 redirects that energy into a deliberate emotional movement. Care is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody refinement, move with closure, and make space for care?",
+      "expandedMeaning": "Completion is the opening force of CLEAN RESET. It draws from this truth: Virgo perfects; 999 completes. Purification is the active practice within CLEAN RESET. It turns the pairing's message into a conscious way of moving, choosing, and responding. Peace is the signature alignment CLEAN RESET is meant to ignite. It carries the promise of this blend forward: This candle supports releasing what no longer serves you while maintaining order and calm.",
+      "reflection": "What can CLEAN RESET help you complete through Completion, release through Purification, and transform into Peace?",
       "websiteCopy": "Virgo perfects; 999 completes. This candle supports releasing what no longer serves you while maintaining order and calm.",
       "packagingCopy": "Virgo perfects; 999 completes. This candle supports releasing what no longer serves you while maintaining order and calm.",
       "socialCopy": "This candle supports releasing what no longer serves you while maintaining order and calm."
@@ -1099,16 +1099,16 @@ const productCatalog = {
       "status": "canonical",
       "threeWords": [
         "Clarity",
-        "Graceful Beginnings",
-        "Aligned Choices"
+        "Choice",
+        "Alignment"
       ],
       "wordMeanings": {
-        "Clarity": "Clarity names the Libra quality at the center of this pairing: relational balance.",
-        "Graceful Beginnings": "Graceful Beginnings describes how 111 redirects that energy into a deliberate emotional movement.",
-        "Aligned Choices": "Aligned Choices is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Clarity": "Clarity is the opening force of POISED BEGINNING. It draws from this truth: Libra brings grace, fairness, and aesthetic clarity.",
+        "Choice": "Choice is the active practice within POISED BEGINNING. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Alignment": "Alignment is the signature alignment POISED BEGINNING is meant to ignite. It carries the promise of this blend forward: This candle supports starting something new with composure, confidence, and emotional clarity."
       },
-      "expandedMeaning": "Clarity names the Libra quality at the center of this pairing: relational balance. Graceful Beginnings describes how 111 redirects that energy into a deliberate emotional movement. Aligned Choices is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody clarity, move with graceful beginnings, and make space for aligned choices?",
+      "expandedMeaning": "Clarity is the opening force of POISED BEGINNING. It draws from this truth: Libra brings grace, fairness, and aesthetic clarity. Choice is the active practice within POISED BEGINNING. It turns the pairing's message into a conscious way of moving, choosing, and responding. Alignment is the signature alignment POISED BEGINNING is meant to ignite. It carries the promise of this blend forward: This candle supports starting something new with composure, confidence, and emotional clarity.",
+      "reflection": "What are you ready to begin through POISED BEGINNING, and how would choosing Clarity and Choice create a true Alignment?",
       "websiteCopy": "Libra brings grace, fairness, and aesthetic clarity. With 111, this refined energy becomes purposeful initiation rather than hesitation. This candle supports starting something new with composure, confidence, and emotional clarity.",
       "packagingCopy": "Libra brings grace, fairness, and aesthetic clarity. With 111, this refined energy becomes purposeful initiation rather than hesitation.",
       "socialCopy": "This candle supports starting something new with composure, confidence, and emotional clarity."
@@ -1119,16 +1119,16 @@ const productCatalog = {
       "status": "canonical",
       "threeWords": [
         "Peace",
-        "Emotional Steadiness",
-        "Relational Ease"
+        "Trust",
+        "Partnership"
       ],
       "wordMeanings": {
-        "Peace": "Peace names the Libra quality at the center of this pairing: relational balance.",
-        "Emotional Steadiness": "Emotional Steadiness describes how 222 redirects that energy into a deliberate emotional movement.",
-        "Relational Ease": "Relational Ease is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Peace": "Peace is the opening force of PERFECT HARMONY. It draws from this truth: Libra seeks balance; 222 embodies it.",
+        "Trust": "Trust is the active practice within PERFECT HARMONY. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Partnership": "Partnership is the signature alignment PERFECT HARMONY is meant to ignite. It carries the promise of this blend forward: Burn this when you want peace in relationships, steady emotions, and effortless alignment with yourself and others."
       },
-      "expandedMeaning": "Peace names the Libra quality at the center of this pairing: relational balance. Emotional Steadiness describes how 222 redirects that energy into a deliberate emotional movement. Relational Ease is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody peace, move with emotional steadiness, and make space for relational ease?",
+      "expandedMeaning": "Peace is the opening force of PERFECT HARMONY. It draws from this truth: Libra seeks balance; 222 embodies it. Trust is the active practice within PERFECT HARMONY. It turns the pairing's message into a conscious way of moving, choosing, and responding. Partnership is the signature alignment PERFECT HARMONY is meant to ignite. It carries the promise of this blend forward: Burn this when you want peace in relationships, steady emotions, and effortless alignment with yourself and others.",
+      "reflection": "Where is PERFECT HARMONY asking you to practice Peace, build Trust, and allow Partnership to reshape the way you relate?",
       "websiteCopy": "Libra seeks balance; 222 embodies it. Burn this when you want peace in relationships, steady emotions, and effortless alignment with yourself and others.",
       "packagingCopy": "Libra seeks balance; 222 embodies it. Burn this when you want peace in relationships, steady emotions, and effortless alignment with yourself and others.",
       "socialCopy": "Burn this when you want peace in relationships, steady emotions, and effortless alignment with yourself and others."
@@ -1138,17 +1138,17 @@ const productCatalog = {
       "definition": "Libra is beauty in motion; 333 is joyful expression. This candle encourages creative collaboration, confident self‑expression, and the pleasure of moving through life with style.",
       "status": "canonical",
       "threeWords": [
-        "Expression",
         "Beauty",
-        "Playful Refinement"
+        "Expression",
+        "Connection"
       ],
       "wordMeanings": {
-        "Expression": "Expression names the Libra quality at the center of this pairing: relational balance.",
-        "Beauty": "Beauty describes how 333 redirects that energy into a deliberate emotional movement.",
-        "Playful Refinement": "Playful Refinement is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Beauty": "Beauty is the opening force of ARTFUL FLOW. It draws from this truth: Libra is beauty in motion; 333 is joyful expression.",
+        "Expression": "Expression is the active practice within ARTFUL FLOW. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Connection": "Connection is the signature alignment ARTFUL FLOW is meant to ignite. It carries the promise of this blend forward: This candle encourages creative collaboration, confident self‑expression, and the pleasure of moving through life with style."
       },
-      "expandedMeaning": "Expression names the Libra quality at the center of this pairing: relational balance. Beauty describes how 333 redirects that energy into a deliberate emotional movement. Playful Refinement is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody expression, move with beauty, and make space for playful refinement?",
+      "expandedMeaning": "Beauty is the opening force of ARTFUL FLOW. It draws from this truth: Libra is beauty in motion; 333 is joyful expression. Expression is the active practice within ARTFUL FLOW. It turns the pairing's message into a conscious way of moving, choosing, and responding. Connection is the signature alignment ARTFUL FLOW is meant to ignite. It carries the promise of this blend forward: This candle encourages creative collaboration, confident self‑expression, and the pleasure of moving through life with style.",
+      "reflection": "What wants to come alive through ARTFUL FLOW when Beauty gives you permission to pursue Expression and embody Connection?",
       "websiteCopy": "Libra is beauty in motion; 333 is joyful expression. This candle encourages creative collaboration, confident self‑expression, and the pleasure of moving through life with style.",
       "packagingCopy": "Libra is beauty in motion; 333 is joyful expression. This candle encourages creative collaboration, confident self‑expression, and the pleasure of moving through life with style.",
       "socialCopy": "This candle encourages creative collaboration, confident self‑expression, and the pleasure of moving through life with style."
@@ -1158,17 +1158,17 @@ const productCatalog = {
       "definition": "Libra leads with charm; 444 anchors that charm in quiet strength. This candle supports emotional steadiness, boundaries, and composed confidence.",
       "status": "canonical",
       "threeWords": [
-        "Grounded Poise",
+        "Poise",
         "Boundaries",
-        "Calm Authority"
+        "Stability"
       ],
       "wordMeanings": {
-        "Grounded Poise": "Grounded Poise names the Libra quality at the center of this pairing: relational balance.",
-        "Boundaries": "Boundaries describes how 444 redirects that energy into a deliberate emotional movement.",
-        "Calm Authority": "Calm Authority is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Poise": "Poise is the opening force of STEADY ELEGANCE. It draws from this truth: Libra leads with charm; 444 anchors that charm in quiet strength.",
+        "Boundaries": "Boundaries is the active practice within STEADY ELEGANCE. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Stability": "Stability is the signature alignment STEADY ELEGANCE is meant to ignite. It carries the promise of this blend forward: This candle supports emotional steadiness, boundaries, and composed confidence."
       },
-      "expandedMeaning": "Grounded Poise names the Libra quality at the center of this pairing: relational balance. Boundaries describes how 444 redirects that energy into a deliberate emotional movement. Calm Authority is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody grounded poise, move with boundaries, and make space for calm authority?",
+      "expandedMeaning": "Poise is the opening force of STEADY ELEGANCE. It draws from this truth: Libra leads with charm; 444 anchors that charm in quiet strength. Boundaries is the active practice within STEADY ELEGANCE. It turns the pairing's message into a conscious way of moving, choosing, and responding. Stability is the signature alignment STEADY ELEGANCE is meant to ignite. It carries the promise of this blend forward: This candle supports emotional steadiness, boundaries, and composed confidence.",
+      "reflection": "Which part of your life needs the Poise of STEADY ELEGANCE, the protection of Boundaries, and the lasting support of Stability?",
       "websiteCopy": "Libra leads with charm; 444 anchors that charm in quiet strength. This candle supports emotional steadiness, boundaries, and composed confidence.",
       "packagingCopy": "Libra leads with charm; 444 anchors that charm in quiet strength. This candle supports emotional steadiness, boundaries, and composed confidence.",
       "socialCopy": "This candle supports emotional steadiness, boundaries, and composed confidence."
@@ -1178,17 +1178,17 @@ const productCatalog = {
       "definition": "Libra values harmony, and 555 invites fluid change. Burn this when you are ready to evolve relationships, release old patterns, and move forward with balance.",
       "status": "canonical",
       "threeWords": [
-        "Open Flow",
-        "Gentle Change",
-        "Social Ease"
+        "Flexibility",
+        "Change",
+        "Equilibrium"
       ],
       "wordMeanings": {
-        "Open Flow": "Open Flow names the Libra quality at the center of this pairing: relational balance.",
-        "Gentle Change": "Gentle Change describes how 555 redirects that energy into a deliberate emotional movement.",
-        "Social Ease": "Social Ease is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Flexibility": "Flexibility is the opening force of OPEN EQUILIBRIUM. It draws from this truth: Libra values harmony, and 555 invites fluid change.",
+        "Change": "Change is the active practice within OPEN EQUILIBRIUM. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Equilibrium": "Equilibrium is the signature alignment OPEN EQUILIBRIUM is meant to ignite. It carries the promise of this blend forward: Burn this when you are ready to evolve relationships, release old patterns, and move forward with balance."
       },
-      "expandedMeaning": "Open Flow names the Libra quality at the center of this pairing: relational balance. Gentle Change describes how 555 redirects that energy into a deliberate emotional movement. Social Ease is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody open flow, move with gentle change, and make space for social ease?",
+      "expandedMeaning": "Flexibility is the opening force of OPEN EQUILIBRIUM. It draws from this truth: Libra values harmony, and 555 invites fluid change. Change is the active practice within OPEN EQUILIBRIUM. It turns the pairing's message into a conscious way of moving, choosing, and responding. Equilibrium is the signature alignment OPEN EQUILIBRIUM is meant to ignite. It carries the promise of this blend forward: Burn this when you are ready to evolve relationships, release old patterns, and move forward with balance.",
+      "reflection": "What must shift for OPEN EQUILIBRIUM to become real, and where could Flexibility, Change, and Equilibrium carry you next?",
       "websiteCopy": "Libra values harmony, and 555 invites fluid change. Burn this when you are ready to evolve relationships, release old patterns, and move forward with balance.",
       "packagingCopy": "Libra values harmony, and 555 invites fluid change. Burn this when you are ready to evolve relationships, release old patterns, and move forward with balance.",
       "socialCopy": "Burn this when you are ready to evolve relationships, release old patterns, and move forward with balance."
@@ -1198,17 +1198,17 @@ const productCatalog = {
       "definition": "Libra lives in beauty; 666 brings presence into the body. This candle supports slowing down, feeling sensual, and inhabiting your elegance from within.",
       "status": "canonical",
       "threeWords": [
-        "Warm Presence",
-        "Self-Care",
-        "Gentle Sensuality"
+        "Grace",
+        "Presence",
+        "Self-Love"
       ],
       "wordMeanings": {
-        "Warm Presence": "Warm Presence names the Libra quality at the center of this pairing: relational balance.",
-        "Self-Care": "Self-Care describes how 666 redirects that energy into a deliberate emotional movement.",
-        "Gentle Sensuality": "Gentle Sensuality is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Grace": "Grace is the opening force of EMBODIED GRACE. It draws from this truth: Libra lives in beauty; 666 brings presence into the body.",
+        "Presence": "Presence is the active practice within EMBODIED GRACE. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Self-Love": "Self-Love is the signature alignment EMBODIED GRACE is meant to ignite. It carries the promise of this blend forward: This candle supports slowing down, feeling sensual, and inhabiting your elegance from within."
       },
-      "expandedMeaning": "Warm Presence names the Libra quality at the center of this pairing: relational balance. Self-Care describes how 666 redirects that energy into a deliberate emotional movement. Gentle Sensuality is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody warm presence, move with self-care, and make space for gentle sensuality?",
+      "expandedMeaning": "Grace is the opening force of EMBODIED GRACE. It draws from this truth: Libra lives in beauty; 666 brings presence into the body. Presence is the active practice within EMBODIED GRACE. It turns the pairing's message into a conscious way of moving, choosing, and responding. Self-Love is the signature alignment EMBODIED GRACE is meant to ignite. It carries the promise of this blend forward: This candle supports slowing down, feeling sensual, and inhabiting your elegance from within.",
+      "reflection": "How can EMBODIED GRACE bring you back to Grace, help you honor Presence, and let you live from Self-Love today?",
       "websiteCopy": "Libra lives in beauty; 666 brings presence into the body. This candle supports slowing down, feeling sensual, and inhabiting your elegance from within.",
       "packagingCopy": "Libra lives in beauty; 666 brings presence into the body. This candle supports slowing down, feeling sensual, and inhabiting your elegance from within.",
       "socialCopy": "This candle supports slowing down, feeling sensual, and inhabiting your elegance from within."
@@ -1218,17 +1218,17 @@ const productCatalog = {
       "definition": "Libra sees many perspectives; 777 reveals the core truth. This candle supports trusting intuition in relationships and seeing beneath surface appearances.",
       "status": "canonical",
       "threeWords": [
-        "Inner Knowing",
-        "Subtle Clarity",
-        "Spiritual Calm"
+        "Perspective",
+        "Intuition",
+        "Truth"
       ],
       "wordMeanings": {
-        "Inner Knowing": "Inner Knowing names the Libra quality at the center of this pairing: relational balance.",
-        "Subtle Clarity": "Subtle Clarity describes how 777 redirects that energy into a deliberate emotional movement.",
-        "Spiritual Calm": "Spiritual Calm is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Perspective": "Perspective is the opening force of CLEAR TRUTH. It draws from this truth: Libra sees many perspectives; 777 reveals the core truth.",
+        "Intuition": "Intuition is the active practice within CLEAR TRUTH. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Truth": "Truth is the signature alignment CLEAR TRUTH is meant to ignite. It carries the promise of this blend forward: This candle supports trusting intuition in relationships and seeing beneath surface appearances."
       },
-      "expandedMeaning": "Inner Knowing names the Libra quality at the center of this pairing: relational balance. Subtle Clarity describes how 777 redirects that energy into a deliberate emotional movement. Spiritual Calm is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody inner knowing, move with subtle clarity, and make space for spiritual calm?",
+      "expandedMeaning": "Perspective is the opening force of CLEAR TRUTH. It draws from this truth: Libra sees many perspectives; 777 reveals the core truth. Intuition is the active practice within CLEAR TRUTH. It turns the pairing's message into a conscious way of moving, choosing, and responding. Truth is the signature alignment CLEAR TRUTH is meant to ignite. It carries the promise of this blend forward: This candle supports trusting intuition in relationships and seeing beneath surface appearances.",
+      "reflection": "What deeper truth does CLEAR TRUTH reveal when you trust Perspective, apply Intuition, and stand firmly in Truth?",
       "websiteCopy": "Libra sees many perspectives; 777 reveals the core truth. This candle supports trusting intuition in relationships and seeing beneath surface appearances.",
       "packagingCopy": "Libra sees many perspectives; 777 reveals the core truth. This candle supports trusting intuition in relationships and seeing beneath surface appearances.",
       "socialCopy": "This candle supports trusting intuition in relationships and seeing beneath surface appearances."
@@ -1238,17 +1238,17 @@ const productCatalog = {
       "definition": "Libra attracts naturally; 888 amplifies that magnetism. Burn this when you want to feel valued, confident, and irresistibly present.",
       "status": "canonical",
       "threeWords": [
-        "Confidence",
         "Magnetism",
-        "Social Power"
+        "Confidence",
+        "Reciprocity"
       ],
       "wordMeanings": {
-        "Confidence": "Confidence names the Libra quality at the center of this pairing: relational balance.",
-        "Magnetism": "Magnetism describes how 888 redirects that energy into a deliberate emotional movement.",
-        "Social Power": "Social Power is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Magnetism": "Magnetism is the opening force of MAGNETIC BEAUTY. It draws from this truth: Libra attracts naturally; 888 amplifies that magnetism.",
+        "Confidence": "Confidence is the active practice within MAGNETIC BEAUTY. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Reciprocity": "Reciprocity is the signature alignment MAGNETIC BEAUTY is meant to ignite. It carries the promise of this blend forward: Burn this when you want to feel valued, confident, and irresistibly present."
       },
-      "expandedMeaning": "Confidence names the Libra quality at the center of this pairing: relational balance. Magnetism describes how 888 redirects that energy into a deliberate emotional movement. Social Power is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody confidence, move with magnetism, and make space for social power?",
+      "expandedMeaning": "Magnetism is the opening force of MAGNETIC BEAUTY. It draws from this truth: Libra attracts naturally; 888 amplifies that magnetism. Confidence is the active practice within MAGNETIC BEAUTY. It turns the pairing's message into a conscious way of moving, choosing, and responding. Reciprocity is the signature alignment MAGNETIC BEAUTY is meant to ignite. It carries the promise of this blend forward: Burn this when you want to feel valued, confident, and irresistibly present.",
+      "reflection": "Where are you ready to claim the Magnetism of MAGNETIC BEAUTY, receive Confidence, and direct Reciprocity with integrity?",
       "websiteCopy": "Libra attracts naturally; 888 amplifies that magnetism. Burn this when you want to feel valued, confident, and irresistibly present.",
       "packagingCopy": "Libra attracts naturally; 888 amplifies that magnetism. Burn this when you want to feel valued, confident, and irresistibly present.",
       "socialCopy": "Burn this when you want to feel valued, confident, and irresistibly present."
@@ -1258,17 +1258,17 @@ const productCatalog = {
       "definition": "Libra harmonizes; 999 completes. This candle supports graceful endings, emotional release, and moving forward with a balanced heart.",
       "status": "canonical",
       "threeWords": [
-        "Letting Go",
         "Closure",
-        "Emotional Clarity"
+        "Forgiveness",
+        "Balance"
       ],
       "wordMeanings": {
-        "Letting Go": "Letting Go names the Libra quality at the center of this pairing: relational balance.",
-        "Closure": "Closure describes how 999 redirects that energy into a deliberate emotional movement.",
-        "Emotional Clarity": "Emotional Clarity is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Closure": "Closure is the opening force of GENTLE CLOSURE. It draws from this truth: Libra harmonizes; 999 completes.",
+        "Forgiveness": "Forgiveness is the active practice within GENTLE CLOSURE. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Balance": "Balance is the signature alignment GENTLE CLOSURE is meant to ignite. It carries the promise of this blend forward: This candle supports graceful endings, emotional release, and moving forward with a balanced heart."
       },
-      "expandedMeaning": "Letting Go names the Libra quality at the center of this pairing: relational balance. Closure describes how 999 redirects that energy into a deliberate emotional movement. Emotional Clarity is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody letting go, move with closure, and make space for emotional clarity?",
+      "expandedMeaning": "Closure is the opening force of GENTLE CLOSURE. It draws from this truth: Libra harmonizes; 999 completes. Forgiveness is the active practice within GENTLE CLOSURE. It turns the pairing's message into a conscious way of moving, choosing, and responding. Balance is the signature alignment GENTLE CLOSURE is meant to ignite. It carries the promise of this blend forward: This candle supports graceful endings, emotional release, and moving forward with a balanced heart.",
+      "reflection": "What can GENTLE CLOSURE help you complete through Closure, release through Forgiveness, and transform into Balance?",
       "websiteCopy": "Libra harmonizes; 999 completes. This candle supports graceful endings, emotional release, and moving forward with a balanced heart.",
       "packagingCopy": "Libra harmonizes; 999 completes. This candle supports graceful endings, emotional release, and moving forward with a balanced heart.",
       "socialCopy": "This candle supports graceful endings, emotional release, and moving forward with a balanced heart."
@@ -1280,17 +1280,17 @@ const productCatalog = {
       "definition": "Scorpio carries depth, power, and the ability to transform what others fear. With 111, this intensity becomes a purposeful new beginning rather than emotional hold. This candle supports beginning again with strength, courage, and self-trust.",
       "status": "canonical",
       "threeWords": [
-        "Depth",
-        "Start",
-        "Power"
+        "Resolve",
+        "Transformation",
+        "Emergence"
       ],
       "wordMeanings": {
-        "Depth": "Depth names the Scorpio quality at the center of this pairing: honest transformation.",
-        "Start": "Start describes how 111 redirects that energy into a deliberate emotional movement.",
-        "Power": "Power is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Resolve": "Resolve is the opening force of REBIRTH SPARK. It draws from this truth: Scorpio carries depth, power, and the ability to transform what others fear.",
+        "Transformation": "Transformation is the active practice within REBIRTH SPARK. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Emergence": "Emergence is the signature alignment REBIRTH SPARK is meant to ignite. It carries the promise of this blend forward: This candle supports beginning again with strength, courage, and self-trust."
       },
-      "expandedMeaning": "Depth names the Scorpio quality at the center of this pairing: honest transformation. Start describes how 111 redirects that energy into a deliberate emotional movement. Power is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody depth, move with start, and make space for power?",
+      "expandedMeaning": "Resolve is the opening force of REBIRTH SPARK. It draws from this truth: Scorpio carries depth, power, and the ability to transform what others fear. Transformation is the active practice within REBIRTH SPARK. It turns the pairing's message into a conscious way of moving, choosing, and responding. Emergence is the signature alignment REBIRTH SPARK is meant to ignite. It carries the promise of this blend forward: This candle supports beginning again with strength, courage, and self-trust.",
+      "reflection": "What are you ready to begin through REBIRTH SPARK, and how would choosing Resolve and Transformation create a true Emergence?",
       "websiteCopy": "Scorpio carries depth, power, and the ability to transform what others fear. With 111, this intensity becomes a purposeful new beginning rather than emotional hold. This candle supports beginning again with strength, courage, and self-trust.",
       "packagingCopy": "Scorpio carries depth, power, and the ability to transform what others fear. With 111, this intensity becomes a purposeful new beginning rather than emotional hold.",
       "socialCopy": "This candle supports beginning again with strength, courage, and self-trust."
@@ -1300,17 +1300,17 @@ const productCatalog = {
       "definition": "Scorpio feels deeply; 222 brings emotional harmony. Burn this when you need emotional steadiness without losing your power.",
       "status": "canonical",
       "threeWords": [
-        "Depth",
-        "Peace",
-        "Power"
+        "Vulnerability",
+        "Trust",
+        "Intimacy"
       ],
       "wordMeanings": {
-        "Depth": "Depth names the Scorpio quality at the center of this pairing: honest transformation.",
-        "Peace": "Peace describes how 222 redirects that energy into a deliberate emotional movement.",
-        "Power": "Power is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Vulnerability": "Vulnerability is the opening force of CALM DEPTH. It draws from this truth: Scorpio feels deeply; 222 brings emotional harmony.",
+        "Trust": "Trust is the active practice within CALM DEPTH. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Intimacy": "Intimacy is the signature alignment CALM DEPTH is meant to ignite. It carries the promise of this blend forward: Burn this when you need emotional steadiness without losing your power."
       },
-      "expandedMeaning": "Depth names the Scorpio quality at the center of this pairing: honest transformation. Peace describes how 222 redirects that energy into a deliberate emotional movement. Power is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody depth, move with peace, and make space for power?",
+      "expandedMeaning": "Vulnerability is the opening force of CALM DEPTH. It draws from this truth: Scorpio feels deeply; 222 brings emotional harmony. Trust is the active practice within CALM DEPTH. It turns the pairing's message into a conscious way of moving, choosing, and responding. Intimacy is the signature alignment CALM DEPTH is meant to ignite. It carries the promise of this blend forward: Burn this when you need emotional steadiness without losing your power.",
+      "reflection": "Where is CALM DEPTH asking you to practice Vulnerability, build Trust, and allow Intimacy to reshape the way you relate?",
       "websiteCopy": "Scorpio feels deeply; 222 brings emotional harmony. Burn this when you need emotional steadiness without losing your power.",
       "packagingCopy": "Scorpio feels deeply; 222 brings emotional harmony. Burn this when you need emotional steadiness without losing your power.",
       "socialCopy": "Burn this when you need emotional steadiness without losing your power."
@@ -1320,17 +1320,17 @@ const productCatalog = {
       "definition": "Scorpio transforms; 333 invites expressive creation. This candle encourages artistic expression, emotional release, and fearless creativity.",
       "status": "canonical",
       "threeWords": [
-        "Depth",
-        "Create",
-        "Power"
+        "Intensity",
+        "Creation",
+        "Revelation"
       ],
       "wordMeanings": {
-        "Depth": "Depth names the Scorpio quality at the center of this pairing: honest transformation.",
-        "Create": "Create describes how 333 redirects that energy into a deliberate emotional movement.",
-        "Power": "Power is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Intensity": "Intensity is the opening force of CREATIVE ALCHEMY. It draws from this truth: Scorpio transforms; 333 invites expressive creation.",
+        "Creation": "Creation is the active practice within CREATIVE ALCHEMY. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Revelation": "Revelation is the signature alignment CREATIVE ALCHEMY is meant to ignite. It carries the promise of this blend forward: This candle encourages artistic expression, emotional release, and fearless creativity."
       },
-      "expandedMeaning": "Depth names the Scorpio quality at the center of this pairing: honest transformation. Create describes how 333 redirects that energy into a deliberate emotional movement. Power is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody depth, move with create, and make space for power?",
+      "expandedMeaning": "Intensity is the opening force of CREATIVE ALCHEMY. It draws from this truth: Scorpio transforms; 333 invites expressive creation. Creation is the active practice within CREATIVE ALCHEMY. It turns the pairing's message into a conscious way of moving, choosing, and responding. Revelation is the signature alignment CREATIVE ALCHEMY is meant to ignite. It carries the promise of this blend forward: This candle encourages artistic expression, emotional release, and fearless creativity.",
+      "reflection": "What wants to come alive through CREATIVE ALCHEMY when Intensity gives you permission to pursue Creation and embody Revelation?",
       "websiteCopy": "Scorpio transforms; 333 invites expressive creation. This candle encourages artistic expression, emotional release, and fearless creativity.",
       "packagingCopy": "Scorpio transforms; 333 invites expressive creation. This candle encourages artistic expression, emotional release, and fearless creativity.",
       "socialCopy": "This candle encourages artistic expression, emotional release, and fearless creativity."
@@ -1340,17 +1340,17 @@ const productCatalog = {
       "definition": "Scorpio embodies strength; 444 anchors it in calm resilience. This candle supports emotional boundaries, inner control, and grounded confidence.",
       "status": "canonical",
       "threeWords": [
-        "Depth",
-        "Root",
+        "Protection",
+        "Resilience",
         "Power"
       ],
       "wordMeanings": {
-        "Depth": "Depth names the Scorpio quality at the center of this pairing: honest transformation.",
-        "Root": "Root describes how 444 redirects that energy into a deliberate emotional movement.",
-        "Power": "Power is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Protection": "Protection is the opening force of QUIET POWER. It draws from this truth: Scorpio embodies strength; 444 anchors it in calm resilience.",
+        "Resilience": "Resilience is the active practice within QUIET POWER. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Power": "Power is the signature alignment QUIET POWER is meant to ignite. It carries the promise of this blend forward: This candle supports emotional boundaries, inner control, and grounded confidence."
       },
-      "expandedMeaning": "Depth names the Scorpio quality at the center of this pairing: honest transformation. Root describes how 444 redirects that energy into a deliberate emotional movement. Power is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody depth, move with root, and make space for power?",
+      "expandedMeaning": "Protection is the opening force of QUIET POWER. It draws from this truth: Scorpio embodies strength; 444 anchors it in calm resilience. Resilience is the active practice within QUIET POWER. It turns the pairing's message into a conscious way of moving, choosing, and responding. Power is the signature alignment QUIET POWER is meant to ignite. It carries the promise of this blend forward: This candle supports emotional boundaries, inner control, and grounded confidence.",
+      "reflection": "Which part of your life needs the Protection of QUIET POWER, the protection of Resilience, and the lasting support of Power?",
       "websiteCopy": "Scorpio embodies strength; 444 anchors it in calm resilience. This candle supports emotional boundaries, inner control, and grounded confidence.",
       "packagingCopy": "Scorpio embodies strength; 444 anchors it in calm resilience. This candle supports emotional boundaries, inner control, and grounded confidence.",
       "socialCopy": "This candle supports emotional boundaries, inner control, and grounded confidence."
@@ -1360,17 +1360,17 @@ const productCatalog = {
       "definition": "Scorpio thrives on change, and 555 accelerates transformation. Burn this when you are ready to shed the old, shift direction, and step into a new version of yourself.",
       "status": "canonical",
       "threeWords": [
-        "Depth",
-        "Change",
-        "Power"
+        "Surrender",
+        "Metamorphosis",
+        "Freedom"
       ],
       "wordMeanings": {
-        "Depth": "Depth names the Scorpio quality at the center of this pairing: honest transformation.",
-        "Change": "Change describes how 555 redirects that energy into a deliberate emotional movement.",
-        "Power": "Power is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Surrender": "Surrender is the opening force of TRANSFORMATION WIND. It draws from this truth: Scorpio thrives on change, and 555 accelerates transformation.",
+        "Metamorphosis": "Metamorphosis is the active practice within TRANSFORMATION WIND. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Freedom": "Freedom is the signature alignment TRANSFORMATION WIND is meant to ignite. It carries the promise of this blend forward: Burn this when you are ready to shed the old, shift direction, and step into a new version of yourself."
       },
-      "expandedMeaning": "Depth names the Scorpio quality at the center of this pairing: honest transformation. Change describes how 555 redirects that energy into a deliberate emotional movement. Power is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody depth, move with change, and make space for power?",
+      "expandedMeaning": "Surrender is the opening force of TRANSFORMATION WIND. It draws from this truth: Scorpio thrives on change, and 555 accelerates transformation. Metamorphosis is the active practice within TRANSFORMATION WIND. It turns the pairing's message into a conscious way of moving, choosing, and responding. Freedom is the signature alignment TRANSFORMATION WIND is meant to ignite. It carries the promise of this blend forward: Burn this when you are ready to shed the old, shift direction, and step into a new version of yourself.",
+      "reflection": "What must shift for TRANSFORMATION WIND to become real, and where could Surrender, Metamorphosis, and Freedom carry you next?",
       "websiteCopy": "Scorpio thrives on change, and 555 accelerates transformation. Burn this when you are ready to shed the old, shift direction, and step into a new version of yourself.",
       "packagingCopy": "Scorpio thrives on change, and 555 accelerates transformation. Burn this when you are ready to shed the old, shift direction, and step into a new version of yourself.",
       "socialCopy": "Burn this when you are ready to shed the old, shift direction, and step into a new version of yourself."
@@ -1380,17 +1380,17 @@ const productCatalog = {
       "definition": "Scorpio lives in depth; 666 brings presence into the body. This candle supports self-acceptance, emotional grounding, and feeling safe in your intensity.",
       "status": "canonical",
       "threeWords": [
-        "Depth",
-        "Body",
-        "Power"
+        "Desire",
+        "Embodiment",
+        "Ownership"
       ],
       "wordMeanings": {
-        "Depth": "Depth names the Scorpio quality at the center of this pairing: honest transformation.",
-        "Body": "Body describes how 666 redirects that energy into a deliberate emotional movement.",
-        "Power": "Power is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Desire": "Desire is the opening force of EMBODIED SHADOW. It draws from this truth: Scorpio lives in depth; 666 brings presence into the body.",
+        "Embodiment": "Embodiment is the active practice within EMBODIED SHADOW. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Ownership": "Ownership is the signature alignment EMBODIED SHADOW is meant to ignite. It carries the promise of this blend forward: This candle supports self-acceptance, emotional grounding, and feeling safe in your intensity."
       },
-      "expandedMeaning": "Depth names the Scorpio quality at the center of this pairing: honest transformation. Body describes how 666 redirects that energy into a deliberate emotional movement. Power is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody depth, move with body, and make space for power?",
+      "expandedMeaning": "Desire is the opening force of EMBODIED SHADOW. It draws from this truth: Scorpio lives in depth; 666 brings presence into the body. Embodiment is the active practice within EMBODIED SHADOW. It turns the pairing's message into a conscious way of moving, choosing, and responding. Ownership is the signature alignment EMBODIED SHADOW is meant to ignite. It carries the promise of this blend forward: This candle supports self-acceptance, emotional grounding, and feeling safe in your intensity.",
+      "reflection": "How can EMBODIED SHADOW bring you back to Desire, help you honor Embodiment, and let you live from Ownership today?",
       "websiteCopy": "Scorpio lives in depth; 666 brings presence into the body. This candle supports self-acceptance, emotional grounding, and feeling safe in your intensity.",
       "packagingCopy": "Scorpio lives in depth; 666 brings presence into the body. This candle supports self-acceptance, emotional grounding, and feeling safe in your intensity.",
       "socialCopy": "This candle supports self-acceptance, emotional grounding, and feeling safe in your intensity."
@@ -1402,15 +1402,15 @@ const productCatalog = {
       "threeWords": [
         "Depth",
         "Intuition",
-        "Power"
+        "Truth"
       ],
       "wordMeanings": {
-        "Depth": "Depth names the Scorpio quality at the center of this pairing: honest transformation.",
-        "Intuition": "Intuition describes how 777 redirects that energy into a deliberate emotional movement.",
-        "Power": "Power is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Depth": "Depth is the opening force of INTUITIVE UNDERCURRENT. It draws from this truth: Scorpio sees beneath the surface; 777 clarifies that perception.",
+        "Intuition": "Intuition is the active practice within INTUITIVE UNDERCURRENT. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Truth": "Truth is the signature alignment INTUITIVE UNDERCURRENT is meant to ignite. It carries the promise of this blend forward: This candle supports trusting your instincts and reading emotional truth."
       },
-      "expandedMeaning": "Depth names the Scorpio quality at the center of this pairing: honest transformation. Intuition describes how 777 redirects that energy into a deliberate emotional movement. Power is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody depth, move with intuition, and make space for power?",
+      "expandedMeaning": "Depth is the opening force of INTUITIVE UNDERCURRENT. It draws from this truth: Scorpio sees beneath the surface; 777 clarifies that perception. Intuition is the active practice within INTUITIVE UNDERCURRENT. It turns the pairing's message into a conscious way of moving, choosing, and responding. Truth is the signature alignment INTUITIVE UNDERCURRENT is meant to ignite. It carries the promise of this blend forward: This candle supports trusting your instincts and reading emotional truth.",
+      "reflection": "What deeper truth does INTUITIVE UNDERCURRENT reveal when you trust Depth, apply Intuition, and stand firmly in Truth?",
       "websiteCopy": "Scorpio sees beneath the surface; 777 clarifies that perception. This candle supports trusting your instincts and reading emotional truth.",
       "packagingCopy": "Scorpio sees beneath the surface; 777 clarifies that perception. This candle supports trusting your instincts and reading emotional truth.",
       "socialCopy": "This candle supports trusting your instincts and reading emotional truth."
@@ -1420,17 +1420,17 @@ const productCatalog = {
       "definition": "Scorpio commands presence; 888 amplifies magnetism. Burn this when you want to stand fully in your power and attract what aligns with you.",
       "status": "canonical",
       "threeWords": [
-        "Depth",
-        "Abundance",
-        "Power"
+        "Magnetism",
+        "Authority",
+        "Regeneration"
       ],
       "wordMeanings": {
-        "Depth": "Depth names the Scorpio quality at the center of this pairing: honest transformation.",
-        "Abundance": "Abundance describes how 888 redirects that energy into a deliberate emotional movement.",
-        "Power": "Power is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Magnetism": "Magnetism is the opening force of MAGNETIC POWER. It draws from this truth: Scorpio commands presence; 888 amplifies magnetism.",
+        "Authority": "Authority is the active practice within MAGNETIC POWER. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Regeneration": "Regeneration is the signature alignment MAGNETIC POWER is meant to ignite. It carries the promise of this blend forward: Burn this when you want to stand fully in your power and attract what aligns with you."
       },
-      "expandedMeaning": "Depth names the Scorpio quality at the center of this pairing: honest transformation. Abundance describes how 888 redirects that energy into a deliberate emotional movement. Power is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody depth, move with abundance, and make space for power?",
+      "expandedMeaning": "Magnetism is the opening force of MAGNETIC POWER. It draws from this truth: Scorpio commands presence; 888 amplifies magnetism. Authority is the active practice within MAGNETIC POWER. It turns the pairing's message into a conscious way of moving, choosing, and responding. Regeneration is the signature alignment MAGNETIC POWER is meant to ignite. It carries the promise of this blend forward: Burn this when you want to stand fully in your power and attract what aligns with you.",
+      "reflection": "Where are you ready to claim the Magnetism of MAGNETIC POWER, receive Authority, and direct Regeneration with integrity?",
       "websiteCopy": "Scorpio commands presence; 888 amplifies magnetism. Burn this when you want to stand fully in your power and attract what aligns with you.",
       "packagingCopy": "Scorpio commands presence; 888 amplifies magnetism. Burn this when you want to stand fully in your power and attract what aligns with you.",
       "socialCopy": "Burn this when you want to stand fully in your power and attract what aligns with you."
@@ -1440,17 +1440,17 @@ const productCatalog = {
       "definition": "Scorpio transforms; 999 completes the cycle. This candle supports releasing what no longer serves you while keeping your strength intact.",
       "status": "canonical",
       "threeWords": [
-        "Depth",
-        "Closure",
-        "Power"
+        "Release",
+        "Integration",
+        "Rebirth"
       ],
       "wordMeanings": {
-        "Depth": "Depth names the Scorpio quality at the center of this pairing: honest transformation.",
-        "Closure": "Closure describes how 999 redirects that energy into a deliberate emotional movement.",
-        "Power": "Power is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Release": "Release is the opening force of CLEAN DESCENT. It draws from this truth: Scorpio transforms; 999 completes the cycle.",
+        "Integration": "Integration is the active practice within CLEAN DESCENT. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Rebirth": "Rebirth is the signature alignment CLEAN DESCENT is meant to ignite. It carries the promise of this blend forward: This candle supports releasing what no longer serves you while keeping your strength intact."
       },
-      "expandedMeaning": "Depth names the Scorpio quality at the center of this pairing: honest transformation. Closure describes how 999 redirects that energy into a deliberate emotional movement. Power is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody depth, move with closure, and make space for power?",
+      "expandedMeaning": "Release is the opening force of CLEAN DESCENT. It draws from this truth: Scorpio transforms; 999 completes the cycle. Integration is the active practice within CLEAN DESCENT. It turns the pairing's message into a conscious way of moving, choosing, and responding. Rebirth is the signature alignment CLEAN DESCENT is meant to ignite. It carries the promise of this blend forward: This candle supports releasing what no longer serves you while keeping your strength intact.",
+      "reflection": "What can CLEAN DESCENT help you complete through Release, release through Integration, and transform into Rebirth?",
       "websiteCopy": "Scorpio transforms; 999 completes the cycle. This candle supports releasing what no longer serves you while keeping your strength intact.",
       "packagingCopy": "Scorpio transforms; 999 completes the cycle. This candle supports releasing what no longer serves you while keeping your strength intact.",
       "socialCopy": "This candle supports releasing what no longer serves you while keeping your strength intact."
@@ -1463,16 +1463,16 @@ const productCatalog = {
       "status": "canonical",
       "threeWords": [
         "Courage",
-        "Fresh Start",
-        "Direction"
+        "Direction",
+        "Departure"
       ],
       "wordMeanings": {
-        "Courage": "Courage names the Sagittarius quality at the center of this pairing: purposeful expansion.",
-        "Fresh Start": "Fresh Start describes how 111 redirects that energy into a deliberate emotional movement.",
-        "Direction": "Direction is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Courage": "Courage is the opening force of NEW JOURNEY. It draws from this truth: Sagittarius carries freedom, vision, and an instinct to explore.",
+        "Direction": "Direction is the active practice within NEW JOURNEY. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Departure": "Departure is the signature alignment NEW JOURNEY is meant to ignite. It carries the promise of this blend forward: This candle supports stepping boldly into a new path with confidence and excitement."
       },
-      "expandedMeaning": "Courage names the Sagittarius quality at the center of this pairing: purposeful expansion. Fresh Start describes how 111 redirects that energy into a deliberate emotional movement. Direction is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody courage, move with fresh start, and make space for direction?",
+      "expandedMeaning": "Courage is the opening force of NEW JOURNEY. It draws from this truth: Sagittarius carries freedom, vision, and an instinct to explore. Direction is the active practice within NEW JOURNEY. It turns the pairing's message into a conscious way of moving, choosing, and responding. Departure is the signature alignment NEW JOURNEY is meant to ignite. It carries the promise of this blend forward: This candle supports stepping boldly into a new path with confidence and excitement.",
+      "reflection": "What are you ready to begin through NEW JOURNEY, and how would choosing Courage and Direction create a true Departure?",
       "websiteCopy": "Sagittarius carries freedom, vision, and an instinct to explore. With 111, that restless curiosity becomes purposeful movement. This candle supports stepping boldly into a new path with confidence and excitement.",
       "packagingCopy": "Sagittarius carries freedom, vision, and an instinct to explore. With 111, that restless curiosity becomes purposeful movement.",
       "socialCopy": "This candle supports stepping boldly into a new path with confidence and excitement."
@@ -1483,16 +1483,16 @@ const productCatalog = {
       "status": "canonical",
       "threeWords": [
         "Faith",
-        "Ease",
-        "Shared Motion"
+        "Trust",
+        "Companionship"
       ],
       "wordMeanings": {
-        "Faith": "Faith names the Sagittarius quality at the center of this pairing: purposeful expansion.",
-        "Ease": "Ease describes how 222 redirects that energy into a deliberate emotional movement.",
-        "Shared Motion": "Shared Motion is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Faith": "Faith is the opening force of PEACEFUL TRAVELER. It draws from this truth: Sagittarius seeks adventure; 222 brings emotional balance.",
+        "Trust": "Trust is the active practice within PEACEFUL TRAVELER. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Companionship": "Companionship is the signature alignment PEACEFUL TRAVELER is meant to ignite. It carries the promise of this blend forward: Burn this when you want movement without anxiety and exploration without burnout."
       },
-      "expandedMeaning": "Faith names the Sagittarius quality at the center of this pairing: purposeful expansion. Ease describes how 222 redirects that energy into a deliberate emotional movement. Shared Motion is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody faith, move with ease, and make space for shared motion?",
+      "expandedMeaning": "Faith is the opening force of PEACEFUL TRAVELER. It draws from this truth: Sagittarius seeks adventure; 222 brings emotional balance. Trust is the active practice within PEACEFUL TRAVELER. It turns the pairing's message into a conscious way of moving, choosing, and responding. Companionship is the signature alignment PEACEFUL TRAVELER is meant to ignite. It carries the promise of this blend forward: Burn this when you want movement without anxiety and exploration without burnout.",
+      "reflection": "Where is PEACEFUL TRAVELER asking you to practice Faith, build Trust, and allow Companionship to reshape the way you relate?",
       "websiteCopy": "Sagittarius seeks adventure; 222 brings emotional balance. Burn this when you want movement without anxiety and exploration without burnout.",
       "packagingCopy": "Sagittarius seeks adventure; 222 brings emotional balance. Burn this when you want movement without anxiety and exploration without burnout.",
       "socialCopy": "Burn this when you want movement without anxiety and exploration without burnout."
@@ -1503,16 +1503,16 @@ const productCatalog = {
       "status": "canonical",
       "threeWords": [
         "Joy",
-        "Voice",
-        "Creative Fire"
+        "Truth",
+        "Expression"
       ],
       "wordMeanings": {
-        "Joy": "Joy names the Sagittarius quality at the center of this pairing: purposeful expansion.",
-        "Voice": "Voice describes how 333 redirects that energy into a deliberate emotional movement.",
-        "Creative Fire": "Creative Fire is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Joy": "Joy is the opening force of JOYFUL EXPLORER. It draws from this truth: Sagittarius embodies enthusiasm; 333 amplifies creative expression.",
+        "Truth": "Truth is the active practice within JOYFUL EXPLORER. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Expression": "Expression is the signature alignment JOYFUL EXPLORER is meant to ignite. It carries the promise of this blend forward: This candle inspires curiosity, laughter, and fearless self‑expression."
       },
-      "expandedMeaning": "Joy names the Sagittarius quality at the center of this pairing: purposeful expansion. Voice describes how 333 redirects that energy into a deliberate emotional movement. Creative Fire is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody joy, move with voice, and make space for creative fire?",
+      "expandedMeaning": "Joy is the opening force of JOYFUL EXPLORER. It draws from this truth: Sagittarius embodies enthusiasm; 333 amplifies creative expression. Truth is the active practice within JOYFUL EXPLORER. It turns the pairing's message into a conscious way of moving, choosing, and responding. Expression is the signature alignment JOYFUL EXPLORER is meant to ignite. It carries the promise of this blend forward: This candle inspires curiosity, laughter, and fearless self‑expression.",
+      "reflection": "What wants to come alive through JOYFUL EXPLORER when Joy gives you permission to pursue Truth and embody Expression?",
       "websiteCopy": "Sagittarius embodies enthusiasm; 333 amplifies creative expression. This candle inspires curiosity, laughter, and fearless self‑expression.",
       "packagingCopy": "Sagittarius embodies enthusiasm; 333 amplifies creative expression. This candle inspires curiosity, laughter, and fearless self‑expression.",
       "socialCopy": "This candle inspires curiosity, laughter, and fearless self‑expression."
@@ -1523,16 +1523,16 @@ const productCatalog = {
       "status": "canonical",
       "threeWords": [
         "Discipline",
-        "Grounding",
-        "Inner Compass"
+        "Purpose",
+        "Freedom"
       ],
       "wordMeanings": {
-        "Discipline": "Discipline names the Sagittarius quality at the center of this pairing: purposeful expansion.",
-        "Grounding": "Grounding describes how 444 redirects that energy into a deliberate emotional movement.",
-        "Inner Compass": "Inner Compass is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Discipline": "Discipline is the opening force of STEADY VOYAGER. It draws from this truth: Sagittarius moves far; 444 provides grounding.",
+        "Purpose": "Purpose is the active practice within STEADY VOYAGER. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Freedom": "Freedom is the signature alignment STEADY VOYAGER is meant to ignite. It carries the promise of this blend forward: This candle supports focus, discipline, and inner stability while still allowing freedom."
       },
-      "expandedMeaning": "Discipline names the Sagittarius quality at the center of this pairing: purposeful expansion. Grounding describes how 444 redirects that energy into a deliberate emotional movement. Inner Compass is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody discipline, move with grounding, and make space for inner compass?",
+      "expandedMeaning": "Discipline is the opening force of STEADY VOYAGER. It draws from this truth: Sagittarius moves far; 444 provides grounding. Purpose is the active practice within STEADY VOYAGER. It turns the pairing's message into a conscious way of moving, choosing, and responding. Freedom is the signature alignment STEADY VOYAGER is meant to ignite. It carries the promise of this blend forward: This candle supports focus, discipline, and inner stability while still allowing freedom.",
+      "reflection": "Which part of your life needs the Discipline of STEADY VOYAGER, the protection of Purpose, and the lasting support of Freedom?",
       "websiteCopy": "Sagittarius moves far; 444 provides grounding. This candle supports focus, discipline, and inner stability while still allowing freedom.",
       "packagingCopy": "Sagittarius moves far; 444 provides grounding. This candle supports focus, discipline, and inner stability while still allowing freedom.",
       "socialCopy": "This candle supports focus, discipline, and inner stability while still allowing freedom."
@@ -1542,17 +1542,17 @@ const productCatalog = {
       "definition": "Sagittarius thrives on change, and 555 accelerates it. Burn this when you are ready to shift paths, travel forward, and embrace the unknown.",
       "status": "canonical",
       "threeWords": [
-        "Movement",
-        "Release",
-        "New Territory"
+        "Adventure",
+        "Change",
+        "Expansion"
       ],
       "wordMeanings": {
-        "Movement": "Movement names the Sagittarius quality at the center of this pairing: purposeful expansion.",
-        "Release": "Release describes how 555 redirects that energy into a deliberate emotional movement.",
-        "New Territory": "New Territory is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Adventure": "Adventure is the opening force of LIMITLESS ROADS. It draws from this truth: Sagittarius thrives on change, and 555 accelerates it.",
+        "Change": "Change is the active practice within LIMITLESS ROADS. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Expansion": "Expansion is the signature alignment LIMITLESS ROADS is meant to ignite. It carries the promise of this blend forward: Burn this when you are ready to shift paths, travel forward, and embrace the unknown."
       },
-      "expandedMeaning": "Movement names the Sagittarius quality at the center of this pairing: purposeful expansion. Release describes how 555 redirects that energy into a deliberate emotional movement. New Territory is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody movement, move with release, and make space for new territory?",
+      "expandedMeaning": "Adventure is the opening force of LIMITLESS ROADS. It draws from this truth: Sagittarius thrives on change, and 555 accelerates it. Change is the active practice within LIMITLESS ROADS. It turns the pairing's message into a conscious way of moving, choosing, and responding. Expansion is the signature alignment LIMITLESS ROADS is meant to ignite. It carries the promise of this blend forward: Burn this when you are ready to shift paths, travel forward, and embrace the unknown.",
+      "reflection": "What must shift for LIMITLESS ROADS to become real, and where could Adventure, Change, and Expansion carry you next?",
       "websiteCopy": "Sagittarius thrives on change, and 555 accelerates it. Burn this when you are ready to shift paths, travel forward, and embrace the unknown.",
       "packagingCopy": "Sagittarius thrives on change, and 555 accelerates it. Burn this when you are ready to shift paths, travel forward, and embrace the unknown.",
       "socialCopy": "Burn this when you are ready to shift paths, travel forward, and embrace the unknown."
@@ -1562,17 +1562,17 @@ const productCatalog = {
       "definition": "Sagittarius lives in movement; 666 brings presence into the body. This candle supports mindful travel, slow confidence, and grounded freedom.",
       "status": "canonical",
       "threeWords": [
-        "Embodiment",
-        "Warmth",
-        "Lived Joy"
+        "Presence",
+        "Wonder",
+        "Experience"
       ],
       "wordMeanings": {
-        "Embodiment": "Embodiment names the Sagittarius quality at the center of this pairing: purposeful expansion.",
-        "Warmth": "Warmth describes how 666 redirects that energy into a deliberate emotional movement.",
-        "Lived Joy": "Lived Joy is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Presence": "Presence is the opening force of EMBODIED ADVENTURE. It draws from this truth: Sagittarius lives in movement; 666 brings presence into the body.",
+        "Wonder": "Wonder is the active practice within EMBODIED ADVENTURE. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Experience": "Experience is the signature alignment EMBODIED ADVENTURE is meant to ignite. It carries the promise of this blend forward: This candle supports mindful travel, slow confidence, and grounded freedom."
       },
-      "expandedMeaning": "Embodiment names the Sagittarius quality at the center of this pairing: purposeful expansion. Warmth describes how 666 redirects that energy into a deliberate emotional movement. Lived Joy is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody embodiment, move with warmth, and make space for lived joy?",
+      "expandedMeaning": "Presence is the opening force of EMBODIED ADVENTURE. It draws from this truth: Sagittarius lives in movement; 666 brings presence into the body. Wonder is the active practice within EMBODIED ADVENTURE. It turns the pairing's message into a conscious way of moving, choosing, and responding. Experience is the signature alignment EMBODIED ADVENTURE is meant to ignite. It carries the promise of this blend forward: This candle supports mindful travel, slow confidence, and grounded freedom.",
+      "reflection": "How can EMBODIED ADVENTURE bring you back to Presence, help you honor Wonder, and let you live from Experience today?",
       "websiteCopy": "Sagittarius lives in movement; 666 brings presence into the body. This candle supports mindful travel, slow confidence, and grounded freedom.",
       "packagingCopy": "Sagittarius lives in movement; 666 brings presence into the body. This candle supports mindful travel, slow confidence, and grounded freedom.",
       "socialCopy": "This candle supports mindful travel, slow confidence, and grounded freedom."
@@ -1582,17 +1582,17 @@ const productCatalog = {
       "definition": "Sagittarius seeks truth; 777 clarifies it. This candle supports trusting your instincts and moving in alignment with your deeper knowing.",
       "status": "canonical",
       "threeWords": [
-        "Intuition",
         "Wisdom",
-        "Clear Vision"
+        "Vision",
+        "Guidance"
       ],
       "wordMeanings": {
-        "Intuition": "Intuition names the Sagittarius quality at the center of this pairing: purposeful expansion.",
-        "Wisdom": "Wisdom describes how 777 redirects that energy into a deliberate emotional movement.",
-        "Clear Vision": "Clear Vision is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Wisdom": "Wisdom is the opening force of INTUITIVE PATH. It draws from this truth: Sagittarius seeks truth; 777 clarifies it.",
+        "Vision": "Vision is the active practice within INTUITIVE PATH. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Guidance": "Guidance is the signature alignment INTUITIVE PATH is meant to ignite. It carries the promise of this blend forward: This candle supports trusting your instincts and moving in alignment with your deeper knowing."
       },
-      "expandedMeaning": "Intuition names the Sagittarius quality at the center of this pairing: purposeful expansion. Wisdom describes how 777 redirects that energy into a deliberate emotional movement. Clear Vision is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody intuition, move with wisdom, and make space for clear vision?",
+      "expandedMeaning": "Wisdom is the opening force of INTUITIVE PATH. It draws from this truth: Sagittarius seeks truth; 777 clarifies it. Vision is the active practice within INTUITIVE PATH. It turns the pairing's message into a conscious way of moving, choosing, and responding. Guidance is the signature alignment INTUITIVE PATH is meant to ignite. It carries the promise of this blend forward: This candle supports trusting your instincts and moving in alignment with your deeper knowing.",
+      "reflection": "What deeper truth does INTUITIVE PATH reveal when you trust Wisdom, apply Vision, and stand firmly in Guidance?",
       "websiteCopy": "Sagittarius seeks truth; 777 clarifies it. This candle supports trusting your instincts and moving in alignment with your deeper knowing.",
       "packagingCopy": "Sagittarius seeks truth; 777 clarifies it. This candle supports trusting your instincts and moving in alignment with your deeper knowing.",
       "socialCopy": "This candle supports trusting your instincts and moving in alignment with your deeper knowing."
@@ -1602,17 +1602,17 @@ const productCatalog = {
       "definition": "Sagittarius represents growth; 888 amplifies abundance and confidence. Burn this when you want to step into your full potential and attract opportunity.",
       "status": "canonical",
       "threeWords": [
-        "Confidence",
+        "Optimism",
         "Momentum",
-        "Magnetic Growth"
+        "Opportunity"
       ],
       "wordMeanings": {
-        "Confidence": "Confidence names the Sagittarius quality at the center of this pairing: purposeful expansion.",
-        "Momentum": "Momentum describes how 888 redirects that energy into a deliberate emotional movement.",
-        "Magnetic Growth": "Magnetic Growth is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Optimism": "Optimism is the opening force of EXPANSIVE LIGHT. It draws from this truth: Sagittarius represents growth; 888 amplifies abundance and confidence.",
+        "Momentum": "Momentum is the active practice within EXPANSIVE LIGHT. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Opportunity": "Opportunity is the signature alignment EXPANSIVE LIGHT is meant to ignite. It carries the promise of this blend forward: Burn this when you want to step into your full potential and attract opportunity."
       },
-      "expandedMeaning": "Confidence names the Sagittarius quality at the center of this pairing: purposeful expansion. Momentum describes how 888 redirects that energy into a deliberate emotional movement. Magnetic Growth is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody confidence, move with momentum, and make space for magnetic growth?",
+      "expandedMeaning": "Optimism is the opening force of EXPANSIVE LIGHT. It draws from this truth: Sagittarius represents growth; 888 amplifies abundance and confidence. Momentum is the active practice within EXPANSIVE LIGHT. It turns the pairing's message into a conscious way of moving, choosing, and responding. Opportunity is the signature alignment EXPANSIVE LIGHT is meant to ignite. It carries the promise of this blend forward: Burn this when you want to step into your full potential and attract opportunity.",
+      "reflection": "Where are you ready to claim the Optimism of EXPANSIVE LIGHT, receive Momentum, and direct Opportunity with integrity?",
       "websiteCopy": "Sagittarius represents growth; 888 amplifies abundance and confidence. Burn this when you want to step into your full potential and attract opportunity.",
       "packagingCopy": "Sagittarius represents growth; 888 amplifies abundance and confidence. Burn this when you want to step into your full potential and attract opportunity.",
       "socialCopy": "Burn this when you want to step into your full potential and attract opportunity."
@@ -1622,17 +1622,17 @@ const productCatalog = {
       "definition": "Sagittarius reaches far; 999 completes the journey. This candle supports releasing the past, finishing chapters, and moving forward with an open heart.",
       "status": "canonical",
       "threeWords": [
-        "Closure",
         "Integration",
-        "Higher Path"
+        "Completion",
+        "Horizon"
       ],
       "wordMeanings": {
-        "Closure": "Closure names the Sagittarius quality at the center of this pairing: purposeful expansion.",
-        "Integration": "Integration describes how 999 redirects that energy into a deliberate emotional movement.",
-        "Higher Path": "Higher Path is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Integration": "Integration is the opening force of CLEAR SKY. It draws from this truth: Sagittarius reaches far; 999 completes the journey.",
+        "Completion": "Completion is the active practice within CLEAR SKY. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Horizon": "Horizon is the signature alignment CLEAR SKY is meant to ignite. It carries the promise of this blend forward: This candle supports releasing the past, finishing chapters, and moving forward with an open heart."
       },
-      "expandedMeaning": "Closure names the Sagittarius quality at the center of this pairing: purposeful expansion. Integration describes how 999 redirects that energy into a deliberate emotional movement. Higher Path is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody closure, move with integration, and make space for higher path?",
+      "expandedMeaning": "Integration is the opening force of CLEAR SKY. It draws from this truth: Sagittarius reaches far; 999 completes the journey. Completion is the active practice within CLEAR SKY. It turns the pairing's message into a conscious way of moving, choosing, and responding. Horizon is the signature alignment CLEAR SKY is meant to ignite. It carries the promise of this blend forward: This candle supports releasing the past, finishing chapters, and moving forward with an open heart.",
+      "reflection": "What can CLEAR SKY help you complete through Integration, release through Completion, and transform into Horizon?",
       "websiteCopy": "Sagittarius reaches far; 999 completes the journey. This candle supports releasing the past, finishing chapters, and moving forward with an open heart.",
       "packagingCopy": "Sagittarius reaches far; 999 completes the journey. This candle supports releasing the past, finishing chapters, and moving forward with an open heart.",
       "socialCopy": "This candle supports releasing the past, finishing chapters, and moving forward with an open heart."
@@ -1644,17 +1644,17 @@ const productCatalog = {
       "definition": "Capricorn carries discipline, structure, and long‑term vision. With 111, this steady energy becomes intentional initiation rather than cautious delay. This candle supports starting strong, moving with clarity, and building something that lasts.",
       "status": "canonical",
       "threeWords": [
-        "Discipline",
-        "Start",
-        "Legacy"
+        "Ambition",
+        "Commitment",
+        "Ascent"
       ],
       "wordMeanings": {
-        "Discipline": "Discipline names the Capricorn quality at the center of this pairing: disciplined building.",
-        "Start": "Start describes how 111 redirects that energy into a deliberate emotional movement.",
-        "Legacy": "Legacy is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Ambition": "Ambition is the opening force of FOCUSED BEGINNING. It draws from this truth: Capricorn carries discipline, structure, and long‑term vision.",
+        "Commitment": "Commitment is the active practice within FOCUSED BEGINNING. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Ascent": "Ascent is the signature alignment FOCUSED BEGINNING is meant to ignite. It carries the promise of this blend forward: This candle supports starting strong, moving with clarity, and building something that lasts."
       },
-      "expandedMeaning": "Discipline names the Capricorn quality at the center of this pairing: disciplined building. Start describes how 111 redirects that energy into a deliberate emotional movement. Legacy is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody discipline, move with start, and make space for legacy?",
+      "expandedMeaning": "Ambition is the opening force of FOCUSED BEGINNING. It draws from this truth: Capricorn carries discipline, structure, and long‑term vision. Commitment is the active practice within FOCUSED BEGINNING. It turns the pairing's message into a conscious way of moving, choosing, and responding. Ascent is the signature alignment FOCUSED BEGINNING is meant to ignite. It carries the promise of this blend forward: This candle supports starting strong, moving with clarity, and building something that lasts.",
+      "reflection": "What are you ready to begin through FOCUSED BEGINNING, and how would choosing Ambition and Commitment create a true Ascent?",
       "websiteCopy": "Capricorn carries discipline, structure, and long‑term vision. With 111, this steady energy becomes intentional initiation rather than cautious delay. This candle supports starting strong, moving with clarity, and building something that lasts.",
       "packagingCopy": "Capricorn carries discipline, structure, and long‑term vision. With 111, this steady energy becomes intentional initiation rather than cautious delay.",
       "socialCopy": "This candle supports starting strong, moving with clarity, and building something that lasts."
@@ -1664,17 +1664,17 @@ const productCatalog = {
       "definition": "Capricorn values control; 222 brings emotional balance. Burn this when you want leadership without pressure and confidence without strain.",
       "status": "canonical",
       "threeWords": [
-        "Discipline",
-        "Peace",
-        "Legacy"
+        "Patience",
+        "Alliance",
+        "Stability"
       ],
       "wordMeanings": {
-        "Discipline": "Discipline names the Capricorn quality at the center of this pairing: disciplined building.",
-        "Peace": "Peace describes how 222 redirects that energy into a deliberate emotional movement.",
-        "Legacy": "Legacy is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Patience": "Patience is the opening force of CALM AUTHORITY. It draws from this truth: Capricorn values control; 222 brings emotional balance.",
+        "Alliance": "Alliance is the active practice within CALM AUTHORITY. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Stability": "Stability is the signature alignment CALM AUTHORITY is meant to ignite. It carries the promise of this blend forward: Burn this when you want leadership without pressure and confidence without strain."
       },
-      "expandedMeaning": "Discipline names the Capricorn quality at the center of this pairing: disciplined building. Peace describes how 222 redirects that energy into a deliberate emotional movement. Legacy is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody discipline, move with peace, and make space for legacy?",
+      "expandedMeaning": "Patience is the opening force of CALM AUTHORITY. It draws from this truth: Capricorn values control; 222 brings emotional balance. Alliance is the active practice within CALM AUTHORITY. It turns the pairing's message into a conscious way of moving, choosing, and responding. Stability is the signature alignment CALM AUTHORITY is meant to ignite. It carries the promise of this blend forward: Burn this when you want leadership without pressure and confidence without strain.",
+      "reflection": "Where is CALM AUTHORITY asking you to practice Patience, build Alliance, and allow Stability to reshape the way you relate?",
       "websiteCopy": "Capricorn values control; 222 brings emotional balance. Burn this when you want leadership without pressure and confidence without strain.",
       "packagingCopy": "Capricorn values control; 222 brings emotional balance. Burn this when you want leadership without pressure and confidence without strain.",
       "socialCopy": "Burn this when you want leadership without pressure and confidence without strain."
@@ -1684,17 +1684,17 @@ const productCatalog = {
       "definition": "Capricorn builds carefully; 333 invites inspired creativity. This candle encourages smart ideas, inventive problem‑solving, and confident creation.",
       "status": "canonical",
       "threeWords": [
-        "Discipline",
-        "Create",
-        "Legacy"
+        "Craftsmanship",
+        "Expression",
+        "Authority"
       ],
       "wordMeanings": {
-        "Discipline": "Discipline names the Capricorn quality at the center of this pairing: disciplined building.",
-        "Create": "Create describes how 333 redirects that energy into a deliberate emotional movement.",
-        "Legacy": "Legacy is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Craftsmanship": "Craftsmanship is the opening force of CREATIVE ARCHITECT. It draws from this truth: Capricorn builds carefully; 333 invites inspired creativity.",
+        "Expression": "Expression is the active practice within CREATIVE ARCHITECT. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Authority": "Authority is the signature alignment CREATIVE ARCHITECT is meant to ignite. It carries the promise of this blend forward: This candle encourages smart ideas, inventive problem‑solving, and confident creation."
       },
-      "expandedMeaning": "Discipline names the Capricorn quality at the center of this pairing: disciplined building. Create describes how 333 redirects that energy into a deliberate emotional movement. Legacy is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody discipline, move with create, and make space for legacy?",
+      "expandedMeaning": "Craftsmanship is the opening force of CREATIVE ARCHITECT. It draws from this truth: Capricorn builds carefully; 333 invites inspired creativity. Expression is the active practice within CREATIVE ARCHITECT. It turns the pairing's message into a conscious way of moving, choosing, and responding. Authority is the signature alignment CREATIVE ARCHITECT is meant to ignite. It carries the promise of this blend forward: This candle encourages smart ideas, inventive problem‑solving, and confident creation.",
+      "reflection": "What wants to come alive through CREATIVE ARCHITECT when Craftsmanship gives you permission to pursue Expression and embody Authority?",
       "websiteCopy": "Capricorn builds carefully; 333 invites inspired creativity. This candle encourages smart ideas, inventive problem‑solving, and confident creation.",
       "packagingCopy": "Capricorn builds carefully; 333 invites inspired creativity. This candle encourages smart ideas, inventive problem‑solving, and confident creation.",
       "socialCopy": "This candle encourages smart ideas, inventive problem‑solving, and confident creation."
@@ -1705,16 +1705,16 @@ const productCatalog = {
       "status": "canonical",
       "threeWords": [
         "Discipline",
-        "Root",
+        "Foundation",
         "Legacy"
       ],
       "wordMeanings": {
-        "Discipline": "Discipline names the Capricorn quality at the center of this pairing: disciplined building.",
-        "Root": "Root describes how 444 redirects that energy into a deliberate emotional movement.",
-        "Legacy": "Legacy is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Discipline": "Discipline is the opening force of SOLID GROUND. It draws from this truth: Capricorn embodies stability; 444 deepens it into unwavering foundation.",
+        "Foundation": "Foundation is the active practice within SOLID GROUND. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Legacy": "Legacy is the signature alignment SOLID GROUND is meant to ignite. It carries the promise of this blend forward: This candle supports consistency, boundaries, and trust in your own structure."
       },
-      "expandedMeaning": "Discipline names the Capricorn quality at the center of this pairing: disciplined building. Root describes how 444 redirects that energy into a deliberate emotional movement. Legacy is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody discipline, move with root, and make space for legacy?",
+      "expandedMeaning": "Discipline is the opening force of SOLID GROUND. It draws from this truth: Capricorn embodies stability; 444 deepens it into unwavering foundation. Foundation is the active practice within SOLID GROUND. It turns the pairing's message into a conscious way of moving, choosing, and responding. Legacy is the signature alignment SOLID GROUND is meant to ignite. It carries the promise of this blend forward: This candle supports consistency, boundaries, and trust in your own structure.",
+      "reflection": "Which part of your life needs the Discipline of SOLID GROUND, the protection of Foundation, and the lasting support of Legacy?",
       "websiteCopy": "Capricorn embodies stability; 444 deepens it into unwavering foundation. This candle supports consistency, boundaries, and trust in your own structure.",
       "packagingCopy": "Capricorn embodies stability; 444 deepens it into unwavering foundation. This candle supports consistency, boundaries, and trust in your own structure.",
       "socialCopy": "This candle supports consistency, boundaries, and trust in your own structure."
@@ -1724,17 +1724,17 @@ const productCatalog = {
       "definition": "Capricorn climbs slowly; 555 invites fluid movement. Burn this when you’re ready to shift direction without losing your footing.",
       "status": "canonical",
       "threeWords": [
-        "Discipline",
-        "Change",
-        "Legacy"
+        "Strategy",
+        "Adaptation",
+        "Progress"
       ],
       "wordMeanings": {
-        "Discipline": "Discipline names the Capricorn quality at the center of this pairing: disciplined building.",
-        "Change": "Change describes how 555 redirects that energy into a deliberate emotional movement.",
-        "Legacy": "Legacy is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Strategy": "Strategy is the opening force of OPEN MOUNTAIN. It draws from this truth: Capricorn climbs slowly; 555 invites fluid movement.",
+        "Adaptation": "Adaptation is the active practice within OPEN MOUNTAIN. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Progress": "Progress is the signature alignment OPEN MOUNTAIN is meant to ignite. It carries the promise of this blend forward: Burn this when you’re ready to shift direction without losing your footing."
       },
-      "expandedMeaning": "Discipline names the Capricorn quality at the center of this pairing: disciplined building. Change describes how 555 redirects that energy into a deliberate emotional movement. Legacy is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody discipline, move with change, and make space for legacy?",
+      "expandedMeaning": "Strategy is the opening force of OPEN MOUNTAIN. It draws from this truth: Capricorn climbs slowly; 555 invites fluid movement. Adaptation is the active practice within OPEN MOUNTAIN. It turns the pairing's message into a conscious way of moving, choosing, and responding. Progress is the signature alignment OPEN MOUNTAIN is meant to ignite. It carries the promise of this blend forward: Burn this when you’re ready to shift direction without losing your footing.",
+      "reflection": "What must shift for OPEN MOUNTAIN to become real, and where could Strategy, Adaptation, and Progress carry you next?",
       "websiteCopy": "Capricorn climbs slowly; 555 invites fluid movement. Burn this when you’re ready to shift direction without losing your footing.",
       "packagingCopy": "Capricorn climbs slowly; 555 invites fluid movement. Burn this when you’re ready to shift direction without losing your footing.",
       "socialCopy": "Burn this when you’re ready to shift direction without losing your footing."
@@ -1744,17 +1744,17 @@ const productCatalog = {
       "definition": "Capricorn lives in responsibility; 666 brings presence back into the body. This candle supports slowing down, feeling grounded, and inhabiting your power with calm.",
       "status": "canonical",
       "threeWords": [
-        "Discipline",
-        "Body",
-        "Legacy"
+        "Presence",
+        "Responsibility",
+        "Balance"
       ],
       "wordMeanings": {
-        "Discipline": "Discipline names the Capricorn quality at the center of this pairing: disciplined building.",
-        "Body": "Body describes how 666 redirects that energy into a deliberate emotional movement.",
-        "Legacy": "Legacy is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Presence": "Presence is the opening force of EMBODIED STEADINESS. It draws from this truth: Capricorn lives in responsibility; 666 brings presence back into the body.",
+        "Responsibility": "Responsibility is the active practice within EMBODIED STEADINESS. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Balance": "Balance is the signature alignment EMBODIED STEADINESS is meant to ignite. It carries the promise of this blend forward: This candle supports slowing down, feeling grounded, and inhabiting your power with calm."
       },
-      "expandedMeaning": "Discipline names the Capricorn quality at the center of this pairing: disciplined building. Body describes how 666 redirects that energy into a deliberate emotional movement. Legacy is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody discipline, move with body, and make space for legacy?",
+      "expandedMeaning": "Presence is the opening force of EMBODIED STEADINESS. It draws from this truth: Capricorn lives in responsibility; 666 brings presence back into the body. Responsibility is the active practice within EMBODIED STEADINESS. It turns the pairing's message into a conscious way of moving, choosing, and responding. Balance is the signature alignment EMBODIED STEADINESS is meant to ignite. It carries the promise of this blend forward: This candle supports slowing down, feeling grounded, and inhabiting your power with calm.",
+      "reflection": "How can EMBODIED STEADINESS bring you back to Presence, help you honor Responsibility, and let you live from Balance today?",
       "websiteCopy": "Capricorn lives in responsibility; 666 brings presence back into the body. This candle supports slowing down, feeling grounded, and inhabiting your power with calm.",
       "packagingCopy": "Capricorn lives in responsibility; 666 brings presence back into the body. This candle supports slowing down, feeling grounded, and inhabiting your power with calm.",
       "socialCopy": "This candle supports slowing down, feeling grounded, and inhabiting your power with calm."
@@ -1764,17 +1764,17 @@ const productCatalog = {
       "definition": "Capricorn plans carefully; 777 reveals deeper insight. This candle supports trusting your inner knowing while staying practical.",
       "status": "canonical",
       "threeWords": [
-        "Discipline",
-        "Intuition",
-        "Legacy"
+        "Foresight",
+        "Discernment",
+        "Purpose"
       ],
       "wordMeanings": {
-        "Discipline": "Discipline names the Capricorn quality at the center of this pairing: disciplined building.",
-        "Intuition": "Intuition describes how 777 redirects that energy into a deliberate emotional movement.",
-        "Legacy": "Legacy is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Foresight": "Foresight is the opening force of INTUITIVE STRATEGY. It draws from this truth: Capricorn plans carefully; 777 reveals deeper insight.",
+        "Discernment": "Discernment is the active practice within INTUITIVE STRATEGY. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Purpose": "Purpose is the signature alignment INTUITIVE STRATEGY is meant to ignite. It carries the promise of this blend forward: This candle supports trusting your inner knowing while staying practical."
       },
-      "expandedMeaning": "Discipline names the Capricorn quality at the center of this pairing: disciplined building. Intuition describes how 777 redirects that energy into a deliberate emotional movement. Legacy is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody discipline, move with intuition, and make space for legacy?",
+      "expandedMeaning": "Foresight is the opening force of INTUITIVE STRATEGY. It draws from this truth: Capricorn plans carefully; 777 reveals deeper insight. Discernment is the active practice within INTUITIVE STRATEGY. It turns the pairing's message into a conscious way of moving, choosing, and responding. Purpose is the signature alignment INTUITIVE STRATEGY is meant to ignite. It carries the promise of this blend forward: This candle supports trusting your inner knowing while staying practical.",
+      "reflection": "What deeper truth does INTUITIVE STRATEGY reveal when you trust Foresight, apply Discernment, and stand firmly in Purpose?",
       "websiteCopy": "Capricorn plans carefully; 777 reveals deeper insight. This candle supports trusting your inner knowing while staying practical.",
       "packagingCopy": "Capricorn plans carefully; 777 reveals deeper insight. This candle supports trusting your inner knowing while staying practical.",
       "socialCopy": "This candle supports trusting your inner knowing while staying practical."
@@ -1784,17 +1784,17 @@ const productCatalog = {
       "definition": "Capricorn creates success; 888 amplifies confidence and abundance. Burn this when you want to step fully into your worth and attract lasting opportunity.",
       "status": "canonical",
       "threeWords": [
-        "Discipline",
-        "Abundance",
-        "Legacy"
+        "Achievement",
+        "Influence",
+        "Prosperity"
       ],
       "wordMeanings": {
-        "Discipline": "Discipline names the Capricorn quality at the center of this pairing: disciplined building.",
-        "Abundance": "Abundance describes how 888 redirects that energy into a deliberate emotional movement.",
-        "Legacy": "Legacy is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Achievement": "Achievement is the opening force of MAGNETIC BUILD. It draws from this truth: Capricorn creates success; 888 amplifies confidence and abundance.",
+        "Influence": "Influence is the active practice within MAGNETIC BUILD. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Prosperity": "Prosperity is the signature alignment MAGNETIC BUILD is meant to ignite. It carries the promise of this blend forward: Burn this when you want to step fully into your worth and attract lasting opportunity."
       },
-      "expandedMeaning": "Discipline names the Capricorn quality at the center of this pairing: disciplined building. Abundance describes how 888 redirects that energy into a deliberate emotional movement. Legacy is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody discipline, move with abundance, and make space for legacy?",
+      "expandedMeaning": "Achievement is the opening force of MAGNETIC BUILD. It draws from this truth: Capricorn creates success; 888 amplifies confidence and abundance. Influence is the active practice within MAGNETIC BUILD. It turns the pairing's message into a conscious way of moving, choosing, and responding. Prosperity is the signature alignment MAGNETIC BUILD is meant to ignite. It carries the promise of this blend forward: Burn this when you want to step fully into your worth and attract lasting opportunity.",
+      "reflection": "Where are you ready to claim the Achievement of MAGNETIC BUILD, receive Influence, and direct Prosperity with integrity?",
       "websiteCopy": "Capricorn creates success; 888 amplifies confidence and abundance. Burn this when you want to step fully into your worth and attract lasting opportunity.",
       "packagingCopy": "Capricorn creates success; 888 amplifies confidence and abundance. Burn this when you want to step fully into your worth and attract lasting opportunity.",
       "socialCopy": "Burn this when you want to step fully into your worth and attract lasting opportunity."
@@ -1804,17 +1804,17 @@ const productCatalog = {
       "definition": "Capricorn completes what it starts; 999 brings graceful closure. This candle supports releasing what is finished while remaining centered and strong.",
       "status": "canonical",
       "threeWords": [
-        "Discipline",
-        "Closure",
-        "Legacy"
+        "Fulfillment",
+        "Release",
+        "Inheritance"
       ],
       "wordMeanings": {
-        "Discipline": "Discipline names the Capricorn quality at the center of this pairing: disciplined building.",
-        "Closure": "Closure describes how 999 redirects that energy into a deliberate emotional movement.",
-        "Legacy": "Legacy is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Fulfillment": "Fulfillment is the opening force of CLEAR SUMMIT. It draws from this truth: Capricorn completes what it starts; 999 brings graceful closure.",
+        "Release": "Release is the active practice within CLEAR SUMMIT. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Inheritance": "Inheritance is the signature alignment CLEAR SUMMIT is meant to ignite. It carries the promise of this blend forward: This candle supports releasing what is finished while remaining centered and strong."
       },
-      "expandedMeaning": "Discipline names the Capricorn quality at the center of this pairing: disciplined building. Closure describes how 999 redirects that energy into a deliberate emotional movement. Legacy is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody discipline, move with closure, and make space for legacy?",
+      "expandedMeaning": "Fulfillment is the opening force of CLEAR SUMMIT. It draws from this truth: Capricorn completes what it starts; 999 brings graceful closure. Release is the active practice within CLEAR SUMMIT. It turns the pairing's message into a conscious way of moving, choosing, and responding. Inheritance is the signature alignment CLEAR SUMMIT is meant to ignite. It carries the promise of this blend forward: This candle supports releasing what is finished while remaining centered and strong.",
+      "reflection": "What can CLEAR SUMMIT help you complete through Fulfillment, release through Release, and transform into Inheritance?",
       "websiteCopy": "Capricorn completes what it starts; 999 brings graceful closure. This candle supports releasing what is finished while remaining centered and strong.",
       "packagingCopy": "Capricorn completes what it starts; 999 brings graceful closure. This candle supports releasing what is finished while remaining centered and strong.",
       "socialCopy": "This candle supports releasing what is finished while remaining centered and strong."
@@ -1826,17 +1826,17 @@ const productCatalog = {
       "definition": "Aquarius carries originality, independence, and forward‑thinking clarity. With 111, this visionary energy becomes decisive action rather than abstract ideas. This candle supports bold new beginnings that feel inventive, brave, and aligned with your true self.",
       "status": "canonical",
       "threeWords": [
-        "Vision",
-        "Start",
-        "Originality"
+        "Originality",
+        "Initiative",
+        "Possibility"
       ],
       "wordMeanings": {
-        "Vision": "Vision names the Aquarius quality at the center of this pairing: original vision.",
-        "Start": "Start describes how 111 redirects that energy into a deliberate emotional movement.",
-        "Originality": "Originality is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Originality": "Originality is the opening force of CLEAR BREAKTHROUGH. It draws from this truth: Aquarius carries originality, independence, and forward‑thinking clarity.",
+        "Initiative": "Initiative is the active practice within CLEAR BREAKTHROUGH. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Possibility": "Possibility is the signature alignment CLEAR BREAKTHROUGH is meant to ignite. It carries the promise of this blend forward: This candle supports bold new beginnings that feel inventive, brave, and aligned with your true self."
       },
-      "expandedMeaning": "Vision names the Aquarius quality at the center of this pairing: original vision. Start describes how 111 redirects that energy into a deliberate emotional movement. Originality is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody vision, move with start, and make space for originality?",
+      "expandedMeaning": "Originality is the opening force of CLEAR BREAKTHROUGH. It draws from this truth: Aquarius carries originality, independence, and forward‑thinking clarity. Initiative is the active practice within CLEAR BREAKTHROUGH. It turns the pairing's message into a conscious way of moving, choosing, and responding. Possibility is the signature alignment CLEAR BREAKTHROUGH is meant to ignite. It carries the promise of this blend forward: This candle supports bold new beginnings that feel inventive, brave, and aligned with your true self.",
+      "reflection": "What are you ready to begin through CLEAR BREAKTHROUGH, and how would choosing Originality and Initiative create a true Possibility?",
       "websiteCopy": "Aquarius carries originality, independence, and forward‑thinking clarity. With 111, this visionary energy becomes decisive action rather than abstract ideas. This candle supports bold new beginnings that feel inventive, brave, and aligned with your true self.",
       "packagingCopy": "Aquarius carries originality, independence, and forward‑thinking clarity. With 111, this visionary energy becomes decisive action rather than abstract ideas.",
       "socialCopy": "This candle supports bold new beginnings that feel inventive, brave, and aligned with your true self."
@@ -1846,17 +1846,17 @@ const productCatalog = {
       "definition": "Aquarius challenges systems; 222 brings emotional balance. Burn this when you want to think differently without agitation and move with clarity rather than reaction.",
       "status": "canonical",
       "threeWords": [
-        "Vision",
-        "Peace",
-        "Originality"
+        "Community",
+        "Cooperation",
+        "Belonging"
       ],
       "wordMeanings": {
-        "Vision": "Vision names the Aquarius quality at the center of this pairing: original vision.",
-        "Peace": "Peace describes how 222 redirects that energy into a deliberate emotional movement.",
-        "Originality": "Originality is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Community": "Community is the opening force of CALM REVOLUTION. It draws from this truth: Aquarius challenges systems; 222 brings emotional balance.",
+        "Cooperation": "Cooperation is the active practice within CALM REVOLUTION. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Belonging": "Belonging is the signature alignment CALM REVOLUTION is meant to ignite. It carries the promise of this blend forward: Burn this when you want to think differently without agitation and move with clarity rather than reaction."
       },
-      "expandedMeaning": "Vision names the Aquarius quality at the center of this pairing: original vision. Peace describes how 222 redirects that energy into a deliberate emotional movement. Originality is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody vision, move with peace, and make space for originality?",
+      "expandedMeaning": "Community is the opening force of CALM REVOLUTION. It draws from this truth: Aquarius challenges systems; 222 brings emotional balance. Cooperation is the active practice within CALM REVOLUTION. It turns the pairing's message into a conscious way of moving, choosing, and responding. Belonging is the signature alignment CALM REVOLUTION is meant to ignite. It carries the promise of this blend forward: Burn this when you want to think differently without agitation and move with clarity rather than reaction.",
+      "reflection": "Where is CALM REVOLUTION asking you to practice Community, build Cooperation, and allow Belonging to reshape the way you relate?",
       "websiteCopy": "Aquarius challenges systems; 222 brings emotional balance. Burn this when you want to think differently without agitation and move with clarity rather than reaction.",
       "packagingCopy": "Aquarius challenges systems; 222 brings emotional balance. Burn this when you want to think differently without agitation and move with clarity rather than reaction.",
       "socialCopy": "Burn this when you want to think differently without agitation and move with clarity rather than reaction."
@@ -1866,17 +1866,17 @@ const productCatalog = {
       "definition": "Aquarius imagines the future; 333 sparks playful creativity. This candle encourages inventive thinking, fearless self‑expression, and joyful originality.",
       "status": "canonical",
       "threeWords": [
-        "Vision",
-        "Create",
-        "Originality"
+        "Innovation",
+        "Expression",
+        "Liberation"
       ],
       "wordMeanings": {
-        "Vision": "Vision names the Aquarius quality at the center of this pairing: original vision.",
-        "Create": "Create describes how 333 redirects that energy into a deliberate emotional movement.",
-        "Originality": "Originality is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Innovation": "Innovation is the opening force of BRILLIANT INNOVATION. It draws from this truth: Aquarius imagines the future; 333 sparks playful creativity.",
+        "Expression": "Expression is the active practice within BRILLIANT INNOVATION. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Liberation": "Liberation is the signature alignment BRILLIANT INNOVATION is meant to ignite. It carries the promise of this blend forward: This candle encourages inventive thinking, fearless self‑expression, and joyful originality."
       },
-      "expandedMeaning": "Vision names the Aquarius quality at the center of this pairing: original vision. Create describes how 333 redirects that energy into a deliberate emotional movement. Originality is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody vision, move with create, and make space for originality?",
+      "expandedMeaning": "Innovation is the opening force of BRILLIANT INNOVATION. It draws from this truth: Aquarius imagines the future; 333 sparks playful creativity. Expression is the active practice within BRILLIANT INNOVATION. It turns the pairing's message into a conscious way of moving, choosing, and responding. Liberation is the signature alignment BRILLIANT INNOVATION is meant to ignite. It carries the promise of this blend forward: This candle encourages inventive thinking, fearless self‑expression, and joyful originality.",
+      "reflection": "What wants to come alive through BRILLIANT INNOVATION when Innovation gives you permission to pursue Expression and embody Liberation?",
       "websiteCopy": "Aquarius imagines the future; 333 sparks playful creativity. This candle encourages inventive thinking, fearless self‑expression, and joyful originality.",
       "packagingCopy": "Aquarius imagines the future; 333 sparks playful creativity. This candle encourages inventive thinking, fearless self‑expression, and joyful originality.",
       "socialCopy": "This candle encourages inventive thinking, fearless self‑expression, and joyful originality."
@@ -1887,16 +1887,16 @@ const productCatalog = {
       "status": "canonical",
       "threeWords": [
         "Vision",
-        "Root",
-        "Originality"
+        "Structure",
+        "Stewardship"
       ],
       "wordMeanings": {
-        "Vision": "Vision names the Aquarius quality at the center of this pairing: original vision.",
-        "Root": "Root describes how 444 redirects that energy into a deliberate emotional movement.",
-        "Originality": "Originality is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Vision": "Vision is the opening force of STEADY VISION. It draws from this truth: Aquarius dreams big; 444 grounds those dreams in structure.",
+        "Structure": "Structure is the active practice within STEADY VISION. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Stewardship": "Stewardship is the signature alignment STEADY VISION is meant to ignite. It carries the promise of this blend forward: This candle supports disciplined focus, reliable progress, and calm inner authority."
       },
-      "expandedMeaning": "Vision names the Aquarius quality at the center of this pairing: original vision. Root describes how 444 redirects that energy into a deliberate emotional movement. Originality is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody vision, move with root, and make space for originality?",
+      "expandedMeaning": "Vision is the opening force of STEADY VISION. It draws from this truth: Aquarius dreams big; 444 grounds those dreams in structure. Structure is the active practice within STEADY VISION. It turns the pairing's message into a conscious way of moving, choosing, and responding. Stewardship is the signature alignment STEADY VISION is meant to ignite. It carries the promise of this blend forward: This candle supports disciplined focus, reliable progress, and calm inner authority.",
+      "reflection": "Which part of your life needs the Vision of STEADY VISION, the protection of Structure, and the lasting support of Stewardship?",
       "websiteCopy": "Aquarius dreams big; 444 grounds those dreams in structure. This candle supports disciplined focus, reliable progress, and calm inner authority.",
       "packagingCopy": "Aquarius dreams big; 444 grounds those dreams in structure. This candle supports disciplined focus, reliable progress, and calm inner authority.",
       "socialCopy": "This candle supports disciplined focus, reliable progress, and calm inner authority."
@@ -1906,17 +1906,17 @@ const productCatalog = {
       "definition": "Aquarius thrives on change, and 555 accelerates it. Burn this when you are ready to break patterns, shift perspective, and move freely toward what feels true.",
       "status": "canonical",
       "threeWords": [
-        "Vision",
+        "Disruption",
         "Change",
-        "Originality"
+        "Evolution"
       ],
       "wordMeanings": {
-        "Vision": "Vision names the Aquarius quality at the center of this pairing: original vision.",
-        "Change": "Change describes how 555 redirects that energy into a deliberate emotional movement.",
-        "Originality": "Originality is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Disruption": "Disruption is the opening force of FREE SIGNAL. It draws from this truth: Aquarius thrives on change, and 555 accelerates it.",
+        "Change": "Change is the active practice within FREE SIGNAL. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Evolution": "Evolution is the signature alignment FREE SIGNAL is meant to ignite. It carries the promise of this blend forward: Burn this when you are ready to break patterns, shift perspective, and move freely toward what feels true."
       },
-      "expandedMeaning": "Vision names the Aquarius quality at the center of this pairing: original vision. Change describes how 555 redirects that energy into a deliberate emotional movement. Originality is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody vision, move with change, and make space for originality?",
+      "expandedMeaning": "Disruption is the opening force of FREE SIGNAL. It draws from this truth: Aquarius thrives on change, and 555 accelerates it. Change is the active practice within FREE SIGNAL. It turns the pairing's message into a conscious way of moving, choosing, and responding. Evolution is the signature alignment FREE SIGNAL is meant to ignite. It carries the promise of this blend forward: Burn this when you are ready to break patterns, shift perspective, and move freely toward what feels true.",
+      "reflection": "What must shift for FREE SIGNAL to become real, and where could Disruption, Change, and Evolution carry you next?",
       "websiteCopy": "Aquarius thrives on change, and 555 accelerates it. Burn this when you are ready to break patterns, shift perspective, and move freely toward what feels true.",
       "packagingCopy": "Aquarius thrives on change, and 555 accelerates it. Burn this when you are ready to break patterns, shift perspective, and move freely toward what feels true.",
       "socialCopy": "Burn this when you are ready to break patterns, shift perspective, and move freely toward what feels true."
@@ -1926,17 +1926,17 @@ const productCatalog = {
       "definition": "Aquarius lives in the mind; 666 brings awareness back into the body. This candle supports slowing down, grounding, and feeling safe in your individuality.",
       "status": "canonical",
       "threeWords": [
-        "Vision",
-        "Body",
-        "Originality"
+        "Individuality",
+        "Presence",
+        "Acceptance"
       ],
       "wordMeanings": {
-        "Vision": "Vision names the Aquarius quality at the center of this pairing: original vision.",
-        "Body": "Body describes how 666 redirects that energy into a deliberate emotional movement.",
-        "Originality": "Originality is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Individuality": "Individuality is the opening force of EMBODIED FREEDOM. It draws from this truth: Aquarius lives in the mind; 666 brings awareness back into the body.",
+        "Presence": "Presence is the active practice within EMBODIED FREEDOM. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Acceptance": "Acceptance is the signature alignment EMBODIED FREEDOM is meant to ignite. It carries the promise of this blend forward: This candle supports slowing down, grounding, and feeling safe in your individuality."
       },
-      "expandedMeaning": "Vision names the Aquarius quality at the center of this pairing: original vision. Body describes how 666 redirects that energy into a deliberate emotional movement. Originality is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody vision, move with body, and make space for originality?",
+      "expandedMeaning": "Individuality is the opening force of EMBODIED FREEDOM. It draws from this truth: Aquarius lives in the mind; 666 brings awareness back into the body. Presence is the active practice within EMBODIED FREEDOM. It turns the pairing's message into a conscious way of moving, choosing, and responding. Acceptance is the signature alignment EMBODIED FREEDOM is meant to ignite. It carries the promise of this blend forward: This candle supports slowing down, grounding, and feeling safe in your individuality.",
+      "reflection": "How can EMBODIED FREEDOM bring you back to Individuality, help you honor Presence, and let you live from Acceptance today?",
       "websiteCopy": "Aquarius lives in the mind; 666 brings awareness back into the body. This candle supports slowing down, grounding, and feeling safe in your individuality.",
       "packagingCopy": "Aquarius lives in the mind; 666 brings awareness back into the body. This candle supports slowing down, grounding, and feeling safe in your individuality.",
       "socialCopy": "This candle supports slowing down, grounding, and feeling safe in your individuality."
@@ -1946,17 +1946,17 @@ const productCatalog = {
       "definition": "Aquarius perceives possibilities; 777 reveals deeper truth. This candle supports trusting your intuition while staying open and curious.",
       "status": "canonical",
       "threeWords": [
-        "Vision",
+        "Insight",
         "Intuition",
-        "Originality"
+        "Foresight"
       ],
       "wordMeanings": {
-        "Vision": "Vision names the Aquarius quality at the center of this pairing: original vision.",
-        "Intuition": "Intuition describes how 777 redirects that energy into a deliberate emotional movement.",
-        "Originality": "Originality is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Insight": "Insight is the opening force of INTUITIVE CLARITY. It draws from this truth: Aquarius perceives possibilities; 777 reveals deeper truth.",
+        "Intuition": "Intuition is the active practice within INTUITIVE CLARITY. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Foresight": "Foresight is the signature alignment INTUITIVE CLARITY is meant to ignite. It carries the promise of this blend forward: This candle supports trusting your intuition while staying open and curious."
       },
-      "expandedMeaning": "Vision names the Aquarius quality at the center of this pairing: original vision. Intuition describes how 777 redirects that energy into a deliberate emotional movement. Originality is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody vision, move with intuition, and make space for originality?",
+      "expandedMeaning": "Insight is the opening force of INTUITIVE CLARITY. It draws from this truth: Aquarius perceives possibilities; 777 reveals deeper truth. Intuition is the active practice within INTUITIVE CLARITY. It turns the pairing's message into a conscious way of moving, choosing, and responding. Foresight is the signature alignment INTUITIVE CLARITY is meant to ignite. It carries the promise of this blend forward: This candle supports trusting your intuition while staying open and curious.",
+      "reflection": "What deeper truth does INTUITIVE CLARITY reveal when you trust Insight, apply Intuition, and stand firmly in Foresight?",
       "websiteCopy": "Aquarius perceives possibilities; 777 reveals deeper truth. This candle supports trusting your intuition while staying open and curious.",
       "packagingCopy": "Aquarius perceives possibilities; 777 reveals deeper truth. This candle supports trusting your intuition while staying open and curious.",
       "socialCopy": "This candle supports trusting your intuition while staying open and curious."
@@ -1966,17 +1966,17 @@ const productCatalog = {
       "definition": "Aquarius represents progress; 888 amplifies confidence and influence. Burn this when you want to stand fully in your unique vision and attract aligned opportunities.",
       "status": "canonical",
       "threeWords": [
-        "Vision",
+        "Influence",
         "Abundance",
-        "Originality"
+        "Progress"
       ],
       "wordMeanings": {
-        "Vision": "Vision names the Aquarius quality at the center of this pairing: original vision.",
-        "Abundance": "Abundance describes how 888 redirects that energy into a deliberate emotional movement.",
-        "Originality": "Originality is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Influence": "Influence is the opening force of MAGNETIC VISION. It draws from this truth: Aquarius represents progress; 888 amplifies confidence and influence.",
+        "Abundance": "Abundance is the active practice within MAGNETIC VISION. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Progress": "Progress is the signature alignment MAGNETIC VISION is meant to ignite. It carries the promise of this blend forward: Burn this when you want to stand fully in your unique vision and attract aligned opportunities."
       },
-      "expandedMeaning": "Vision names the Aquarius quality at the center of this pairing: original vision. Abundance describes how 888 redirects that energy into a deliberate emotional movement. Originality is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody vision, move with abundance, and make space for originality?",
+      "expandedMeaning": "Influence is the opening force of MAGNETIC VISION. It draws from this truth: Aquarius represents progress; 888 amplifies confidence and influence. Abundance is the active practice within MAGNETIC VISION. It turns the pairing's message into a conscious way of moving, choosing, and responding. Progress is the signature alignment MAGNETIC VISION is meant to ignite. It carries the promise of this blend forward: Burn this when you want to stand fully in your unique vision and attract aligned opportunities.",
+      "reflection": "Where are you ready to claim the Influence of MAGNETIC VISION, receive Abundance, and direct Progress with integrity?",
       "websiteCopy": "Aquarius represents progress; 888 amplifies confidence and influence. Burn this when you want to stand fully in your unique vision and attract aligned opportunities.",
       "packagingCopy": "Aquarius represents progress; 888 amplifies confidence and influence. Burn this when you want to stand fully in your unique vision and attract aligned opportunities.",
       "socialCopy": "Burn this when you want to stand fully in your unique vision and attract aligned opportunities."
@@ -1986,17 +1986,17 @@ const productCatalog = {
       "definition": "Aquarius moves ahead; 999 brings graceful completion. This candle supports releasing old thinking, closing chapters, and stepping forward with a clear mind.",
       "status": "canonical",
       "threeWords": [
-        "Vision",
-        "Closure",
-        "Originality"
+        "Detachment",
+        "Completion",
+        "Future"
       ],
       "wordMeanings": {
-        "Vision": "Vision names the Aquarius quality at the center of this pairing: original vision.",
-        "Closure": "Closure describes how 999 redirects that energy into a deliberate emotional movement.",
-        "Originality": "Originality is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Detachment": "Detachment is the opening force of CLEAN SKY. It draws from this truth: Aquarius moves ahead; 999 brings graceful completion.",
+        "Completion": "Completion is the active practice within CLEAN SKY. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Future": "Future is the signature alignment CLEAN SKY is meant to ignite. It carries the promise of this blend forward: This candle supports releasing old thinking, closing chapters, and stepping forward with a clear mind."
       },
-      "expandedMeaning": "Vision names the Aquarius quality at the center of this pairing: original vision. Closure describes how 999 redirects that energy into a deliberate emotional movement. Originality is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody vision, move with closure, and make space for originality?",
+      "expandedMeaning": "Detachment is the opening force of CLEAN SKY. It draws from this truth: Aquarius moves ahead; 999 brings graceful completion. Completion is the active practice within CLEAN SKY. It turns the pairing's message into a conscious way of moving, choosing, and responding. Future is the signature alignment CLEAN SKY is meant to ignite. It carries the promise of this blend forward: This candle supports releasing old thinking, closing chapters, and stepping forward with a clear mind.",
+      "reflection": "What can CLEAN SKY help you complete through Detachment, release through Completion, and transform into Future?",
       "websiteCopy": "Aquarius moves ahead; 999 brings graceful completion. This candle supports releasing old thinking, closing chapters, and stepping forward with a clear mind.",
       "packagingCopy": "Aquarius moves ahead; 999 brings graceful completion. This candle supports releasing old thinking, closing chapters, and stepping forward with a clear mind.",
       "socialCopy": "This candle supports releasing old thinking, closing chapters, and stepping forward with a clear mind."
@@ -2008,17 +2008,17 @@ const productCatalog = {
       "definition": "Pisces carries empathy, imagination, and deep emotional intuition. With 111, this gentle energy becomes purposeful clarity rather than drifting. This candle supports beginning again with a soft heart and clear mind.",
       "status": "canonical",
       "threeWords": [
-        "Dream",
-        "Start",
-        "Compassion"
+        "Clarity",
+        "Imagination",
+        "Beginning"
       ],
       "wordMeanings": {
-        "Dream": "Dream names the Pisces quality at the center of this pairing: intuitive feeling.",
-        "Start": "Start describes how 111 redirects that energy into a deliberate emotional movement.",
-        "Compassion": "Compassion is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Clarity": "Clarity is the opening force of CLEAR DREAM. It draws from this truth: Pisces carries empathy, imagination, and deep emotional intuition.",
+        "Imagination": "Imagination is the active practice within CLEAR DREAM. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Beginning": "Beginning is the signature alignment CLEAR DREAM is meant to ignite. It carries the promise of this blend forward: This candle supports beginning again with a soft heart and clear mind."
       },
-      "expandedMeaning": "Dream names the Pisces quality at the center of this pairing: intuitive feeling. Start describes how 111 redirects that energy into a deliberate emotional movement. Compassion is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody dream, move with start, and make space for compassion?",
+      "expandedMeaning": "Clarity is the opening force of CLEAR DREAM. It draws from this truth: Pisces carries empathy, imagination, and deep emotional intuition. Imagination is the active practice within CLEAR DREAM. It turns the pairing's message into a conscious way of moving, choosing, and responding. Beginning is the signature alignment CLEAR DREAM is meant to ignite. It carries the promise of this blend forward: This candle supports beginning again with a soft heart and clear mind.",
+      "reflection": "What are you ready to begin through CLEAR DREAM, and how would choosing Clarity and Imagination create a true Beginning?",
       "websiteCopy": "Pisces carries empathy, imagination, and deep emotional intuition. With 111, this gentle energy becomes purposeful clarity rather than drifting. This candle supports beginning again with a soft heart and clear mind.",
       "packagingCopy": "Pisces carries empathy, imagination, and deep emotional intuition. With 111, this gentle energy becomes purposeful clarity rather than drifting.",
       "socialCopy": "This candle supports beginning again with a soft heart and clear mind."
@@ -2028,17 +2028,17 @@ const productCatalog = {
       "definition": "Pisces feels everything; 222 brings emotional harmony. Burn this when you need emotional softness without overwhelm and compassion without depletion.",
       "status": "canonical",
       "threeWords": [
-        "Dream",
-        "Peace",
-        "Compassion"
+        "Softness",
+        "Trust",
+        "Harmony"
       ],
       "wordMeanings": {
-        "Dream": "Dream names the Pisces quality at the center of this pairing: intuitive feeling.",
-        "Peace": "Peace describes how 222 redirects that energy into a deliberate emotional movement.",
-        "Compassion": "Compassion is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Softness": "Softness is the opening force of CALM CURRENT. It draws from this truth: Pisces feels everything; 222 brings emotional harmony.",
+        "Trust": "Trust is the active practice within CALM CURRENT. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Harmony": "Harmony is the signature alignment CALM CURRENT is meant to ignite. It carries the promise of this blend forward: Burn this when you need emotional softness without overwhelm and compassion without depletion."
       },
-      "expandedMeaning": "Dream names the Pisces quality at the center of this pairing: intuitive feeling. Peace describes how 222 redirects that energy into a deliberate emotional movement. Compassion is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody dream, move with peace, and make space for compassion?",
+      "expandedMeaning": "Softness is the opening force of CALM CURRENT. It draws from this truth: Pisces feels everything; 222 brings emotional harmony. Trust is the active practice within CALM CURRENT. It turns the pairing's message into a conscious way of moving, choosing, and responding. Harmony is the signature alignment CALM CURRENT is meant to ignite. It carries the promise of this blend forward: Burn this when you need emotional softness without overwhelm and compassion without depletion.",
+      "reflection": "Where is CALM CURRENT asking you to practice Softness, build Trust, and allow Harmony to reshape the way you relate?",
       "websiteCopy": "Pisces feels everything; 222 brings emotional harmony. Burn this when you need emotional softness without overwhelm and compassion without depletion.",
       "packagingCopy": "Pisces feels everything; 222 brings emotional harmony. Burn this when you need emotional softness without overwhelm and compassion without depletion.",
       "socialCopy": "Burn this when you need emotional softness without overwhelm and compassion without depletion."
@@ -2048,17 +2048,17 @@ const productCatalog = {
       "definition": "Pisces lives in imagination; 333 invites joyful expression. This candle encourages artistic freedom, emotional honesty, and gentle self‑expression.",
       "status": "canonical",
       "threeWords": [
-        "Dream",
-        "Create",
-        "Compassion"
+        "Inspiration",
+        "Expression",
+        "Wonder"
       ],
       "wordMeanings": {
-        "Dream": "Dream names the Pisces quality at the center of this pairing: intuitive feeling.",
-        "Create": "Create describes how 333 redirects that energy into a deliberate emotional movement.",
-        "Compassion": "Compassion is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Inspiration": "Inspiration is the opening force of CREATIVE FLOW. It draws from this truth: Pisces lives in imagination; 333 invites joyful expression.",
+        "Expression": "Expression is the active practice within CREATIVE FLOW. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Wonder": "Wonder is the signature alignment CREATIVE FLOW is meant to ignite. It carries the promise of this blend forward: This candle encourages artistic freedom, emotional honesty, and gentle self‑expression."
       },
-      "expandedMeaning": "Dream names the Pisces quality at the center of this pairing: intuitive feeling. Create describes how 333 redirects that energy into a deliberate emotional movement. Compassion is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody dream, move with create, and make space for compassion?",
+      "expandedMeaning": "Inspiration is the opening force of CREATIVE FLOW. It draws from this truth: Pisces lives in imagination; 333 invites joyful expression. Expression is the active practice within CREATIVE FLOW. It turns the pairing's message into a conscious way of moving, choosing, and responding. Wonder is the signature alignment CREATIVE FLOW is meant to ignite. It carries the promise of this blend forward: This candle encourages artistic freedom, emotional honesty, and gentle self‑expression.",
+      "reflection": "What wants to come alive through CREATIVE FLOW when Inspiration gives you permission to pursue Expression and embody Wonder?",
       "websiteCopy": "Pisces lives in imagination; 333 invites joyful expression. This candle encourages artistic freedom, emotional honesty, and gentle self‑expression.",
       "packagingCopy": "Pisces lives in imagination; 333 invites joyful expression. This candle encourages artistic freedom, emotional honesty, and gentle self‑expression.",
       "socialCopy": "This candle encourages artistic freedom, emotional honesty, and gentle self‑expression."
@@ -2068,17 +2068,17 @@ const productCatalog = {
       "definition": "Pisces drifts easily; 444 provides grounding. This candle supports emotional safety, inner boundaries, and steady presence.",
       "status": "canonical",
       "threeWords": [
-        "Dream",
-        "Root",
-        "Compassion"
+        "Grounding",
+        "Boundaries",
+        "Safety"
       ],
       "wordMeanings": {
-        "Dream": "Dream names the Pisces quality at the center of this pairing: intuitive feeling.",
-        "Root": "Root describes how 444 redirects that energy into a deliberate emotional movement.",
-        "Compassion": "Compassion is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Grounding": "Grounding is the opening force of ANCHORED SOUL. It draws from this truth: Pisces drifts easily; 444 provides grounding.",
+        "Boundaries": "Boundaries is the active practice within ANCHORED SOUL. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Safety": "Safety is the signature alignment ANCHORED SOUL is meant to ignite. It carries the promise of this blend forward: This candle supports emotional safety, inner boundaries, and steady presence."
       },
-      "expandedMeaning": "Dream names the Pisces quality at the center of this pairing: intuitive feeling. Root describes how 444 redirects that energy into a deliberate emotional movement. Compassion is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody dream, move with root, and make space for compassion?",
+      "expandedMeaning": "Grounding is the opening force of ANCHORED SOUL. It draws from this truth: Pisces drifts easily; 444 provides grounding. Boundaries is the active practice within ANCHORED SOUL. It turns the pairing's message into a conscious way of moving, choosing, and responding. Safety is the signature alignment ANCHORED SOUL is meant to ignite. It carries the promise of this blend forward: This candle supports emotional safety, inner boundaries, and steady presence.",
+      "reflection": "Which part of your life needs the Grounding of ANCHORED SOUL, the protection of Boundaries, and the lasting support of Safety?",
       "websiteCopy": "Pisces drifts easily; 444 provides grounding. This candle supports emotional safety, inner boundaries, and steady presence.",
       "packagingCopy": "Pisces drifts easily; 444 provides grounding. This candle supports emotional safety, inner boundaries, and steady presence.",
       "socialCopy": "This candle supports emotional safety, inner boundaries, and steady presence."
@@ -2088,17 +2088,17 @@ const productCatalog = {
       "definition": "Pisces moves like water, and 555 invites expansive change. Burn this when you’re ready to release, flow forward, and embrace new emotional horizons.",
       "status": "canonical",
       "threeWords": [
-        "Dream",
-        "Change",
-        "Compassion"
+        "Flow",
+        "Release",
+        "Expansion"
       ],
       "wordMeanings": {
-        "Dream": "Dream names the Pisces quality at the center of this pairing: intuitive feeling.",
-        "Change": "Change describes how 555 redirects that energy into a deliberate emotional movement.",
-        "Compassion": "Compassion is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Flow": "Flow is the opening force of OPEN SEA. It draws from this truth: Pisces moves like water, and 555 invites expansive change.",
+        "Release": "Release is the active practice within OPEN SEA. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Expansion": "Expansion is the signature alignment OPEN SEA is meant to ignite. It carries the promise of this blend forward: Burn this when you’re ready to release, flow forward, and embrace new emotional horizons."
       },
-      "expandedMeaning": "Dream names the Pisces quality at the center of this pairing: intuitive feeling. Change describes how 555 redirects that energy into a deliberate emotional movement. Compassion is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody dream, move with change, and make space for compassion?",
+      "expandedMeaning": "Flow is the opening force of OPEN SEA. It draws from this truth: Pisces moves like water, and 555 invites expansive change. Release is the active practice within OPEN SEA. It turns the pairing's message into a conscious way of moving, choosing, and responding. Expansion is the signature alignment OPEN SEA is meant to ignite. It carries the promise of this blend forward: Burn this when you’re ready to release, flow forward, and embrace new emotional horizons.",
+      "reflection": "What must shift for OPEN SEA to become real, and where could Flow, Release, and Expansion carry you next?",
       "websiteCopy": "Pisces moves like water, and 555 invites expansive change. Burn this when you’re ready to release, flow forward, and embrace new emotional horizons.",
       "packagingCopy": "Pisces moves like water, and 555 invites expansive change. Burn this when you’re ready to release, flow forward, and embrace new emotional horizons.",
       "socialCopy": "Burn this when you’re ready to release, flow forward, and embrace new emotional horizons."
@@ -2108,17 +2108,17 @@ const productCatalog = {
       "definition": "Pisces feels deeply; 666 brings presence into the body. This candle supports slowing down, nurturing yourself, and feeling safely rooted.",
       "status": "canonical",
       "threeWords": [
-        "Dream",
-        "Body",
-        "Compassion"
+        "Compassion",
+        "Embodiment",
+        "Restoration"
       ],
       "wordMeanings": {
-        "Dream": "Dream names the Pisces quality at the center of this pairing: intuitive feeling.",
-        "Body": "Body describes how 666 redirects that energy into a deliberate emotional movement.",
-        "Compassion": "Compassion is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Compassion": "Compassion is the opening force of EMBODIED COMPASSION. It draws from this truth: Pisces feels deeply; 666 brings presence into the body.",
+        "Embodiment": "Embodiment is the active practice within EMBODIED COMPASSION. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Restoration": "Restoration is the signature alignment EMBODIED COMPASSION is meant to ignite. It carries the promise of this blend forward: This candle supports slowing down, nurturing yourself, and feeling safely rooted."
       },
-      "expandedMeaning": "Dream names the Pisces quality at the center of this pairing: intuitive feeling. Body describes how 666 redirects that energy into a deliberate emotional movement. Compassion is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody dream, move with body, and make space for compassion?",
+      "expandedMeaning": "Compassion is the opening force of EMBODIED COMPASSION. It draws from this truth: Pisces feels deeply; 666 brings presence into the body. Embodiment is the active practice within EMBODIED COMPASSION. It turns the pairing's message into a conscious way of moving, choosing, and responding. Restoration is the signature alignment EMBODIED COMPASSION is meant to ignite. It carries the promise of this blend forward: This candle supports slowing down, nurturing yourself, and feeling safely rooted.",
+      "reflection": "How can EMBODIED COMPASSION bring you back to Compassion, help you honor Embodiment, and let you live from Restoration today?",
       "websiteCopy": "Pisces feels deeply; 666 brings presence into the body. This candle supports slowing down, nurturing yourself, and feeling safely rooted.",
       "packagingCopy": "Pisces feels deeply; 666 brings presence into the body. This candle supports slowing down, nurturing yourself, and feeling safely rooted.",
       "socialCopy": "This candle supports slowing down, nurturing yourself, and feeling safely rooted."
@@ -2128,17 +2128,17 @@ const productCatalog = {
       "definition": "Pisces is naturally intuitive; 777 clarifies that knowing. This candle supports trusting your inner voice and sensing truth beneath emotion.",
       "status": "canonical",
       "threeWords": [
-        "Dream",
         "Intuition",
-        "Compassion"
+        "Surrender",
+        "Revelation"
       ],
       "wordMeanings": {
-        "Dream": "Dream names the Pisces quality at the center of this pairing: intuitive feeling.",
-        "Intuition": "Intuition describes how 777 redirects that energy into a deliberate emotional movement.",
-        "Compassion": "Compassion is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Intuition": "Intuition is the opening force of INTUITIVE OCEAN. It draws from this truth: Pisces is naturally intuitive; 777 clarifies that knowing.",
+        "Surrender": "Surrender is the active practice within INTUITIVE OCEAN. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Revelation": "Revelation is the signature alignment INTUITIVE OCEAN is meant to ignite. It carries the promise of this blend forward: This candle supports trusting your inner voice and sensing truth beneath emotion."
       },
-      "expandedMeaning": "Dream names the Pisces quality at the center of this pairing: intuitive feeling. Intuition describes how 777 redirects that energy into a deliberate emotional movement. Compassion is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody dream, move with intuition, and make space for compassion?",
+      "expandedMeaning": "Intuition is the opening force of INTUITIVE OCEAN. It draws from this truth: Pisces is naturally intuitive; 777 clarifies that knowing. Surrender is the active practice within INTUITIVE OCEAN. It turns the pairing's message into a conscious way of moving, choosing, and responding. Revelation is the signature alignment INTUITIVE OCEAN is meant to ignite. It carries the promise of this blend forward: This candle supports trusting your inner voice and sensing truth beneath emotion.",
+      "reflection": "What deeper truth does INTUITIVE OCEAN reveal when you trust Intuition, apply Surrender, and stand firmly in Revelation?",
       "websiteCopy": "Pisces is naturally intuitive; 777 clarifies that knowing. This candle supports trusting your inner voice and sensing truth beneath emotion.",
       "packagingCopy": "Pisces is naturally intuitive; 777 clarifies that knowing. This candle supports trusting your inner voice and sensing truth beneath emotion.",
       "socialCopy": "This candle supports trusting your inner voice and sensing truth beneath emotion."
@@ -2148,17 +2148,17 @@ const productCatalog = {
       "definition": "Pisces embodies compassion; 888 amplifies worth and magnetism. Burn this when you want to feel valued, confident, and emotionally expansive.",
       "status": "canonical",
       "threeWords": [
-        "Dream",
-        "Abundance",
-        "Compassion"
+        "Empathy",
+        "Worth",
+        "Magnetism"
       ],
       "wordMeanings": {
-        "Dream": "Dream names the Pisces quality at the center of this pairing: intuitive feeling.",
-        "Abundance": "Abundance describes how 888 redirects that energy into a deliberate emotional movement.",
-        "Compassion": "Compassion is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Empathy": "Empathy is the opening force of RADIANT DEPTH. It draws from this truth: Pisces embodies compassion; 888 amplifies worth and magnetism.",
+        "Worth": "Worth is the active practice within RADIANT DEPTH. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Magnetism": "Magnetism is the signature alignment RADIANT DEPTH is meant to ignite. It carries the promise of this blend forward: Burn this when you want to feel valued, confident, and emotionally expansive."
       },
-      "expandedMeaning": "Dream names the Pisces quality at the center of this pairing: intuitive feeling. Abundance describes how 888 redirects that energy into a deliberate emotional movement. Compassion is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody dream, move with abundance, and make space for compassion?",
+      "expandedMeaning": "Empathy is the opening force of RADIANT DEPTH. It draws from this truth: Pisces embodies compassion; 888 amplifies worth and magnetism. Worth is the active practice within RADIANT DEPTH. It turns the pairing's message into a conscious way of moving, choosing, and responding. Magnetism is the signature alignment RADIANT DEPTH is meant to ignite. It carries the promise of this blend forward: Burn this when you want to feel valued, confident, and emotionally expansive.",
+      "reflection": "Where are you ready to claim the Empathy of RADIANT DEPTH, receive Worth, and direct Magnetism with integrity?",
       "websiteCopy": "Pisces embodies compassion; 888 amplifies worth and magnetism. Burn this when you want to feel valued, confident, and emotionally expansive.",
       "packagingCopy": "Pisces embodies compassion; 888 amplifies worth and magnetism. Burn this when you want to feel valued, confident, and emotionally expansive.",
       "socialCopy": "Burn this when you want to feel valued, confident, and emotionally expansive."
@@ -2168,17 +2168,17 @@ const productCatalog = {
       "definition": "Pisces dissolves endings softly; 999 brings graceful completion. This candle supports gentle release, emotional healing, and moving forward with an open heart.",
       "status": "canonical",
       "threeWords": [
-        "Dream",
+        "Healing",
         "Closure",
-        "Compassion"
+        "Transcendence"
       ],
       "wordMeanings": {
-        "Dream": "Dream names the Pisces quality at the center of this pairing: intuitive feeling.",
-        "Closure": "Closure describes how 999 redirects that energy into a deliberate emotional movement.",
-        "Compassion": "Compassion is the integrated result—the feeling this candle is designed to support in the person and the room."
+        "Healing": "Healing is the opening force of CLEAR SHORE. It draws from this truth: Pisces dissolves endings softly; 999 brings graceful completion.",
+        "Closure": "Closure is the active practice within CLEAR SHORE. It turns the pairing's message into a conscious way of moving, choosing, and responding.",
+        "Transcendence": "Transcendence is the signature alignment CLEAR SHORE is meant to ignite. It carries the promise of this blend forward: This candle supports gentle release, emotional healing, and moving forward with an open heart."
       },
-      "expandedMeaning": "Dream names the Pisces quality at the center of this pairing: intuitive feeling. Closure describes how 999 redirects that energy into a deliberate emotional movement. Compassion is the integrated result—the feeling this candle is designed to support in the person and the room.",
-      "reflection": "Where in your life are you ready to embody dream, move with closure, and make space for compassion?",
+      "expandedMeaning": "Healing is the opening force of CLEAR SHORE. It draws from this truth: Pisces dissolves endings softly; 999 brings graceful completion. Closure is the active practice within CLEAR SHORE. It turns the pairing's message into a conscious way of moving, choosing, and responding. Transcendence is the signature alignment CLEAR SHORE is meant to ignite. It carries the promise of this blend forward: This candle supports gentle release, emotional healing, and moving forward with an open heart.",
+      "reflection": "What can CLEAR SHORE help you complete through Healing, release through Closure, and transform into Transcendence?",
       "websiteCopy": "Pisces dissolves endings softly; 999 brings graceful completion. This candle supports gentle release, emotional healing, and moving forward with an open heart.",
       "packagingCopy": "Pisces dissolves endings softly; 999 brings graceful completion. This candle supports gentle release, emotional healing, and moving forward with an open heart.",
       "socialCopy": "This candle supports gentle release, emotional healing, and moving forward with an open heart."
