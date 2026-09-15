@@ -10,11 +10,12 @@ The live brand spelling is **Ziyani**.
 
 ## Core Concept
 
-Ziyani is an intention-based candle and ritual fragrance brand built around a modular alignment system:
+Ziyani is a God-centered reflection candle brand built around a modular alignment system. It is faith-driven without requiring a customer to belong to a particular religion.
 
-- **Zodiac sign = base fragrance.** The person's energetic nature, temperament, and self-expression.
-- **Angel number = accent fragrance.** The timing, lesson, or energy the person wants to embody.
-- **Combined candle = lived alignment.** A scent and mood created from identity meeting current intention.
+- **Zodiac = God-given design language.** Each sign names human traits that can exist in every person; it does not define, limit, or control anyone.
+- **Angel number = moment of attention.** The number has no power and is not the message. It is a reminder to stop, reflect, pray if that is the person's practice, and listen for what God may be bringing to their attention.
+- **Combined pairing = signature alignment.** The zodiac traits and angel-number theme create a focused reflection for what a person may need to recognize, practice, or ignite in that moment.
+- **Candle and fragrance = atmosphere for the pause.** They do not guide, speak, reveal truth, predict outcomes, or replace God. Lighting the candle simply marks intentional time to become still and listen.
 
 The brand phrase is:
 
@@ -43,13 +44,25 @@ The product system creates **108 candle combinations**:
 
 ## Brand Promise
 
-Ziyani gives customers a candle that is not just decorative. Each candle is a reflection tool: a scent they choose because it mirrors who they are and what they are moving through.
+Ziyani gives customers a sensory reflection tool. The candle is never presented as the source of wisdom, direction, power, or signs. It creates atmosphere for a person to pause with a pairing's definition and listen for God's direction.
 
 When someone lights a Ziyani candle, the message is:
 
-- I am choosing alignment.
-- I am naming the energy I want to embody.
-- I am creating an atmosphere that supports that energy.
+- I am pausing on purpose.
+- I am recognizing qualities God placed within me.
+- I am listening for what God may be calling me to notice, practice, or change.
+- I am choosing to respond with intention.
+
+## Spiritual Agency Rule
+
+All Ziyani copy must preserve this order:
+
+1. God is the source of purpose, truth, and direction.
+2. The person pauses, reflects, listens, discerns, and chooses how to respond.
+3. The zodiac and angel-number pairing supplies symbolic language for that reflection.
+4. The candle and fragrance create atmosphere and mark the moment.
+
+Never say that a candle, fragrance, blend, zodiac, or number speaks, guides, asks, reveals truth, sends a sign, creates destiny, manifests an outcome, or holds spiritual power.
 
 ## Tone
 
@@ -64,7 +77,7 @@ The brand should feel:
 - intimate
 - premium but accessible
 
-Avoid language that feels too clinical, too occult, too vague, or too over-explained. The label language should be short, memorable, and emotionally clear.
+Avoid language that feels too clinical, occult, deterministic, vague, or over-explained. Avoid treating God as a marketing claim or claiming certainty about what God is saying. Use reflective language such as "may God be calling," "pause and listen," and "consider what God may be bringing to your attention." The label language should be short, memorable, emotionally clear, and humble.
 
 ## Product Architecture
 
@@ -117,16 +130,17 @@ This makes the system easy to recognize:
 
 ## Label Content System
 
-Each label needs:
+Each public label needs:
 
 - Brand: Ziyani
 - Zodiac sign
 - Angel number
 - Pairing title
-- Base fragrance
-- Accent fragrance
 - Three attributes
-- Optional short affirmation or product copy for web/catalog use
+- Combination definition
+- Reflection prompt
+
+Fragrance ingredients and formulas remain internal production information and are not part of public-facing spiritual meaning.
 
 Example from Libra:
 
@@ -135,9 +149,9 @@ ZIYANI
 LIBRA | 555
 FLUID BALANCE
 
-Rose & Bergamot
-+ Fresh Air Salted Woods
 Calm | Open | Balanced
+
+Pause. Reflect. Listen for what God may be bringing to your attention.
 ```
 
 ## Immediate Priorities
@@ -187,5 +201,4 @@ Ziyani/
 |   `-- Popups_Presentations
 `-- 99_Archive/
 ```
-
 
