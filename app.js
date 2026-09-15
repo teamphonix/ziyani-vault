@@ -162,6 +162,24 @@ const designAssets = {
   }
 };
 
+const zodiacCharacters = {
+  Aries: "./assets/characters/aries.png", Taurus: "./assets/characters/taurus.png",
+  Gemini: "./assets/characters/gemini.png", Cancer: "./assets/characters/cancer.png",
+  Leo: "./assets/characters/leo.png", Virgo: "./assets/characters/virgo.png",
+  Libra: "./assets/characters/libra.png", Scorpio: "./assets/characters/scorpio.png",
+  Sagittarius: "./assets/characters/sagittarius.png", Capricorn: "./assets/characters/capricorn.png",
+  Aquarius: "./assets/characters/aquarius.png", Pisces: "./assets/characters/pisces.png"
+};
+
+const packagingFaces = [
+  { face: "Front", purpose: "Primary identity", content: "Logo, character artwork, zodiac, angel number, approved blend name" },
+  { face: "Left Side", purpose: "Quick emotional signal", content: "Three approved theme words" },
+  { face: "Right Side", purpose: "Meaning", content: "Expanded meaning of the three words and what the pairing symbolizes" },
+  { face: "Back", purpose: "Reflection", content: "Short reflection, Ziyani brand message, and optional website or QR code" },
+  { face: "Top", purpose: "Shelf recognition", content: "Zodiac symbol or approved crest" },
+  { face: "Bottom", purpose: "Compliance", content: "Net weight, burn warning, maker/distributor details, batch or SKU fields, and other required legal copy" }
+];
+
 const startupPlan = [
   ["Week 1", "Set up the production space, choose one vessel, one wax path, and one tracking system."],
   ["Week 2", "Make unscented tests, then small Libra base tests. Learn wick placement and clean pouring."],
@@ -684,7 +702,7 @@ function comboCard(sign, number) {
   return `
     <article class="card combo-card" data-number="${number}">
       <h4>${zodiac.name} | ${number} | ${combo.title}</h4>
-      <div class="fragrance-line">${zodiac.fragrance} + ${angel.fragrance}</div>
+      <div class="fragrance-line">${zodiac.sign} × ${number}</div>
       <p>${combo.copy}</p>
       <div class="attributes">${combo.attributes.join(" | ")}</div>
     </article>
@@ -743,35 +761,66 @@ function renderCombinations(showAll = false) {
 function renderDesigns() {
   const sign = document.querySelector("#design-select").value;
   const zodiac = getZodiac(sign);
-  const data = designAssets[sign];
-  const items = data ? data.items : angels.map((angel) => ({
-    number: angel.number,
-    title: getCombo(sign, angel.number).title,
-    src: "",
-    status: "under construction"
-  }));
-  const brief = data?.brief || `${zodiac.sign} design is not built yet. Keep the angel-number color system from Libra, then create ${zodiac.sign}-specific imagery around: ${zodiac.imagery}`;
+  const avatar = zodiacCharacters[sign];
+  const brief = `${zodiac.sign} artwork is the locked character reference for future label, box, image, and video development. Preserve the character's defining silhouette, palette, symbols, and material language. Design imagery: ${zodiac.imagery}`;
   document.querySelector("#design-detail").innerHTML = `
     <div class="design-layout">
-      <article class="panel design-brief">
+      <article class="panel character-profile">
+        <img class="character-reference" src="${avatar}" alt="${zodiac.sign} approved character reference" />
+        <div>
         <p class="eyebrow">${zodiac.sign} - ${zodiac.name}</p>
-        <h3>Design Brief</h3>
+        <h3>Approved Character Reference</h3>
         <p>${brief}</p>
-        <p><strong>Base fragrance:</strong> ${zodiac.fragrance}</p>
+        <div class="status-pill">Master reference</div>
+        </div>
       </article>
       <div class="card-grid">
-        ${items.map((item) => `
+        ${angels.map((angel) => {
+          const combo = getCombo(sign, angel.number);
+          return `
           <article class="card design-card">
-            ${item.src ? `<img src="${item.src}" alt="${zodiac.sign} ${item.number} label design" />` : `<div class="placeholder-art"><strong>${zodiac.sign} ${item.number}</strong><br />Under construction</div>`}
+            <div class="placeholder-art"><strong>${zodiac.sign} ${angel.number}</strong><span>Character artwork</span><span>Box design</span><span>Label design</span></div>
             <div class="design-card-body">
-              <h4>${item.number} | ${item.title}</h4>
-              <div class="fragrance-line">${item.status}</div>
+              <p class="eyebrow">${angel.number} · ${angel.name}</p>
+              <h4>${combo.title}</h4>
+              <p>${combo.copy}</p>
+              <div class="attributes">${combo.attributes.join(" | ")}</div>
+              <div class="fragrance-line">Design status: not started</div>
             </div>
-          </article>
-        `).join("")}
+          </article>`;
+        }).join("")}
       </div>
     </div>
   `;
+}
+
+function renderDesignSystemGuides() {
+  document.querySelector("#design-panel-label-guide").innerHTML = `
+    <div class="guide-grid">
+      <article class="panel"><p class="eyebrow">Core rule</p><h3>Definition-first packaging</h3><p>Public packaging communicates the zodiac, angel number, blend name, combination definition, three theme words, expanded meaning, and reflection. Fragrance ingredients and oil notes remain internal.</p></article>
+      <article class="panel"><p class="eyebrow">Production rule</p><h3>Keep every word editable</h3><p>AI creates artwork only. Logos, names, numbers, definitions, legal copy, and typography must be placed as separate editable layers in the final design file.</p></article>
+    </div>
+    <div class="face-grid">${packagingFaces.map((item) => `<article class="card face-card"><p class="eyebrow">${item.face}</p><h4>${item.purpose}</h4><p>${item.content}</p></article>`).join("")}</div>
+    <article class="panel"><h3>Preflight checklist</h3><ul class="check-list"><li>Confirm the approved master entry before designing.</li><li>Use the locked character reference; do not regenerate character identity.</li><li>Place all text and logos as editable vector or type layers.</li><li>Keep copy inside the printer's safe area and extend artwork through bleed.</li><li>Proof spelling, number, zodiac, blend name, three words, legal copy, barcode/SKU, and net weight.</li><li>Export a print PDF and retain the editable source file.</li></ul></article>`;
+  document.querySelector("#design-panel-box-layout").innerHTML = `
+    <article class="panel"><p class="eyebrow">Master dieline workflow</p><h3>One printer-approved template, six independently designed faces</h3><p>Do not build final packaging until the exact box dimensions and printer dieline are confirmed. Keep cut, fold, bleed, safe-area, and glue-flap guides on locked non-printing layers.</p></article>
+    <div class="box-face-map">${packagingFaces.map((item, index) => `<article class="box-face"><span>${String(index + 1).padStart(2, "0")}</span><strong>${item.face}</strong><p>${item.content}</p></article>`).join("")}</div>
+    <article class="panel"><h3>Required source package</h3><p>Editable dieline file · linked artwork · fonts or outlined production copy · logo vectors · character master · color specifications · approved copy sheet · print PDF · proof approval record.</p></article>`;
+  document.querySelector("#design-panel-standards").innerHTML = `
+    <div class="standards-grid">
+      <article class="panel"><h3>Typography</h3><p>Maintain one approved display family, one readable supporting family, and a fixed hierarchy. Never bake type into AI artwork.</p></article>
+      <article class="panel"><h3>Logo Usage</h3><p>Use only approved logo files. Preserve clear space, proportions, contrast, and minimum size. Never ask an image model to redraw the logo.</p></article>
+      <article class="panel"><h3>Color</h3><p>Character palettes may vary by zodiac. Angel-number color cues must remain consistent across all twelve signs. Record production colors after physical proofing.</p></article>
+      <article class="panel"><h3>Print Specifications</h3><p>Use the printer's exact dieline, bleed, safe area, color profile, resolution, substrate, finish, and barcode requirements.</p></article>
+    </div>
+    <article class="panel"><h3>Asset structure</h3><div class="asset-tree"><span>Characters / 12 approved masters</span><span>Box Templates / printer dielines</span><span>Backgrounds / approved art only</span><span>Logos / vector and transparent exports</span><span>Zodiac Symbols / consistent icon set</span><span>Typography / licenses and hierarchy</span><span>Decorative Elements / reusable motifs</span><span>Labels / editable source + proofs</span><span>Packaging / editable source + print PDFs</span></div></article>`;
+}
+
+function setupDesignTabs() {
+  document.querySelectorAll(".design-tab").forEach((button) => button.addEventListener("click", () => {
+    document.querySelectorAll(".design-tab").forEach((item) => item.classList.toggle("active", item === button));
+    document.querySelectorAll(".design-panel").forEach((panel) => panel.classList.toggle("active", panel.id === `design-panel-${button.dataset.designPanel}`));
+  }));
 }
 
 function renderStaticLists() {
@@ -1109,7 +1158,7 @@ function init() {
   fillSelect(document.querySelector("#combo-zodiac-select"), zodiacs, (item) => item.sign, (item) => `${item.sign} - ${item.name}`);
   fillSelect(document.querySelector("#combo-angel-select"), angels, (item) => item.number, (item) => `${item.number} - ${item.name}`);
   fillSelect(document.querySelector("#design-select"), zodiacs, (item) => item.sign, (item) => `${item.sign} designs`);
-  document.querySelector("#design-select").value = "Libra";
+  document.querySelector("#design-select").value = "Leo";
 
   document.querySelectorAll(".nav-link").forEach((button) => button.addEventListener("click", () => setView(button.dataset.view)));
   document.querySelector("#zodiac-select").addEventListener("change", renderZodiac);
@@ -1118,6 +1167,8 @@ function init() {
   document.querySelector("#combo-angel-select").addEventListener("change", () => renderCombinations(false));
   document.querySelector("#show-all-combos").addEventListener("click", () => renderCombinations(true));
   document.querySelector("#design-select").addEventListener("change", renderDesigns);
+  renderDesignSystemGuides();
+  setupDesignTabs();
 
   renderStaticLists();
   renderZodiac();

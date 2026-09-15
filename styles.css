@@ -1091,6 +1091,29 @@ input {
   gap: 18px;
 }
 
+.design-system-intro { margin-bottom: 18px; }
+.design-tabs { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
+.design-tab { min-height: 42px; padding: 0 16px; border: 1px solid var(--line); border-radius: 6px; background: rgba(255,255,255,.035); color: var(--ink); cursor: pointer; font-weight: 800; }
+.design-tab.active { border-color: var(--gold); background: rgba(216,182,100,.14); color: #fff7df; }
+.design-panel { display: none; }
+.design-panel.active { display: block; }
+.character-profile { display: grid; grid-template-columns: minmax(240px, 42%) 1fr; gap: 24px; align-items: center; }
+.character-reference { width: 100%; max-height: 620px; object-fit: contain; border: 1px solid var(--line); background: #f3efe8; }
+.status-pill { display: inline-flex; padding: 7px 10px; border: 1px solid rgba(110,212,201,.45); color: var(--teal); font-size: 13px; font-weight: 800; }
+.placeholder-art { display: grid; align-content: center; gap: 6px; }
+.placeholder-art span { color: var(--muted); font-size: 13px; }
+.guide-grid, .standards-grid { display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: 16px; margin-bottom: 16px; }
+.face-grid { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 14px; margin-bottom: 16px; }
+.face-card h4, .face-card p { margin-bottom: 8px; }
+.check-list { display: grid; gap: 10px; padding-left: 20px; color: var(--muted); }
+.box-face-map { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 12px; margin: 16px 0; }
+.box-face { min-height: 180px; padding: 18px; border: 1px dashed rgba(216,182,100,.48); background: rgba(216,182,100,.055); }
+.box-face span { display: block; color: var(--gold); font-size: 12px; font-weight: 900; margin-bottom: 20px; }
+.box-face strong { font-size: 18px; }
+.box-face p { color: var(--muted); }
+.asset-tree { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 10px; }
+.asset-tree span { padding: 12px; border-left: 2px solid var(--plum); background: rgba(255,255,255,.035); }
+
 .design-brief {
   position: sticky;
   top: 24px;
@@ -1231,6 +1254,15 @@ input {
   .academy-columns,
   .grid.two,
   .grid.three {
+    grid-template-columns: 1fr;
+  }
+
+  .character-profile,
+  .guide-grid,
+  .standards-grid,
+  .face-grid,
+  .box-face-map,
+  .asset-tree {
     grid-template-columns: 1fr;
   }
 

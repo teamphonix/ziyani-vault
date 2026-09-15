@@ -332,13 +332,24 @@
         </section>
 
         <section id="view-designs" class="view">
-          <div class="tool-row wrap">
-            <label>
-              Design Library
-              <select id="design-select"></select>
-            </label>
+          <article class="panel design-system-intro">
+            <p class="eyebrow">Packaging operating system</p>
+            <h3>Designs are modular. Artwork is generated; brand text stays editable.</h3>
+            <p>Use this workspace to build every Ziyani package from the same approved character, copy, typography, logo, and print structure.</p>
+          </article>
+          <div class="design-tabs" role="tablist" aria-label="Design system sections">
+            <button class="design-tab active" data-design-panel="characters">Character Library</button>
+            <button class="design-tab" data-design-panel="label-guide">Label Making Guide</button>
+            <button class="design-tab" data-design-panel="box-layout">Box Layout</button>
+            <button class="design-tab" data-design-panel="standards">Standards & Assets</button>
           </div>
-          <div id="design-detail"></div>
+          <div id="design-panel-characters" class="design-panel active">
+            <div class="tool-row wrap"><label>Zodiac Character<select id="design-select"></select></label></div>
+            <div id="design-detail"></div>
+          </div>
+          <div id="design-panel-label-guide" class="design-panel"></div>
+          <div id="design-panel-box-layout" class="design-panel"></div>
+          <div id="design-panel-standards" class="design-panel"></div>
         </section>
 
         <section id="view-candles" class="view">
