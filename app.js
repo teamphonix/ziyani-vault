@@ -736,7 +736,15 @@ function renderDesigns() {
           const combo = getCombo(sign, angel.number);
           return `
           <article class="card design-card">
-            <div class="placeholder-art"><strong>${zodiac.sign} ${angel.number}</strong><span>Character artwork</span><span>Box design</span><span>Label design</span></div>
+            <div class="placeholder-art" aria-label="Design placeholder for ${zodiac.sign} ${angel.number}">
+              <span class="placeholder-label">Design placeholder</span>
+              <ol class="placeholder-details">
+                <li><strong>Zodiac</strong><span>${zodiac.sign}</span></li>
+                <li><strong>Angel Number</strong><span>${angel.number}</span></li>
+                <li><strong>Blend Name</strong><span>${combo.title}</span></li>
+                <li><strong>Three Theme Words</strong><span>${combo.attributes.join(" · ")}</span></li>
+              </ol>
+            </div>
             <div class="design-card-body">
               <p class="eyebrow">${angel.number} · ${angel.name}</p>
               <h4>${combo.title}</h4>
