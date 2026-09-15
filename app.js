@@ -291,15 +291,15 @@ const suppliers = [
 ];
 
 const classroomPoints = [
-  ["Ziyani model", "12 zodiac base fragrances combine with 9 angel-number accents to create 108 alignment candles."],
-  ["Light your alignment", "The candle is a prompt for atmosphere, reflection, intention, and embodied energy."],
-  ["Faith position", "Numbers do not hold power. God does. The numbers are reflection prompts, not objects of worship."],
+  ["Ziyani model", "Twelve zodiac trait systems combine with nine angel-number moments of attention to create 108 signature reflections."],
+  ["Light your alignment", "The candle creates atmosphere for an intentional pause; it is not the guide, message, or source."],
+  ["Faith position", "God is the source of purpose, truth, and direction. Numbers, candles, fragrances, and zodiac signs do not hold spiritual power."],
   ["Design system", "Angel number controls the color world. Zodiac controls the symbol, image, and story world."],
   ["Maker discipline", "Jocelyn should test wax, wick, vessel, fragrance load, cure time, and burn performance before selling."]
 ];
 
 const weeklyFocus = [
-  ["Brand language", "Practice saying what Ziyani is in one sentence: zodiac base plus angel-number accent, made to help people light their alignment."],
+  ["Brand language", "Practice saying what Ziyani is in one sentence: God-centered reflection candles that pair zodiac traits with angel-number moments of attention so people can pause, reflect, and listen."],
   ["Candle safety", "Memorize warning labels, melt pool behavior, wick testing, hot throw, cold throw, and proper cure time."],
   ["Libra proof line", "Use Libra as the test line for formula, label sizing, photography, customer explanation, and packaging feel."],
   ["Faith clarity", "Be ready to explain that Ziyani honors God and uses numbers only as moments to pause, reflect, and pray."]
@@ -396,7 +396,7 @@ const quizBank = [
   { q: "What does 555 represent in the angel-number accent system?", choices: ["Change, release, movement, and willingness to evolve", "Completion only", "Grounding only", "Relationship only"], answer: 0 },
   { q: "What does 888 represent in the angel-number accent system?", choices: ["Abundance, confidence, value, and magnetic attraction", "Closure", "Fresh start", "Protection only"], answer: 0 },
   { q: "What does 222 represent in the angel-number accent system?", choices: ["Balance, trust, relationship, and emotional steadiness", "Only money", "Only endings", "Only fire"], answer: 0 },
-  { q: "What is the best way to explain Ziyani quickly?", choices: ["Your zodiac is the base scent, your angel number is the accent, together they help you light your alignment", "It is only astrology", "It is only numerology", "It is only room spray"], answer: 0 },
+  { q: "What is the best way to explain Ziyani quickly?", choices: ["A God-centered reflection candle that uses zodiac traits and angel-number moments to help you pause, reflect, and listen", "It is only astrology", "It is only numerology", "The fragrance tells you what to do"], answer: 0 },
   { q: "What should Jocelyn do with the first $500-$1,000?", choices: ["Invest in learning, testing, tools, and repeatability", "Buy all possible inventory", "Spend it all on ads", "Order every jar style"], answer: 0 },
   { q: "What should the label cards communicate?", choices: ["Image, pairing title, fragrances, and three attributes", "Only price", "Only wax weight", "Only supplier names"], answer: 0 },
   { q: "What is The Harmonizer's accent fragrance?", choices: ["White Tea + Sheer Musk", "Golden Vanilla + Warm Resin", "Fresh Air + Salted Woods", "White Amber Citrus"], answer: 0 },
@@ -701,7 +701,7 @@ function renderAngel() {
       </article>
       <article class="panel">
         <h3>How To Use It</h3>
-        <p>The angel number shifts the zodiac base into the current energy the customer wants to embody.</p>
+        <p>The angel number marks a moment of attention and focuses the zodiac traits into qualities the customer may need to recognize or practice while listening for God's direction.</p>
       </article>
     </div>
     <div class="card-grid">${cards}</div>
