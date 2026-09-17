@@ -1120,6 +1120,55 @@ input {
 .design-panel.active { display: block; }
 .character-profile { display: grid; grid-template-columns: minmax(240px, 42%) 1fr; gap: 24px; align-items: center; }
 .character-reference { width: 100%; max-height: 620px; object-fit: contain; border: 1px solid var(--line); background: #f3efe8; }
+.design-carousel { min-width: 0; }
+.design-carousel-track {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+  border: 1px solid var(--line);
+  background: #17131c;
+}
+.design-carousel-track::-webkit-scrollbar { display: none; }
+.design-carousel-slide {
+  flex: 0 0 100%;
+  min-width: 100%;
+  margin: 0;
+  scroll-snap-align: start;
+  scroll-snap-stop: always;
+  position: relative;
+}
+.design-carousel-slide .character-reference { border: 0; }
+.design-carousel-slide figcaption {
+  position: absolute;
+  left: 12px;
+  bottom: 12px;
+  padding: 7px 10px;
+  border: 1px solid rgba(255,255,255,.22);
+  background: rgba(18,13,23,.82);
+  color: #fff7e8;
+  font-size: 12px;
+  font-weight: 900;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  backdrop-filter: blur(8px);
+}
+.mockup-reference { aspect-ratio: 1 / 1; object-fit: cover; }
+.design-carousel-controls { display: grid; grid-template-columns: 42px 1fr 42px; gap: 10px; align-items: center; margin-top: 10px; }
+.carousel-arrow {
+  min-height: 42px;
+  border: 1px solid var(--line);
+  background: rgba(255,255,255,.035);
+  color: var(--gold);
+  cursor: pointer;
+  font-size: 20px;
+}
+.carousel-arrow:hover, .carousel-arrow:focus-visible { border-color: var(--gold); background: rgba(216,182,100,.12); }
+.carousel-dots { display: flex; justify-content: center; gap: 9px; }
+.carousel-dot { width: 10px; height: 10px; padding: 0; border: 1px solid var(--gold); border-radius: 50%; background: transparent; cursor: pointer; }
+.carousel-dot.active { background: var(--gold); box-shadow: 0 0 0 4px rgba(216,182,100,.12); }
+.swipe-hint { margin: 9px 0 0; color: var(--muted); font-size: 12px; text-align: center; }
 .status-pill { display: inline-flex; padding: 7px 10px; border: 1px solid rgba(110,212,201,.45); color: var(--teal); font-size: 13px; font-weight: 800; }
 .placeholder-art { display: grid; align-content: center; gap: 14px; }
 .placeholder-label { color: var(--gold); font-size: 12px; font-weight: 900; letter-spacing: .08em; text-transform: uppercase; }
