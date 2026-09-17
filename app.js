@@ -130,6 +130,21 @@ const zodiacCharacters = {
   Aquarius: "./assets/characters/aquarius.png", Pisces: "./assets/characters/pisces.png"
 };
 
+const zodiacMockups = {
+  Aries: "./assets/mockups/aries-collection.webp",
+  Taurus: "./assets/mockups/taurus-collection.webp",
+  Gemini: "./assets/mockups/gemini-collection.webp",
+  Cancer: "./assets/mockups/cancer-collection.webp",
+  Leo: "./assets/mockups/leo-collection.webp",
+  Virgo: "./assets/mockups/virgo-collection.webp",
+  Libra: "./assets/mockups/libra-collection.webp",
+  Scorpio: "./assets/mockups/scorpio-collection.webp",
+  Sagittarius: "./assets/mockups/sagittarius-collection.webp",
+  Capricorn: "./assets/mockups/capricorn-collection.webp",
+  Aquarius: "./assets/mockups/aquarius-collection.webp",
+  Pisces: "./assets/mockups/pisces-collection.webp"
+};
+
 const packagingFaces = [
   { face: "Front", purpose: "Primary identity", content: "Logo, character artwork, zodiac, angel number, approved blend name" },
   { face: "Left Side", purpose: "Quick emotional signal", content: "Three approved theme words" },
@@ -719,11 +734,32 @@ function renderDesigns() {
   const sign = document.querySelector("#design-select").value;
   const zodiac = getZodiac(sign);
   const avatar = zodiacCharacters[sign];
+  const mockup = zodiacMockups[sign];
   const brief = `${zodiac.sign} artwork is the locked character reference for future label, box, image, and video development. Preserve the character's defining silhouette, palette, symbols, and material language. Design imagery: ${zodiac.imagery}`;
   document.querySelector("#design-detail").innerHTML = `
     <div class="design-layout">
       <article class="panel character-profile">
-        <img class="character-reference" src="${avatar}" alt="${zodiac.sign} approved character reference" />
+        <div class="design-carousel" data-design-carousel>
+          <div class="design-carousel-track" tabindex="0" aria-label="${zodiac.sign} design references. Swipe to compare.">
+            <figure class="design-carousel-slide">
+              <img class="character-reference" src="${avatar}" alt="${zodiac.sign} approved character reference" loading="lazy" decoding="async" />
+              <figcaption>Approved avatar</figcaption>
+            </figure>
+            <figure class="design-carousel-slide">
+              <img class="character-reference mockup-reference" src="${mockup}" alt="${zodiac.sign} nine-label sample mockups" loading="lazy" decoding="async" />
+              <figcaption>Nine-label sample mockups</figcaption>
+            </figure>
+          </div>
+          <div class="design-carousel-controls">
+            <button class="carousel-arrow" type="button" data-carousel-prev aria-label="Show approved avatar">←</button>
+            <div class="carousel-dots" aria-label="Choose design reference">
+              <button class="carousel-dot active" type="button" data-carousel-dot="0" aria-label="Show approved avatar" aria-current="true"></button>
+              <button class="carousel-dot" type="button" data-carousel-dot="1" aria-label="Show nine-label sample mockups"></button>
+            </div>
+            <button class="carousel-arrow" type="button" data-carousel-next aria-label="Show nine-label sample mockups">→</button>
+          </div>
+          <p class="swipe-hint">Swipe to compare avatar and sample mockups</p>
+        </div>
         <div>
         <p class="eyebrow">${zodiac.sign} - ${zodiac.name}</p>
         <h3>Approved Character Reference</h3>
@@ -752,13 +788,39 @@ function renderDesigns() {
               <div class="attributes">${combo.attributes.join(" | ")}</div>
               <div class="word-meanings">${combo.attributes.map((word) => `<p><strong>${word}</strong> ${combo.wordMeanings[word] || ""}</p>`).join("")}</div>
               <p class="reflection"><strong>Reflection</strong> ${combo.reflection}</p>
-              <div class="fragrance-line">Copy status: ${combo.status} · Design status: not started</div>
+              <div class="fragrance-line">Copy status: ${combo.status} · Visual reference: collection mockup available</div>
             </div>
           </article>`;
         }).join("")}
       </div>
     </div>
   `;
+  setupDesignCarousel();
+}
+
+function setupDesignCarousel() {
+  const carousel = document.querySelector("[data-design-carousel]");
+  if (!carousel) return;
+  const track = carousel.querySelector(".design-carousel-track");
+  const dots = [...carousel.querySelectorAll("[data-carousel-dot]")];
+  const showSlide = (index) => {
+    const nextIndex = Math.max(0, Math.min(1, index));
+    track.scrollTo({ left: track.clientWidth * nextIndex, behavior: "smooth" });
+    dots.forEach((dot, dotIndex) => {
+      dot.classList.toggle("active", dotIndex === nextIndex);
+      dot.setAttribute("aria-current", dotIndex === nextIndex ? "true" : "false");
+    });
+  };
+  carousel.querySelector("[data-carousel-prev]").addEventListener("click", () => showSlide(0));
+  carousel.querySelector("[data-carousel-next]").addEventListener("click", () => showSlide(1));
+  dots.forEach((dot) => dot.addEventListener("click", () => showSlide(Number(dot.dataset.carouselDot))));
+  track.addEventListener("scroll", () => {
+    const index = track.scrollLeft > track.clientWidth / 2 ? 1 : 0;
+    dots.forEach((dot, dotIndex) => {
+      dot.classList.toggle("active", dotIndex === index);
+      dot.setAttribute("aria-current", dotIndex === index ? "true" : "false");
+    });
+  }, { passive: true });
 }
 
 function renderDesignSystemGuides() {
