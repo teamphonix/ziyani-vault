@@ -433,7 +433,7 @@ const milestones = [
 
 const loginCredentials = {
   name: "Jocelyn",
-  password: "Jocelyn123!"
+  password: "Blaezi123!"
 };
 
 function getZodiac(sign) {
